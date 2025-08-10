@@ -1,7 +1,6 @@
 class Solution {
 public:
     int myAtoi(string s) {
-        string ans;
         int n=s.size();
         int i=0;
         while(i<n && s[i]==' '){
