@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/RauRaj881/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RauRaj881/DSA/tree/master/0079-word-search) |
 | [0794-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0794-swim-in-rising-water) |
 ## Binary Search
@@ -63,6 +64,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/RauRaj881/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RauRaj881/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/RauRaj881/DSA/tree/master/0131-palindrome-partitioning) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/RauRaj881/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
