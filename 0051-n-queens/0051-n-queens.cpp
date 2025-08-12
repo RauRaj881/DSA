@@ -42,12 +42,12 @@ void solve(int col,vector<vector<string>> &ans,vector<string> &board,int n){
 }
     vector<vector<string>> solveNQueens(int n) {
         vector<vector<string>> ans;
-        /*vector<string> board(n);
+        vector<string> board(n);
         string s(n,'.');
         for(int i=0;i<n;i++){
-            board.push_back(s);
-        }*/
-        vector<string> board(n, string(n, '.'));
+            board[i]=s;
+        }
+        //vector<string> board(n, string(n, '.'));
         solve(0,ans,board,n);
         return ans;
     }
