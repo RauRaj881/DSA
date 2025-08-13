@@ -17,7 +17,7 @@ int recur(int ind,vector<int> &dp,vector<int>& nums){
     }
 };*/
 //tabulation
-class Solution {
+/*class Solution {
 public:
     int rob(vector<int>& nums) {
         int n=nums.size();
@@ -32,5 +32,23 @@ public:
             dp[i]=max(take,nottake);
         }
         return dp[n-1];
+    }
+};*/
+// space optimization
+class Solution {
+public:
+    int rob(vector<int>& nums) {
+        int n=nums.size();
+        int prev=0;
+int prev2=0;
+int curr;
+for(int i=0;i<n;i++){
+    int take=nums[i]+prev2;
+    int nottake=prev;
+    curr=max(take,nottake);
+    prev2=prev;
+    prev=curr;
+}
+return curr;
     }
 };
