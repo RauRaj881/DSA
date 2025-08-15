@@ -57,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/RauRaj881/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RauRaj881/DSA/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/RauRaj881/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RauRaj881/DSA/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/RauRaj881/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/RauRaj881/DSA/tree/master/0198-house-robber) |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/RauRaj881/DSA/tree/master/0037-sudoku-solver) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/RauRaj881/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
