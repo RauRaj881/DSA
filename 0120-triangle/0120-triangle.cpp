@@ -18,7 +18,8 @@ int mintri(int x,int y,vector<vector<int>> &dp,vector<vector<int>>& triangle,int
         return mintri(0,0,dp,triangle,m);
     }
 };*/
-class Solution {
+// tabulation (reduced recursion stack space)
+/*class Solution {
 public:
     int minimumTotal(vector<vector<int>>& triangle) {
         int m=triangle.size();
@@ -35,5 +36,26 @@ public:
             }
         }
         return dp[0][0];
+    }
+};*/
+// space optimized
+class Solution {
+public:
+    int minimumTotal(vector<vector<int>>& triangle) {
+         int m=triangle.size();
+        vector<int> prev(m,0);
+        for(int j=0;j<=m-1;j++){
+            prev[j]=triangle[m-1][j];
+        }
+        for(int i=m-2;i>=0;i--){
+            vector<int> curr(m,0);
+            for(int j=0;j<=i;j++){
+                int down=triangle[i][j]+prev[j];
+                int diagonal=triangle[i][j]+prev[j+1];
+                curr[j]=min(down,diagonal);
+            }
+            prev=curr;
+        }
+        return prev[0];
     }
 };
