@@ -27,7 +27,7 @@ bool SubSumUtil(int index,int target,vector<vector<int>> &dp,vector<int>&nums){
     }
 };*/
 // tabulation
-class Solution {
+/*class Solution {
 public:
     bool canPartition(vector<int>& nums) {
         int n=nums.size();
@@ -55,5 +55,37 @@ public:
                 }
             }
             return dp[n-1][target];
+    }
+};*/
+//space optimization
+class Solution {
+public:
+    bool canPartition(vector<int>& nums) {
+        int n=nums.size();
+        int sum=0;
+        for(auto it:nums){
+            sum+=it;
+        }
+        if(sum%2==1){return false;}
+            int target=sum/2;
+            vector<bool> prev(target+1,0);
+            prev[0]=1;
+            if(nums[0]<=target){
+                prev[nums[0]]=1;
+            }
+            for(int i=1;i<n;i++){
+                vector<bool> curr(target+1);
+                curr[0]=1;
+                for(sum=1;sum<=target;sum++){
+                    bool nottake=prev[sum];
+                    bool take=0;
+                    if(nums[i]<=sum){
+                        take=prev[sum-nums[i]];
+                    }
+                    curr[sum]=take||nottake;
+                }
+                prev=curr;
+            }
+            return prev[target];
     }
 };
