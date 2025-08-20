@@ -23,7 +23,7 @@ int coinchange(int index,int amount, vector<vector<int>> &dp,vector<int>& coins)
     }
 };*/
 //tabulation
-class Solution {
+/*class Solution {
 public:
     int coinChange(vector<int>& coins, int amount) {
         int n=coins.size();
@@ -45,6 +45,33 @@ public:
             }
         }
         if(dp[n-1][amount]!=1e9){return dp[n-1][amount];;}
+        return -1;
+    }
+};*/
+class Solution {
+public:
+    int coinChange(vector<int>& coins, int amount) {
+        int n=coins.size();
+        vector<int> prev(amount+1,0);
+        for(int sum=0;sum<=amount;sum++){
+        if(sum%coins[0]==0){
+            prev[sum]=sum/coins[0];
+        }
+        else prev[sum]=1e9;
+        }
+        for(int i=1;i<n;i++){
+            vector<int> curr(amount+1);
+            for(int sum=0;sum<=amount;sum++){
+                int nottake=prev[sum];
+                int take=1e9;
+                if(coins[i]<=sum){
+                    take=1+curr[sum-coins[i]];
+                }
+                curr[sum]=min(take,nottake);
+            }
+            prev=curr;
+        }
+        if(prev[amount]!=1e9){return prev[amount];}
         return -1;
     }
 };
