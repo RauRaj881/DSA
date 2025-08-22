@@ -17,12 +17,19 @@ int cochange(int index,vector<vector<int>> &dp, vector<int>& coins,int amount){
     return dp[index][amount]=take+nottake;
 }
     int change(int amount, vector<int>& coins) {
-        int totsum=0;
         int n=coins.size();
-        for(auto it:coins){
-            totsum+=it;
-        }
         vector<vector<int>> dp(n,vector<int>(5001,-1));
         return cochange(n-1,dp,coins,amount);
     }
-};
+};/*
+//tabulation
+class Solution {
+public:
+    int change(int amount, vector<int>& coins) {
+        int n=coins.size();
+        vector<vector<int>> dp(n,vector<int>(5001,-1));
+        return cochange(n-1,dp,coins,amount);
+
+        
+    }
+};*/
