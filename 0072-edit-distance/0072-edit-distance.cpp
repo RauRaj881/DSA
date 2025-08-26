@@ -22,7 +22,8 @@ int mind(int index1,int index2,vector<vector<int>> &dp,string &word1, string &wo
         return mind(n-1,m-1,dp,word1,word2); 
     }
 };*/
-class Solution {
+//tabulation
+/*class Solution {
 public:
     int minDistance(string word1, string word2) {
         int n=word1.size();
@@ -48,5 +49,33 @@ public:
             }
         }
         return dp[n][m];
+    }
+};*/
+class Solution {
+public:
+    int minDistance(string word1, string word2) {
+        int n=word1.size();
+        int m=word2.size();
+        vector<int> prev(m+1,0);
+        for(int j=0;j<=m;j++){
+            prev[j]=j;
+        }
+        for(int i=1;i<=n;i++){
+            vector<int> curr(m+1);
+            curr[0]=i;
+            for(int j=1;j<=m;j++){
+                 if(word1[i-1]==word2[j-1]){
+                 curr[j]=prev[j-1];
+            }
+       else{
+        int del=1+prev[j];
+        int insert=1+curr[j-1];
+        int replace=1+prev[j-1];
+        curr[j]=min(del,min(insert,replace));
+              }
+            }
+            prev=curr;
+        }
+        return prev[m];
     }
 };
