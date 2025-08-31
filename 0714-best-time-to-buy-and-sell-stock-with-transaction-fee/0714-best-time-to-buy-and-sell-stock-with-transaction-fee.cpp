@@ -19,7 +19,7 @@ int ss(int index,int buy,vector<int>& prices,vector<vector<int>> &dp,int n,int f
     }
 };*/
 //tabulation
-class Solution {
+/*class Solution {
 public:
     int maxProfit(vector<int>& prices, int fee) {
         int n=prices.size();
@@ -35,5 +35,26 @@ public:
             }
         }
         return dp[0][0];
+    }
+};*/
+//space optimization
+class Solution {
+public:
+    int maxProfit(vector<int>& prices, int fee) {
+         int n=prices.size();
+        vector<int> prev(2,0);
+        for(int i=n-1;i>=0;i--){
+             vector<int> curr(2);
+            for(int buy=0;buy<=1;buy++){
+                 if(buy==0){
+               curr[buy]=max(-prices[i]+prev[1-buy],prev[buy]);
+    }
+                 else{
+                 curr[buy]=max(-fee+prices[i]+prev[1-buy],prev[buy]);
+    }        
+            }
+            prev=curr;
+        }
+        return prev[0]; 
     }
 };
