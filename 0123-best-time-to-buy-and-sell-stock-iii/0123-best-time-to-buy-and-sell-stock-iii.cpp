@@ -22,7 +22,7 @@ int recur(int index,int x,int k,int n,vector<int>& prices, vector<vector<vector<
     }
 };*/
 //tabulation
-class Solution {
+/*class Solution {
 public:
     int maxProfit(vector<int>& prices) {
         int n=prices.size();
@@ -40,5 +40,28 @@ public:
             }
         }
         return dp[0][0][0];
+    }
+};*/
+//space optimization
+class Solution {
+public:
+    int maxProfit(vector<int>& prices) {
+         int n=prices.size();
+        vector<vector<int>> prev(2,vector<int>(3,0));
+        for(int i=n-1;i>=0;i--){
+            vector<vector<int>> curr(2,vector<int>(3));
+            for(int j=0;j<=1;j++){
+            for(int k=0;k<=1;k++){
+                if(j==0){
+                    curr[j][k]=max(-prices[i]+prev[1][k],prev[0][k]);
+                }
+                else{
+                    curr[j][k]=max(prices[i]+prev[0][k+1],prev[1][k]);
+                }
+            }
+            }
+            prev=curr;
+        }
+        return prev[0][0];
     }
 };
