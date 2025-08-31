@@ -20,7 +20,7 @@ int ss(int index,int buy,int x,vector<int>& prices,vector<vector<vector<int>>> &
     }
 };*/
 // tabulation
-class Solution {
+/*class Solution {
 public:
     int maxProfit(int k, vector<int>& prices) {
         int n=prices.size();
@@ -38,5 +38,27 @@ public:
             }
         }
         return dp[0][0][0];
+    }
+};*/
+class Solution {
+public:
+    int maxProfit(int k, vector<int>& prices) {
+        int n=prices.size();
+        vector<vector<int>> prev(2,vector<int>(k+1,0));
+        for(int i=n-1;i>=0;i--){
+            vector<vector<int>> curr(2,vector<int>(k+1));
+            for(int buy=0;buy<=1;buy++){
+                for(int x=0;x<k;x++){
+                    if(buy==0){
+                curr[buy][x]=max(-prices[i]+prev[1-buy][x],prev[buy][x]);
+                    }
+                    else{
+                    curr[buy][x]=max(prices[i]+prev[1-buy][x+1],prev[buy][x]);
+                    }
+                }
+            }
+            prev=curr;
+        }
+        return prev[0][0];
     }
 };
