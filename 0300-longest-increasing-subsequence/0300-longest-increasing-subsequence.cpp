@@ -18,7 +18,7 @@ int LIS(int index,int prev,vector<int>& nums,vector<vector<int>> &dp,int n){
     }
 };*/
 //tabulation
-class Solution {
+/*class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
         int n=nums.size();
@@ -34,5 +34,26 @@ public:
             }
         }
         return dp[0][0];
+    }
+};*/
+//space optimization
+class Solution {
+public:
+    int lengthOfLIS(vector<int>& nums) {
+        int n=nums.size();
+        vector<int> pre(n+1,0);
+        for(int i=n-1;i>=0;i--){
+            vector<int> curr(n+1);
+            for(int prev=-1;prev<i;prev++){
+                int nottake=pre[prev+1];
+             int take=0;
+            if(prev==-1||nums[i]>nums[prev]){
+            take=1+pre[i+1];
+            }
+          curr[prev+1]=max(take,nottake);
+            }
+            pre=curr;
+        }
+        return pre[0];
     }
 };
