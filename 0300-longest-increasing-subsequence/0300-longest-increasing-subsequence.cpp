@@ -37,7 +37,7 @@ public:
     }
 };*/
 //space optimization
-class Solution {
+/*class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
         int n=nums.size();
@@ -55,5 +55,25 @@ public:
             pre=curr;
         }
         return pre[0];
+    }
+};*/
+// special solution
+class Solution {
+public:
+    int lengthOfLIS(vector<int>& nums) {
+        int n=nums.size();
+        vector<int> dp(n,1);
+        for(int i=0;i<n;i++){
+            for(int prev=0;prev<i;prev++){
+                if(nums[prev]<nums[i]){
+                    dp[i]=max(dp[i],1+dp[prev]);
+                }
+            }
+        }
+        int maxno=0;
+        for(int i=0;i<n;i++){
+            maxno=max(maxno,dp[i]);
+        }
+        return maxno;
     }
 };
