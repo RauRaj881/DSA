@@ -2,27 +2,26 @@ class Solution {
 public:
 int f(vector<int> &heights){
     stack<int> st;
-        int maxa=0;
-        int pse=-1,nse;
-        for(int i=0;i<heights.size();i++){
-            while(!st.empty()&&heights[st.top()]>heights[i]){
-                int x=st.top();
-                st.pop();
-                if(!st.empty()){pse=st.top();}
-                else{pse=-1;}
-                maxa=max(maxa,heights[x]*(i-(pse+1)));
-            }
-            st.push(i);
-        }
-        nse=heights.size();
-        while(!st.empty()){
-             int x=st.top();
+    int maxa=0;
+    for(int j=0;j<heights.size();j++){
+        while(!st.empty()&&heights[j]<heights[st.top()]){
+            int x=st.top();
             st.pop();
+            int pse=-1;
             if(!st.empty()){pse=st.top();}
-                else{pse=-1;}
-            maxa=max(maxa,heights[x]*(nse-(pse+1)));
+            maxa=max(maxa,heights[x]*(j-(pse+1)));
         }
-        return maxa;
+        st.push(j);
+    }
+    int nse=heights.size();
+    while(!st.empty()){
+        int x=st.top();
+        st.pop();
+        int pse=-1;
+        if(!st.empty()){pse=st.top();}
+        maxa=max(maxa,heights[x]*(nse-(pse+1)));
+    }
+    return maxa;
 }
     int maximalRectangle(vector<vector<char>>& matrix) {
         int n=matrix.size();
