@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/RauRaj881/DSA/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/RauRaj881/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RauRaj881/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/RauRaj881/DSA/tree/master/0231-power-of-two) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/RauRaj881/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/RauRaj881/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RauRaj881/DSA/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/RauRaj881/DSA/tree/master/0231-power-of-two) |
