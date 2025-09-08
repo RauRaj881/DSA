@@ -15,9 +15,9 @@ public:
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int x=0;
-        for(auto it:nums){
-            x=x^it;
+        int x=nums[0];
+        for(int i=1;i<nums.size();i++){
+            x=x^nums[i];
         }
         return x;
     }
