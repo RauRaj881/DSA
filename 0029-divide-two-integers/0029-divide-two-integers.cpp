@@ -1,7 +1,6 @@
 class Solution {
 public:
     int divide(int dividend, int divisor) {
-        //if (dividend == INT_MIN && divisor == -1) return INT_MAX;
         long long sign=1;
         if((dividend>=0&&divisor<0)||(dividend<0&&divisor>0)){sign=-1;}
         if(dividend==divisor){return 1;}
