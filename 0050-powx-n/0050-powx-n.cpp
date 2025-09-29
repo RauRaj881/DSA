@@ -1,18 +1,18 @@
 class Solution {
 public:
     int ans=1;
-    double myPow(double x, int n) {
-        int m=n;
-        n=abs(n);
+    double myPow(double x, long long n) {
+        double m=n;
+        long long exp=abs(n);
         double ans=1;
-        while(n!=0){
-            if(n%2==0){
+        while(exp!=0){
+            if(exp%2==0){
                 x*=x;
-                n/=2;
+                exp/=2;
             }
             else{
                 ans*=x;
-                n-=1;
+                exp-=1;
             }
 
         }
