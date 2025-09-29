@@ -3,16 +3,16 @@ public:
     int ans=1;
     double myPow(double x, long long n) {
         double m=n;
-        long long exp=abs(n);
+        n=abs(n);
         double ans=1;
-        while(exp!=0){
-            if(exp%2==0){
+        while(n!=0){
+            if(n%2==0){
                 x*=x;
-                exp/=2;
+                n/=2;
             }
             else{
                 ans*=x;
-                exp-=1;
+                n-=1;
             }
 
         }
