@@ -4,15 +4,14 @@ public:
         if(n==1){return "1";}
         string say=countAndSay(n-1);
         string ans="";
-        int i=0;
-        while(i<say.length()){
+        for(int i=0;i<say.length();i++){
             char c=say[i];
             int count=0;
             while(say[i]==c){
                 count++;
                 i++;
             }
-            //i--;
+            i--;
             string s=to_string(count);
             ans+=s;
             ans.push_back(c);
