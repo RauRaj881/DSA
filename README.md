@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/RauRaj881/DSA/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/RauRaj881/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/RauRaj881/DSA/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/RauRaj881/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/RauRaj881/DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/RauRaj881/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/RauRaj881/DSA/tree/master/0131-palindrome-partitioning) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RauRaj881/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/RauRaj881/DSA/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/RauRaj881/DSA/tree/master/0076-minimum-window-substring) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RauRaj881/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/RauRaj881/DSA/tree/master/1129-longest-string-chain) |
 ## Combinatorics
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/RauRaj881/DSA/tree/master/0076-minimum-window-substring) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RauRaj881/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
