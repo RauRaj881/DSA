@@ -12,9 +12,8 @@ public:
         int startl=-1,minr=0;
         int minlength=m;
         while(r<m){
-            char c=s[r];
-            if(mp[c]>0){cnt++;};
-            mp[c]--;
+            if(mp[s[r]]>0){cnt++;};
+            mp[s[r]]--;
             while(l<=r&&cnt>=n){
                 if(r-l+1<=minlength){minlength=r-l+1;startl=l;}
                 mp[s[l]]++;
@@ -23,7 +22,6 @@ public:
             }
             r++;
         }
-        //if(s==t){return s;}
         if(startl==-1){return s.substr(0,0);}
         return s.substr(startl,minlength); 
     }
