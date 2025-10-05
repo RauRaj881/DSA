@@ -23,8 +23,8 @@ public:
             }
             r++;
         }
-        if(s==t){return s;}
-        else if(startl==-1){return s.substr(0,0);}
+        //if(s==t){return s;}
+        if(startl==-1){return s.substr(0,0);}
         return s.substr(startl,minlength); 
     }
 };
