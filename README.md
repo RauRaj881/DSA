@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/RauRaj881/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/RauRaj881/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/RauRaj881/DSA/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/RauRaj881/DSA/tree/master/0525-contiguous-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RauRaj881/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RauRaj881/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0794-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0794-swim-in-rising-water) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RauRaj881/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/RauRaj881/DSA/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/RauRaj881/DSA/tree/master/0076-minimum-window-substring) |
+| [0525-contiguous-array](https://github.com/RauRaj881/DSA/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/RauRaj881/DSA/tree/master/0567-permutation-in-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RauRaj881/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/RauRaj881/DSA/tree/master/1129-longest-string-chain) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RauRaj881/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/RauRaj881/DSA/tree/master/0525-contiguous-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
