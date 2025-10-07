@@ -6,7 +6,7 @@ public:
         for(long long i=2;i<n;i++){
             if(prime[i]==1){
                 cnt++;
-                for(long long j=i*i;j<n;j+=i){
+                for(long long j=i;j<n;j+=i){
                 prime[j]=0;
             }
             }
@@ -14,3 +14,5 @@ public:
         return cnt;
     }
 };
+//TC=O(nlog(logn)) just remember it.(Sieve of Eratosthenes)
+//SC=O(n)
