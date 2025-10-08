@@ -17,7 +17,7 @@ public:
             for(int i=0;i<word.size();i++){
                 for(int j='a';j<='z';j++){
                     string curr=word;
-                    curr[i]=j;
+                    curr[i]=char(j);
                     if(u.find(curr)!=u.end()){
                         q.push({curr,level+1});
                         u.erase(curr);
