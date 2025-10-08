@@ -18,8 +18,8 @@ public:
                     vector<int> temp=temp1;
                     vector<int> cut(temp.begin()+l,temp.begin()+r+1);
                     temp.erase(temp.begin()+l,temp.begin()+r+1);
-                   // vector<int> rem=temp;
-                    int remsize=temp.size();
+                    vector<int> rem=temp; 
+                    int remsize=rem.size();
                     for(int i=0;i<remsize;i++){
                         vector<int> curr=temp;
                         curr.insert(curr.begin()+i,cut.begin(),cut.end());
@@ -36,3 +36,4 @@ public:
         return 0;
     }
 };
+//yaha pe 1 bar substring cut + merge matlab agle level pe chale gaye.
