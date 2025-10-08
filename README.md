@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RauRaj881/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/RauRaj881/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/RauRaj881/DSA/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/RauRaj881/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/RauRaj881/DSA/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RauRaj881/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/RauRaj881/DSA/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/RauRaj881/DSA/tree/master/1034-subarrays-with-k-different-integers) |
+## Simulation
+|  |
+| ------- |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/RauRaj881/DSA/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 <!---LeetCode Topics End-->
