@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RauRaj881/DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/RauRaj881/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/RauRaj881/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/RauRaj881/DSA/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/RauRaj881/DSA/tree/master/0063-unique-paths-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RauRaj881/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/RauRaj881/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/RauRaj881/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0794-swim-in-rising-water) |
@@ -330,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/RauRaj881/DSA/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RauRaj881/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
