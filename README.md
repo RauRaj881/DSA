@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RauRaj881/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RauRaj881/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/RauRaj881/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/RauRaj881/DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3928-split-and-merge-array-transformation](https://github.com/RauRaj881/DSA/tree/master/3928-split-and-merge-array-transformation) |
 | [4005-maximum-total-subarray-value-i](https://github.com/RauRaj881/DSA/tree/master/4005-maximum-total-subarray-value-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/RauRaj881/DSA/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/RauRaj881/DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RauRaj881/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RauRaj881/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/RauRaj881/DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Depth-First Search
 |  |
 | ------- |
