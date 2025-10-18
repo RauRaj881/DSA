@@ -11,7 +11,6 @@ public:
                 cnt++;
             }
             else if(nums[i]-k>prev+1){prev=nums[i]-k;cnt++;}
-            //else if(nums[i]+k>prev+1)
         }
         return cnt;
     }
