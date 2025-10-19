@@ -4,11 +4,11 @@ public:
         int n=rains.size();
         set<int> st;
         unordered_map<int,int> mp;
-        vector<int> ans(n);
+        vector<int> ans(n,1);
         for(int i=0;i<n;i++){
             if(rains[i]==0){
                 st.insert(i);
-                ans[i]=67;
+                //ans[i]=67;
             }
             else{
                 if(!mp.count(rains[i])){ans[i]=-1;}
