@@ -8,7 +8,6 @@ public:
         for(int i=0;i<n;i++){
             if(rains[i]==0){
                 st.insert(i);
-                //ans[i]=67;
             }
             else{
                 if(!mp.count(rains[i])){ans[i]=-1;}
@@ -18,7 +17,7 @@ public:
                     else{
                         ans[*it]=rains[i];
                         st.erase(it);
-                        mp.erase(rains[i]);
+                        //mp.erase(rains[i]);
                         ans[i]=-1;
                     }
                 }
