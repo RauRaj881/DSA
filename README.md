@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RauRaj881/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/RauRaj881/DSA/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/RauRaj881/DSA/tree/master/0216-combination-sum-iii) |
+| [0274-h-index](https://github.com/RauRaj881/DSA/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/RauRaj881/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RauRaj881/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/RauRaj881/DSA/tree/master/0322-coin-change) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RauRaj881/DSA/tree/master/0088-merge-sorted-array) |
+| [0274-h-index](https://github.com/RauRaj881/DSA/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/RauRaj881/DSA/tree/master/0368-largest-divisible-subset) |
 | [1129-longest-string-chain](https://github.com/RauRaj881/DSA/tree/master/1129-longest-string-chain) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/RauRaj881/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -365,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RauRaj881/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/RauRaj881/DSA/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
