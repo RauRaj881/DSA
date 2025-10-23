@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RauRaj881/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/RauRaj881/DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/RauRaj881/DSA/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/RauRaj881/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/RauRaj881/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/RauRaj881/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/RauRaj881/DSA/tree/master/0518-coin-change-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/RauRaj881/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/RauRaj881/DSA/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/RauRaj881/DSA/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/RauRaj881/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/RauRaj881/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RauRaj881/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/RauRaj881/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/RauRaj881/DSA/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/RauRaj881/DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/RauRaj881/DSA/tree/master/0127-word-ladder) |
+| [0380-insert-delete-getrandom-o1](https://github.com/RauRaj881/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/RauRaj881/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/RauRaj881/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RauRaj881/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -398,4 +401,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/RauRaj881/DSA/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/RauRaj881/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/RauRaj881/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
