@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
         int n=nums.size();
@@ -17,5 +17,23 @@ public:
             else{nums[i]=preprod[i-1]*sufprod[i+1];}
         }
         return nums;
+    }
+};*/
+//O(1) space
+class Solution {
+public:
+    vector<int> productExceptSelf(vector<int>& nums) {
+        int n=nums.size();
+        int prod1=1,prod2=1;
+        vector<int> ans(n);
+        for(int i=0;i<n;i++){
+            ans[i]=prod1;
+            prod1*=nums[i];
+        }
+        for(int i=n-1;i>=0;i--){
+            ans[i]*=prod2;
+            prod2*=nums[i];
+        }
+        return ans;
     }
 };
