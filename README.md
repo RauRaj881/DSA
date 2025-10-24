@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/RauRaj881/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/RauRaj881/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RauRaj881/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/RauRaj881/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/RauRaj881/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/RauRaj881/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/RauRaj881/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/RauRaj881/DSA/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/RauRaj881/DSA/tree/master/0494-target-sum) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/RauRaj881/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/RauRaj881/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RauRaj881/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1612-avoid-flood-in-the-city](https://github.com/RauRaj881/DSA/tree/master/1612-avoid-flood-in-the-city) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/RauRaj881/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/RauRaj881/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RauRaj881/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3928-split-and-merge-array-transformation](https://github.com/RauRaj881/DSA/tree/master/3928-split-and-merge-array-transformation) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/RauRaj881/DSA/tree/master/0204-count-primes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RauRaj881/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/RauRaj881/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/RauRaj881/DSA/tree/master/1034-subarrays-with-k-different-integers) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/RauRaj881/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RauRaj881/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Simulation
 |  |
