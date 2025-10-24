@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RauRaj881/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RauRaj881/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/RauRaj881/DSA/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/RauRaj881/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RauRaj881/DSA/tree/master/0136-single-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RauRaj881/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/RauRaj881/DSA/tree/master/0198-house-robber) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/RauRaj881/DSA/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RauRaj881/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/RauRaj881/DSA/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/RauRaj881/DSA/tree/master/0135-candy) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RauRaj881/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RauRaj881/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1612-avoid-flood-in-the-city](https://github.com/RauRaj881/DSA/tree/master/1612-avoid-flood-in-the-city) |
