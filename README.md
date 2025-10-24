@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/RauRaj881/DSA/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/RauRaj881/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/RauRaj881/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RauRaj881/DSA/tree/master/0062-unique-paths) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/RauRaj881/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/RauRaj881/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RauRaj881/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RauRaj881/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/RauRaj881/DSA/tree/master/0038-count-and-say) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RauRaj881/DSA/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/RauRaj881/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RauRaj881/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/RauRaj881/DSA/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/RauRaj881/DSA/tree/master/0076-minimum-window-substring) |
