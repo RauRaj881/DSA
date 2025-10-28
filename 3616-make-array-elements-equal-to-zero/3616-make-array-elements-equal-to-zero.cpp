@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
 public:
     int countValidSelections(vector<int>& nums) {
         int n=nums.size();
@@ -22,6 +22,22 @@ public:
             else if(abs(sufsum[it]-presum[it])==1){
                 ans++;
             }
+        }
+        return ans;
+    }
+};*/
+class Solution {
+public:
+    int countValidSelections(vector<int>& nums) {
+        int n=nums.size();
+        int tot=0;
+        for(auto it:nums){tot+=it;}
+        int sum=0;
+        int ans=0;
+        for(int i=0;i<n;i++){
+            sum+=nums[i];
+            if(nums[i]==0&&2*sum==tot){ans+=2;}
+            else if(nums[i]==0&&abs(sum-(tot-sum))==1){ans+=1;}
         }
         return ans;
     }
