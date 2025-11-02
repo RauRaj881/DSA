@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RauRaj881/DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/RauRaj881/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/RauRaj881/DSA/tree/master/0231-power-of-two) |
+| [2573-remove-nodes-from-linked-list](https://github.com/RauRaj881/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -379,11 +380,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/RauRaj881/DSA/tree/master/0085-maximal-rectangle) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RauRaj881/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RauRaj881/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2573-remove-nodes-from-linked-list](https://github.com/RauRaj881/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/RauRaj881/DSA/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RauRaj881/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2573-remove-nodes-from-linked-list](https://github.com/RauRaj881/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -464,5 +467,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/RauRaj881/DSA/tree/master/0203-remove-linked-list-elements) |
+| [2573-remove-nodes-from-linked-list](https://github.com/RauRaj881/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RauRaj881/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
