@@ -1,7 +1,7 @@
 class Solution {
 public:
     long long minimumTime(vector<int>& d, vector<int>& r) {
-        long long l=0,h=1e18;
+        long long l=0,h=2*1e18;
         long long ans;
         long long L=lcm(r[0],r[1]);
         while(l<=h){
