@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/RauRaj881/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/RauRaj881/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1025-minimum-cost-for-tickets](https://github.com/RauRaj881/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RauRaj881/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/RauRaj881/DSA/tree/master/1036-rotting-oranges) |
 | [1121-partition-array-for-maximum-sum](https://github.com/RauRaj881/DSA/tree/master/1121-partition-array-for-maximum-sum) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RauRaj881/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RauRaj881/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/RauRaj881/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/RauRaj881/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/RauRaj881/DSA/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/RauRaj881/DSA/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/RauRaj881/DSA/tree/master/1130-last-stone-weight-ii) |
