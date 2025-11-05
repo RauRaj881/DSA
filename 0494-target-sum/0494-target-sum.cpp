@@ -28,7 +28,7 @@ int tarsum(int index, vector<vector<int>> &dp,vector<int>& nums,int target){
     }
 };*/
 //tabulation
-/*class Solution {
+class Solution {
 public:
     int findTargetSumWays(vector<int>& nums, int target) {
         int n=nums.size();
@@ -37,14 +37,12 @@ public:
             totsum+=it;
         }
         int newtar=(totsum+target)/2;
-        if ((totsum + target) % 2 != 0 || abs(target) > totsum) return 0;
+        if ((totsum - target) % 2 != 0 || abs(target) > totsum) return 0;
         vector<vector<int>> dp(n,vector<int>(newtar+1,0));
-        if (nums[0] == 0) {
-            dp[0][0] = 2;  // either take or not take zero
-        } else {
-            dp[0][0] = 1;  // not take
-            if (nums[0] <= newtar) dp[0][nums[0]] = 1; // take
+        for(int i=0;i<n;i++){
+            dp[i][0]=1;
         }
+        if(nums[0]<=newtar){dp[0][nums[0]]++;}
 
         for(int i=1;i<n;i++){
             for(int sum=0;sum<=newtar;sum++){
@@ -58,9 +56,9 @@ public:
         }
         return dp[n-1][newtar];
     }
-};*/
+};
 //space optimization
-class Solution {
+/*class Solution {
 public:
     int findTargetSumWays(vector<int>& nums, int target) {
         int n=nums.size();
@@ -92,4 +90,4 @@ public:
         }
         return prev[newtar];
     }
-};
+};*/
