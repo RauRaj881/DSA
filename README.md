@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RauRaj881/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2164-two-best-non-overlapping-events](https://github.com/RauRaj881/DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2169-simple-bank-system](https://github.com/RauRaj881/DSA/tree/master/2169-simple-bank-system) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RauRaj881/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RauRaj881/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RauRaj881/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RauRaj881/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/RauRaj881/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2164-two-best-non-overlapping-events](https://github.com/RauRaj881/DSA/tree/master/2164-two-best-non-overlapping-events) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RauRaj881/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RauRaj881/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2591-frog-jump-ii](https://github.com/RauRaj881/DSA/tree/master/2591-frog-jump-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/RauRaj881/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RauRaj881/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RauRaj881/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RauRaj881/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RauRaj881/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2591-frog-jump-ii](https://github.com/RauRaj881/DSA/tree/master/2591-frog-jump-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/RauRaj881/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/RauRaj881/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2164-two-best-non-overlapping-events](https://github.com/RauRaj881/DSA/tree/master/2164-two-best-non-overlapping-events) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RauRaj881/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RauRaj881/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RauRaj881/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RauRaj881/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RauRaj881/DSA/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/RauRaj881/DSA/tree/master/0567-permutation-in-string) |
 | [1129-longest-string-chain](https://github.com/RauRaj881/DSA/tree/master/1129-longest-string-chain) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RauRaj881/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RauRaj881/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RauRaj881/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RauRaj881/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -492,5 +497,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RauRaj881/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/RauRaj881/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RauRaj881/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
