@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RauRaj881/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RauRaj881/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2591-frog-jump-ii](https://github.com/RauRaj881/DSA/tree/master/2591-frog-jump-ii) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/RauRaj881/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/RauRaj881/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RauRaj881/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RauRaj881/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/RauRaj881/DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RauRaj881/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2591-frog-jump-ii](https://github.com/RauRaj881/DSA/tree/master/2591-frog-jump-ii) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/RauRaj881/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RauRaj881/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/RauRaj881/DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/RauRaj881/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RauRaj881/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2591-frog-jump-ii](https://github.com/RauRaj881/DSA/tree/master/2591-frog-jump-ii) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/RauRaj881/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/RauRaj881/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/RauRaj881/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [4005-maximum-total-subarray-value-i](https://github.com/RauRaj881/DSA/tree/master/4005-maximum-total-subarray-value-i) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/RauRaj881/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RauRaj881/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/RauRaj881/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/RauRaj881/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Prefix Sum
 |  |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/RauRaj881/DSA/tree/master/1184-car-pooling) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RauRaj881/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/RauRaj881/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/RauRaj881/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/RauRaj881/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/RauRaj881/DSA/tree/master/4045-longest-balanced-subarray-i) |
@@ -484,4 +489,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/RauRaj881/DSA/tree/master/0203-remove-linked-list-elements) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RauRaj881/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RauRaj881/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Queue
+|  |
+| ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/RauRaj881/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 <!---LeetCode Topics End-->
