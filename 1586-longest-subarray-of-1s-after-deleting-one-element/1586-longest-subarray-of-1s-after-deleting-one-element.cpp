@@ -3,11 +3,11 @@ public:
     int longestSubarray(vector<int>& nums) {
         int n=nums.size();
         if(n==1){return 0;}
-        else if(n==2){
+       /* else if(n==2){
             if(nums[0]==1&&nums[1]==1){return 1;}
             else if((nums[0]==1&&nums[1]!=1)||(nums[1]==1&&nums[0]!=1)){return 1;}
             else{return 0;}
-        }
+        }*/
         vector<int> end(n);
         vector<int> start(n);
         end[0]=(nums[0]==1?1:0);
