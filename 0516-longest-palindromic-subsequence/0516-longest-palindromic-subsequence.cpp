@@ -36,6 +36,6 @@ public:
                 }
             }
         }
-        return ans.size();
+        return dp[n][n];
     }
 };
