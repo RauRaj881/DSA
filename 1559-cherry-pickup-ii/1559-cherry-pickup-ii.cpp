@@ -1,0 +1,72 @@
+/*class Solution {
+public:
+    int cherryPickup(vector<vector<int>>& grid) {
+        int m=grid.size();
+        int n=grid[0].size();
+        vector<vector<vector<int>>> dp(m,vector<vector<int>>(n,vector<int>(n)));
+        dp[0][0][n-1]=grid[0][0]+grid[0][n-1];
+        for(int j1=1;j1<n;j1++){
+            for(int j2=1;j2<n;j2++){
+                dp[0][j1][j2]=0;
+            }
+        }
+        for(int i=1;i<m;i++){
+            for(int j1=0;j1<n;j1++){
+                for(int j2=0;j2<n;j2++){
+                    for(int dj1=-1;dj1<=1;dj1++){
+                        for(int dj2=-1;dj2<=1;dj2++){
+                        int nj1=j1+dj1;
+                        int nj2=j2+dj2;
+                        if(nj1>=0&&nj1<n&&nj2>=0&&nj2<n){
+                        if(nj1==nj2){
+                            dp[i][j1][j2]=max(dp[i][j1][j2],grid[i][j2]+grid[i][j1]+grid[i-1][nj2]);}
+                        }
+                        else{
+                            dp[i][j1][j2]=max(dp[i][j1][j2],grid[i][j2]+grid[i][j1]+grid[i-1][nj1]+grid[i-1][nj2]);}
+                        }
+                        }
+                    }
+                }
+            }
+            int ans=0;
+            for(int j1=0;j1<n;j1++){
+                for(int j2=0;j2<n;j2++){
+                    ans=max(ans,dp[m-1][j1][j2]);
+                }
+            }
+            return ans;
+    }
+};*/
+class Solution {
+public:
+    int cherryPickup(vector<vector<int>>& grid) {
+        int m = grid.size();
+        int n = grid[0].size();
+        vector<vector<vector<int>>> dp(m, vector<vector<int>>(n, vector<int>(n, -1e9)));
+        dp[0][0][n - 1] = grid[0][0] + (n - 1 == 0 ? 0 : grid[0][n - 1]);
+        for (int i = 1; i < m; i++) {
+            for (int j1 = 0; j1 < n; j1++) {
+                for (int j2 = 0; j2 < n; j2++) {
+                    for (int dj1 = -1; dj1 <= 1; dj1++) {
+                        for (int dj2 = -1; dj2 <= 1; dj2++) {
+                            int pj1 = j1 - dj1;
+                            int pj2 = j2 - dj2;
+                            if (pj1 >= 0 && pj1 < n && pj2 >= 0 && pj2 < n) {
+                                int val = grid[i][j1];
+                                if (j1 != j2) val += grid[i][j2];
+                                dp[i][j1][j2] = max(dp[i][j1][j2], val + dp[i - 1][pj1][pj2]);
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        int ans = 0;
+        for (int j1 = 0; j1 < n; j1++) {
+            for (int j2 = 0; j2 < n; j2++) {
+                ans = max(ans, dp[m - 1][j1][j2]);
+            }
+        }
+        return ans;
+    }
+};
