@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/RauRaj881/DSA/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/RauRaj881/DSA/tree/master/1130-last-stone-weight-ii) |
 | [1184-car-pooling](https://github.com/RauRaj881/DSA/tree/master/1184-car-pooling) |
+| [1234-number-of-paths-with-max-score](https://github.com/RauRaj881/DSA/tree/master/1234-number-of-paths-with-max-score) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/RauRaj881/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RauRaj881/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RauRaj881/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/RauRaj881/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/RauRaj881/DSA/tree/master/1036-rotting-oranges) |
+| [1234-number-of-paths-with-max-score](https://github.com/RauRaj881/DSA/tree/master/1234-number-of-paths-with-max-score) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RauRaj881/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/RauRaj881/DSA/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RauRaj881/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/RauRaj881/DSA/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/RauRaj881/DSA/tree/master/1130-last-stone-weight-ii) |
 | [1170-shortest-common-supersequence](https://github.com/RauRaj881/DSA/tree/master/1170-shortest-common-supersequence) |
+| [1234-number-of-paths-with-max-score](https://github.com/RauRaj881/DSA/tree/master/1234-number-of-paths-with-max-score) |
 | [1250-longest-common-subsequence](https://github.com/RauRaj881/DSA/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RauRaj881/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RauRaj881/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
