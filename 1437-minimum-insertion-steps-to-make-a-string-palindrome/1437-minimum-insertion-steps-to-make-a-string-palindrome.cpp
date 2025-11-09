@@ -1,5 +1,5 @@
 //tabulation
-/*class Solution {
+class Solution {
 public:
     int minInsertions(string s) {
         string t=s;
@@ -20,27 +20,10 @@ public:
                 dp[i][j]=max(take,nottake);
             }
         }
-        int j=n,i=n;
-        string ans="";
-        while(j>0&&i>0){
-            if(s[i-1]==t[j-1]){
-               ans.push_back(s[i-1]);
-               i--;
-               j--;
-            }
-            else{
-                if(dp[i-1][j]>dp[i][j-1]){
-                    i--;
-                }
-                else{
-                    j--;
-                }
-            }
-        }
-        return n-ans.size();
+        return n-dp[n][n];
     }
-};*/
-class Solution {
+};
+/*class Solution {
 public:
     int minInsertions(string s) {
         string t=s;
@@ -63,4 +46,4 @@ public:
         }
         return n-maxno;
     }
-};
+};*/
