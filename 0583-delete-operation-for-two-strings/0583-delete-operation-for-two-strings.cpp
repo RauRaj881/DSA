@@ -1,5 +1,5 @@
 //tabulation
-/*class Solution {
+class Solution {
 public:
     int minDistance(string word1, string word2) {
         int n1=word1.size();
@@ -23,11 +23,11 @@ public:
                 maxno=max(maxno,dp[i][j]);
             }
         }
-        return (n1+n2)-2*maxno;
+        return n1+n2-2*dp[n1][n2];
     }
-};*/
+};
 //space optimization
-class Solution {
+/*class Solution {
 public:
     int minDistance(string word1, string word2) {
          int n1=word1.size();
@@ -49,4 +49,4 @@ public:
         }
         return (n1+n2)-2*maxno;
     }
-};
+};*/
