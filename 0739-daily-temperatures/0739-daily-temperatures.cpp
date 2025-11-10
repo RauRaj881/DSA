@@ -9,9 +9,7 @@ public:
                 ans[st.top()]=i-st.top();
                 st.pop();
             }
-            if(st.empty()||temperatures[i]<=temperatures[st.top()]){
-                st.push(i);
-            }
+            st.push(i);
         }
         return ans;
     }
