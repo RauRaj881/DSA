@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RauRaj881/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RauRaj881/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RauRaj881/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0739-daily-temperatures](https://github.com/RauRaj881/DSA/tree/master/0739-daily-temperatures) |
 | [0794-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0794-swim-in-rising-water) |
 | [0853-most-profit-assigning-work](https://github.com/RauRaj881/DSA/tree/master/0853-most-profit-assigning-work) |
 | [0967-minimum-falling-path-sum](https://github.com/RauRaj881/DSA/tree/master/0967-minimum-falling-path-sum) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/RauRaj881/DSA/tree/master/0085-maximal-rectangle) |
+| [0739-daily-temperatures](https://github.com/RauRaj881/DSA/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RauRaj881/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RauRaj881/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RauRaj881/DSA/tree/master/2573-remove-nodes-from-linked-list) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/RauRaj881/DSA/tree/master/0085-maximal-rectangle) |
+| [0739-daily-temperatures](https://github.com/RauRaj881/DSA/tree/master/0739-daily-temperatures) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RauRaj881/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RauRaj881/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RauRaj881/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
