@@ -1,4 +1,5 @@
-class Solution {
+//memoization
+/*class Solution {
 public:
 bool wildcard(int index1,int index2,vector<vector<int>> &dp,string &s, string &p){
     if(index1<0&&index2<0){return true;}
@@ -23,5 +24,35 @@ bool wildcard(int index1,int index2,vector<vector<int>> &dp,string &s, string &p
         int m=p.size();
         vector<vector<int>> dp(n,vector<int>(m,-1));
         return wildcard(n-1,m-1,dp,s,p);
+    }
+};*/
+class Solution {
+public:
+    bool isMatch(string s, string p) {
+        int n = s.size(), m = p.size();
+        int i = 0, j = 0;
+        int starIdx = -1, match = 0;
+        while (i < n) {
+            if (j < m && (p[j] == s[i] || p[j] == '?')) {
+                i++;
+                j++;
+            } 
+            else if (j < m && p[j] == '*') {
+                starIdx = j;
+                match = i;
+                j++;
+            } 
+            else if (starIdx != -1) {
+                j = starIdx + 1;
+                match++;
+                i = match;
+            } 
+            else {
+                return false;
+            }
+        }
+        while (j < m && p[j] == '*') j++;
+
+        return j == m;
     }
 };
