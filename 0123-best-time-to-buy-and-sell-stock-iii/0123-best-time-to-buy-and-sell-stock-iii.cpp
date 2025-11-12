@@ -21,7 +21,7 @@ int recur(int index,int x,int k,int n,vector<int>& prices, vector<vector<vector<
         return recur(0,0,0,n,prices,dp,0);
     }
 };*/
-//tabulation
+//tabulation 1
 /*class Solution {
 public:
     int maxProfit(vector<int>& prices) {
@@ -42,8 +42,26 @@ public:
         return dp[0][0][0];
     }
 };*/
-//space optimization
+//tabulation 2
 class Solution {
+public:
+    int maxProfit(vector<int>& prices) {
+        int n=prices.size();
+        vector<vector<vector<int>>> dp(n,vector<vector<int>>(2,vector<int>(3,0)));
+        for(int t=1;t<=2;t++){
+            dp[0][1][t]=-prices[0];
+        }
+        for(int i=1;i<n;i++){
+            for(int t=1;t<=2;t++){
+                dp[i][0][t]=max(dp[i-1][0][t],dp[i-1][1][t]+prices[i]);
+                dp[i][1][t]=max(dp[i-1][1][t],dp[i-1][0][t-1]-prices[i]);
+            }
+        }
+        return dp[n-1][0][2];
+    }
+};
+//space optimization
+/*class Solution {
 public:
     int maxProfit(vector<int>& prices) {
          int n=prices.size();
@@ -64,4 +82,4 @@ public:
         }
         return prev[0][0];
     }
-};
+};*/
