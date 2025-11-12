@@ -40,7 +40,8 @@ public:
         return dp[0][0][0];
     }
 };*/
-class Solution {
+//space optimization
+/*class Solution {
 public:
     int maxProfit(int k, vector<int>& prices) {
         int n=prices.size();
@@ -60,5 +61,29 @@ public:
             prev=curr;
         }
         return prev[0][0];
+    }
+};*/
+// tabulation 2
+class Solution {
+public:
+    int maxProfit(int k, vector<int>& prices) {
+        int n=prices.size();
+        vector<vector<vector<int>>> dp(n,vector<vector<int>>(2,vector<int>(k+1,0)));
+        for(int t=1;t<=k;t++){
+            dp[0][1][t]=-prices[0];
+        }
+        for(int i=1;i<n;i++){
+            for(int j=0;j<=1;j++){
+                for(int t=1;t<=k;t++){
+                    if(j==0){
+                        dp[i][j][t]=max(dp[i-1][0][t],dp[i-1][1][t]+prices[i]);//max(notsell,sell)
+                    }
+                    else{
+                        dp[i][j][t]=max(dp[i-1][1][t],dp[i-1][0][t-1]-prices[i]);//max(notbuy,buy)
+                    }
+                }
+            }
+        }
+        return dp[n-1][0][k];
     }
 };
