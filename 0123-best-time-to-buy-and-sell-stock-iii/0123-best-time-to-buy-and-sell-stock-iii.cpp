@@ -48,7 +48,7 @@ public:
     int maxProfit(vector<int>& prices) {
         int n=prices.size();
         vector<vector<vector<int>>> dp(n,vector<vector<int>>(2,vector<int>(3,0)));
-        for(int t=1;t<=2;t++){
+        for(int t=0;t<=2;t++){
             dp[0][1][t]=-prices[0];
         }
         for(int i=1;i<n;i++){
