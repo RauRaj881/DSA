@@ -14,7 +14,7 @@ bool check(string &s1,string &s2,int i1,int i2){
     }
     return true;
 }
-  static bool comp(string&str1,string&str2){
+   static bool comp(string&str1,string&str2){
     return str1.size()<str2.size();
 }
     int longestStrChain(vector<string>& words) {
@@ -30,9 +30,7 @@ bool check(string &s1,string &s2,int i1,int i2){
             }
         }
         for(int i=0;i<n;i++){
-            if(dp[i]>maxno){
-                maxno=dp[i];
-            }
+            maxno=max(maxno,dp[i]);
         }
         return maxno;
     }
