@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/RauRaj881/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RauRaj881/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/RauRaj881/DSA/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/RauRaj881/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/RauRaj881/DSA/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RauRaj881/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/RauRaj881/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RauRaj881/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/RauRaj881/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/RauRaj881/DSA/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/RauRaj881/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RauRaj881/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0853-most-profit-assigning-work](https://github.com/RauRaj881/DSA/tree/master/0853-most-profit-assigning-work) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RauRaj881/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
