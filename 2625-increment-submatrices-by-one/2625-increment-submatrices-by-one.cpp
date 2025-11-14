@@ -30,14 +30,14 @@ public:
             if(c2+1<n){ans[r1][c2+1]--;}
             if(r2+1<n&&c2+1<n){ans[r2+1][c2+1]++;}
         }
-        for(int r=0;r<n;r++){
-            for(int c=1;c<n;c++){
-                ans[r][c]+=ans[r][c-1];
-            }
-        }
         for(int c=0;c<n;c++){
             for(int r=1;r<n;r++){
                 ans[r][c]+=ans[r-1][c];
+            }
+        }
+        for(int r=0;r<n;r++){
+            for(int c=1;c<n;c++){
+                ans[r][c]+=ans[r][c-1];
             }
         }
         return ans;
