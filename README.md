@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/RauRaj881/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/RauRaj881/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RauRaj881/DSA/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/RauRaj881/DSA/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RauRaj881/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/RauRaj881/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/RauRaj881/DSA/tree/master/0204-count-primes) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RauRaj881/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/RauRaj881/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/RauRaj881/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/RauRaj881/DSA/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RauRaj881/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/RauRaj881/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RauRaj881/DSA/tree/master/0213-house-robber-ii) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RauRaj881/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/RauRaj881/DSA/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/RauRaj881/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/RauRaj881/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/RauRaj881/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/RauRaj881/DSA/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/RauRaj881/DSA/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/RauRaj881/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/RauRaj881/DSA/tree/master/0567-permutation-in-string) |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/RauRaj881/DSA/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/RauRaj881/DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/RauRaj881/DSA/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/RauRaj881/DSA/tree/master/0139-word-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RauRaj881/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/RauRaj881/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/RauRaj881/DSA/tree/master/0525-contiguous-array) |
@@ -544,4 +549,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RauRaj881/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/RauRaj881/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
