@@ -1,23 +1,3 @@
-/*class Solution {
-public:
-    int countTrapezoids(vector<vector<int>>& points) {
-        map<int,int> mp;
-        int n=points.size();
-        for(int i=0;i<n;i++){
-            mp[points[i][1]]++;
-        }
-        for(auto &it:mp){
-            if(it.second<2){mp.erase(it);}
-        }
-        int ans=1;
-        if(mp.size()<2){return 0;}
-        for(auto it:mp){
-            int x=it.second;
-            ans*=(x*(x-1))/2;
-        }
-        return ans;
-    }
-};*/
 class Solution {
 public:
     int countTrapezoids(vector<vector<int>>& points) {
@@ -42,6 +22,6 @@ public:
             ans = (ans + edges * edgessum) % mod;
             edgessum = (edgessum + edges) % mod;
         }
-        return ans % mod;
+        return ans;
     }
 };
