@@ -35,12 +35,12 @@ public:
         long long mod=1e9+7;
         if (mp.size() < 2) return 0;
         long long ans = 0;
-        long long sum = 0;
+        long long edgessum = 0;
         for (auto it : mp) {
             long long x = it.second;
-            long long edge = (x * (x - 1) / 2) % mod;
-            ans = (ans + edge * sum) % mod;
-            sum = (sum + edge) % mod;
+            long long edges = (x * (x - 1) / 2) % mod;
+            ans = (ans + edges * edgessum) % mod;
+            edgessum = (edgessum + edges) % mod;
         }
         return ans % mod;
     }
