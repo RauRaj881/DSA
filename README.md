@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/RauRaj881/DSA/tree/master/0853-most-profit-assigning-work) |
 | [0923-3sum-with-multiplicity](https://github.com/RauRaj881/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [0967-minimum-falling-path-sum](https://github.com/RauRaj881/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/RauRaj881/DSA/tree/master/0994-rotting-oranges) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/RauRaj881/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/RauRaj881/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RauRaj881/DSA/tree/master/1034-subarrays-with-k-different-integers) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/RauRaj881/DSA/tree/master/0322-coin-change) |
 | [0794-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/RauRaj881/DSA/tree/master/0801-is-graph-bipartite) |
+| [0994-rotting-oranges](https://github.com/RauRaj881/DSA/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/RauRaj881/DSA/tree/master/1036-rotting-oranges) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RauRaj881/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3607-power-grid-maintenance](https://github.com/RauRaj881/DSA/tree/master/3607-power-grid-maintenance) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/RauRaj881/DSA/tree/master/0085-maximal-rectangle) |
 | [0794-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/RauRaj881/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/RauRaj881/DSA/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/RauRaj881/DSA/tree/master/1036-rotting-oranges) |
 | [1234-number-of-paths-with-max-score](https://github.com/RauRaj881/DSA/tree/master/1234-number-of-paths-with-max-score) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RauRaj881/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
