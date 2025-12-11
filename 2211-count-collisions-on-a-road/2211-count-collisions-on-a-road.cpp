@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
 public:
     int countCollisions(string dir) {
         int n=dir.size();
@@ -20,6 +20,31 @@ public:
         for(int i=n2-1;i>=0;i--){
             if(dir[i]=='S'){pos2=1;}
             else if(dir[i]=='R'&&pos2==1){cnt++;}
+        }
+        return cnt;
+    }
+};*/
+class Solution {
+public:
+    int countCollisions(string dir) {
+        int n=dir.size();
+        int pos=-1;
+        int cntR=0;
+        if(dir[0]=='R'){pos=1;cntR=1;}
+        else if(dir[0]=='S'){pos=0;}
+        int cnt=0;
+        for(int i=1;i<n;i++){
+            if(dir[i]=='S'){
+                if(pos==1){cnt+=cntR;}
+                pos=0;
+                cntR=0;
+            }
+            else if(dir[i]=='L'){
+                if(pos==0){cnt+=1;}
+                else if(pos==1){cnt+=cntR+1;pos=0;}
+                cntR=0;
+            }
+            else{pos=1;cntR++;}
         }
         return cnt;
     }
