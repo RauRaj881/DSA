@@ -42,12 +42,12 @@ public:
                         if (isdigit(temp[2][i])) {
                             idx = idx * 10 + (temp[2][i] - '0');
                         }
-                        if (i + 1 == temp[2].size() ||
-                            temp[2][i + 1] == ' ') {
+                        else if (temp[2][i] == ' ') {
                             v[idx]++;
                             idx = 0;
                         }
                     }
+                    v[idx]++;
                 }
             } 
         }
