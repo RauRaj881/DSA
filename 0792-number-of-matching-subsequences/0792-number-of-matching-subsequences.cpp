@@ -36,6 +36,7 @@ public:
             int i1=0,i2=0,prev=-1;
             for(int j=0;j<n2;j++){
                 char c=t[j];
+                if(!mp.count(c)){cnt--;break;}
                 vector<int>& v=mp[c];
                 auto it=upper_bound(v.begin(),v.end(),prev);
                 if(it==v.end()){cnt--;break;}
