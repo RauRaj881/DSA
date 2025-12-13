@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RauRaj881/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/RauRaj881/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/RauRaj881/DSA/tree/master/0739-daily-temperatures) |
+| [0792-number-of-matching-subsequences](https://github.com/RauRaj881/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0794-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0794-swim-in-rising-water) |
 | [0853-most-profit-assigning-work](https://github.com/RauRaj881/DSA/tree/master/0853-most-profit-assigning-work) |
 | [0923-3sum-with-multiplicity](https://github.com/RauRaj881/DSA/tree/master/0923-3sum-with-multiplicity) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RauRaj881/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/RauRaj881/DSA/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/RauRaj881/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0792-number-of-matching-subsequences](https://github.com/RauRaj881/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0794-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0794-swim-in-rising-water) |
 | [0853-most-profit-assigning-work](https://github.com/RauRaj881/DSA/tree/master/0853-most-profit-assigning-work) |
 | [1612-avoid-flood-in-the-city](https://github.com/RauRaj881/DSA/tree/master/1612-avoid-flood-in-the-city) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RauRaj881/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RauRaj881/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RauRaj881/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0792-number-of-matching-subsequences](https://github.com/RauRaj881/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0967-minimum-falling-path-sum](https://github.com/RauRaj881/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/RauRaj881/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1105-uncrossed-lines](https://github.com/RauRaj881/DSA/tree/master/1105-uncrossed-lines) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/RauRaj881/DSA/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/RauRaj881/DSA/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RauRaj881/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0792-number-of-matching-subsequences](https://github.com/RauRaj881/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RauRaj881/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/RauRaj881/DSA/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/RauRaj881/DSA/tree/master/1170-shortest-common-supersequence) |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/RauRaj881/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RauRaj881/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/RauRaj881/DSA/tree/master/0567-permutation-in-string) |
+| [0792-number-of-matching-subsequences](https://github.com/RauRaj881/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0923-3sum-with-multiplicity](https://github.com/RauRaj881/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/RauRaj881/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RauRaj881/DSA/tree/master/1034-subarrays-with-k-different-integers) |
@@ -442,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RauRaj881/DSA/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/RauRaj881/DSA/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/RauRaj881/DSA/tree/master/0368-largest-divisible-subset) |
+| [0792-number-of-matching-subsequences](https://github.com/RauRaj881/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0853-most-profit-assigning-work](https://github.com/RauRaj881/DSA/tree/master/0853-most-profit-assigning-work) |
 | [0923-3sum-with-multiplicity](https://github.com/RauRaj881/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [1129-longest-string-chain](https://github.com/RauRaj881/DSA/tree/master/1129-longest-string-chain) |
@@ -613,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/RauRaj881/DSA/tree/master/0139-word-break) |
+| [0792-number-of-matching-subsequences](https://github.com/RauRaj881/DSA/tree/master/0792-number-of-matching-subsequences) |
 ## Geometry
 |  |
 | ------- |
