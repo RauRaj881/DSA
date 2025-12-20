@@ -13,17 +13,17 @@ public:
         vector<int> vis(n,1e9);
         vis[0]=0;vis[fP]=0;
         priority_queue<pair<int,int>, vector<pair<int,int>>, greater<>> st;
-        st.push({0,0});st.push({fP,0});
+        st.push({0,0});st.push({0,fP});
         while(!st.empty()){
-            int node=st.top().first;
-            int time=st.top().second;
+            int time=st.top().first;
+            int node=st.top().second;
             st.pop();
             if (time > vis[node]) continue;
             for(auto it:adj[node]){
                 int nexn=it.first;
                 int t=it.second;
                 if(time<=t&&vis[nexn]>t){
-                    st.push({nexn,t});
+                    st.push({t,nexn});
                     vis[nexn]=t;
                 }
             }
