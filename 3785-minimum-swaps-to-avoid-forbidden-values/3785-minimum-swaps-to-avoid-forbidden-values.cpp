@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
 public:
     int minSwaps(vector<int>& nums, vector<int>& forb) {
         int n=nums.size();
@@ -51,5 +51,36 @@ public:
         else if(y>0&&y%2==0){ans+=y/2;}
         else if(y>0&&y%2==1){ans+=y/2+1;}
         return ans;
+    }
+};*/
+class Solution {
+public:
+    int minSwaps(vector<int>& nums, vector<int>& forb) {
+         int n=nums.size();
+        unordered_map<int,int> mp1;
+        unordered_map<int,int> mp2;
+        for(auto it:nums){
+            mp1[it]++;
+        }
+        for(auto it:forb){
+            mp2[it]++;
+        }
+        for(auto it:forb){
+            if(mp1[it]>n-mp2[it]){
+                return -1;
+            }
+        }
+        unordered_map<int,int> mp;
+        for(int i=0;i<n;i++){
+            if(nums[i]==forb[i]){
+                mp[nums[i]]++;
+            }
+        }
+        int cnt=0,mx=0;
+        for(auto &it:mp){
+            cnt+=it.second;
+            mx=max(it.second,mx);
+        }
+        return max(mx,(cnt+1)/2);
     }
 };
