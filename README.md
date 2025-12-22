@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/RauRaj881/DSA/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/RauRaj881/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/RauRaj881/DSA/tree/master/0051-n-queens) |
+| [0057-insert-interval](https://github.com/RauRaj881/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/RauRaj881/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RauRaj881/DSA/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/RauRaj881/DSA/tree/master/0078-subsets) |
