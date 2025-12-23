@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RauRaj881/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RauRaj881/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/RauRaj881/DSA/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/RauRaj881/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RauRaj881/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/RauRaj881/DSA/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/RauRaj881/DSA/tree/master/0057-insert-interval) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/RauRaj881/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RauRaj881/DSA/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/RauRaj881/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RauRaj881/DSA/tree/master/0064-minimum-path-sum) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RauRaj881/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/RauRaj881/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RauRaj881/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/RauRaj881/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RauRaj881/DSA/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/RauRaj881/DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/RauRaj881/DSA/tree/master/0127-word-ladder) |
