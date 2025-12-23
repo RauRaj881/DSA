@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/RauRaj881/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RauRaj881/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/RauRaj881/DSA/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/RauRaj881/DSA/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/RauRaj881/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/RauRaj881/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RauRaj881/DSA/tree/master/0064-minimum-path-sum) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/RauRaj881/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RauRaj881/DSA/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/RauRaj881/DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/RauRaj881/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RauRaj881/DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/RauRaj881/DSA/tree/master/0079-word-search) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RauRaj881/DSA/tree/master/0054-spiral-matrix) |
 | [1184-car-pooling](https://github.com/RauRaj881/DSA/tree/master/1184-car-pooling) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RauRaj881/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/RauRaj881/DSA/tree/master/2169-simple-bank-system) |
