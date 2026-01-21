@@ -25,16 +25,12 @@ void dfs(int idx,vector<vector<int>> &adj,vector<int> &vis,vector<int> &comp){
             if(vis[i]==-1){
                 vector<int> comp;
                 dfs(i,adj,vis,comp);
-                tot.push_back(comp);
+                sort(comp.begin(),comp.end());
+                string temp="";
+                for(int j=0;j<comp.size();j++)temp+=s[comp[j]];
+                sort(temp.begin(),temp.end());
+                for(int j=0;j<comp.size();j++)s[comp[j]]=temp[j]; 
             }
-        }
-        for(int i=0;i<tot.size();i++){
-            vector<int> cmp=tot[i];
-            sort(cmp.begin(),cmp.end());
-            string temp="";
-            for(int j=0;j<cmp.size();j++)temp+=s[cmp[j]];
-            sort(temp.begin(),temp.end());
-            for(int j=0;j<cmp.size();j++)s[cmp[j]]=temp[j]; 
         }
         return s;
     }
