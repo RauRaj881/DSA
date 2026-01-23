@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/RauRaj881/DSA/tree/master/1184-car-pooling) |
 | [1202-smallest-string-with-swaps](https://github.com/RauRaj881/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1234-number-of-paths-with-max-score](https://github.com/RauRaj881/DSA/tree/master/1234-number-of-paths-with-max-score) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RauRaj881/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/RauRaj881/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RauRaj881/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RauRaj881/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/RauRaj881/DSA/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RauRaj881/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1202-smallest-string-with-swaps](https://github.com/RauRaj881/DSA/tree/master/1202-smallest-string-with-swaps) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RauRaj881/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RauRaj881/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/RauRaj881/DSA/tree/master/2092-find-all-people-with-secret) |
 | [3607-power-grid-maintenance](https://github.com/RauRaj881/DSA/tree/master/3607-power-grid-maintenance) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/RauRaj881/DSA/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RauRaj881/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1234-number-of-paths-with-max-score](https://github.com/RauRaj881/DSA/tree/master/1234-number-of-paths-with-max-score) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RauRaj881/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RauRaj881/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/RauRaj881/DSA/tree/master/1559-cherry-pickup-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/RauRaj881/DSA/tree/master/2067-maximum-number-of-points-with-cost) |
