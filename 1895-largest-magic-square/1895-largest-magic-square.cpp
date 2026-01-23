@@ -39,7 +39,7 @@ bool isvalid(int i,int j,int k,vector<vector<int>>& grid){
         int mx=1;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                for(int k=1;k+i<=n&&k+j<=m;k++){
+                for(int k=1;k+i-1<n&&k+j-1<m;k++){
                     if(isvalid(i,j,k,grid)){
                         mx=max(mx,k);
                     }
