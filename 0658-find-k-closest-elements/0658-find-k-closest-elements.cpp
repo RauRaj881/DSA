@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<int> findClosestElements(vector<int>& arr, int k, int x) {
         int n=arr.size();
-        if(k==n){return arr;}
         vector<int> ans;
         auto it=lower_bound(arr.begin(),arr.end(),x);
         if(it==arr.end()){
