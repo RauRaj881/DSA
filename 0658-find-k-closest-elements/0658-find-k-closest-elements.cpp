@@ -30,17 +30,16 @@ public:
                     ans.push_back(arr[j]);
                     j++;
                 }
-                //k--;
             }
             if(k>0){
                 if(i<0){
-                    while(k>0){
-                        ans.push_back(arr[j]);j++;k--;
+                    while(k--){
+                        ans.push_back(arr[j]);j++;
                     }
                 }
                 else{
-                    while(k>0){
-                        ans.push_back(arr[i]);i--;k--;
+                    while(k--){
+                        ans.push_back(arr[i]);i--;
                     }
                 }
             }
