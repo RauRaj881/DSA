@@ -21,7 +21,7 @@ public:
         else{
             int idx=it-arr.begin();
             int i=idx-1,j=idx;
-            while(k>0&&i>=0&&j<n){
+            while(i>=0&&j<n&&k--){
                 if(abs(arr[i]-x)<=abs(arr[j]-x)){
                     ans.push_back(arr[i]);
                     i--;
@@ -30,7 +30,7 @@ public:
                     ans.push_back(arr[j]);
                     j++;
                 }
-                k--;
+                //k--;
             }
             if(k>0){
                 if(i<0){
