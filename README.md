@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/RauRaj881/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/RauRaj881/DSA/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RauRaj881/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0376-wiggle-subsequence](https://github.com/RauRaj881/DSA/tree/master/0376-wiggle-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RauRaj881/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/RauRaj881/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RauRaj881/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/RauRaj881/DSA/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/RauRaj881/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/RauRaj881/DSA/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/RauRaj881/DSA/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/RauRaj881/DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/RauRaj881/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/RauRaj881/DSA/tree/master/0474-ones-and-zeroes) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/RauRaj881/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/RauRaj881/DSA/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/RauRaj881/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0376-wiggle-subsequence](https://github.com/RauRaj881/DSA/tree/master/0376-wiggle-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RauRaj881/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RauRaj881/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0853-most-profit-assigning-work](https://github.com/RauRaj881/DSA/tree/master/0853-most-profit-assigning-work) |
