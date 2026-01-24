@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RauRaj881/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RauRaj881/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/RauRaj881/DSA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/RauRaj881/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Memoization
 |  |
 | ------- |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/RauRaj881/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/RauRaj881/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/RauRaj881/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/RauRaj881/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/RauRaj881/DSA/tree/master/4045-longest-balanced-subarray-i) |
 ## Counting
 |  |
