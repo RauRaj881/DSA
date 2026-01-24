@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RauRaj881/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/RauRaj881/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RauRaj881/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/RauRaj881/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/RauRaj881/DSA/tree/master/1895-largest-magic-square) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/RauRaj881/DSA/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/RauRaj881/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RauRaj881/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RauRaj881/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/RauRaj881/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RauRaj881/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RauRaj881/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/RauRaj881/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/RauRaj881/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/RauRaj881/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/RauRaj881/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2092-find-all-people-with-secret](https://github.com/RauRaj881/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2164-two-best-non-overlapping-events](https://github.com/RauRaj881/DSA/tree/master/2164-two-best-non-overlapping-events) |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/RauRaj881/DSA/tree/master/0853-most-profit-assigning-work) |
 | [0923-3sum-with-multiplicity](https://github.com/RauRaj881/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [1129-longest-string-chain](https://github.com/RauRaj881/DSA/tree/master/1129-longest-string-chain) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/RauRaj881/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RauRaj881/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RauRaj881/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RauRaj881/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
