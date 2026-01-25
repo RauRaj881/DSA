@@ -33,7 +33,7 @@ bool ispossible(long long mid,vector<int>& points,long long m){
             mn=min(mn,points[i]);
             mx=max(mx,points[i]);
         }
-        long long low=mn,high=(long long)mx*m;
+        long long low=mn,high=(long long)1e18;
         long long ans=0;
         while(low<=high){
             long long mid=(low+high)/2;
