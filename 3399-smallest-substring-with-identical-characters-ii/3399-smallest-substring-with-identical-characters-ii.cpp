@@ -1,6 +1,6 @@
 class Solution {
 public:
-bool ispossible(int mid,string &s,int numOps){
+bool ispossible(int mid,const string &s,int numOps){
     if(mid==1){
         int op1=0,op2=0;
         for(int i=0;i<s.size();i++){
@@ -39,7 +39,6 @@ bool ispossible(int mid,string &s,int numOps){
             }
             else{low=mid+1;}
         }
-        return ans;
-        
+        return ans; 
     }
 };
