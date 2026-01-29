@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/RauRaj881/DSA/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/RauRaj881/DSA/tree/master/0392-is-subsequence) |
 | [0433-minimum-genetic-mutation](https://github.com/RauRaj881/DSA/tree/master/0433-minimum-genetic-mutation) |
+| [0459-repeated-substring-pattern](https://github.com/RauRaj881/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/RauRaj881/DSA/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/RauRaj881/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/RauRaj881/DSA/tree/master/0567-permutation-in-string) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RauRaj881/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/RauRaj881/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/RauRaj881/DSA/tree/master/0686-repeated-string-match) |
 ## Sliding Window
 |  |
