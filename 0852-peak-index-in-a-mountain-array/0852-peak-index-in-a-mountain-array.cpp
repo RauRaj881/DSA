@@ -12,6 +12,6 @@ public:
                 high=mid;
             }
         }
-        return low;
+        return high;
     }
 };
