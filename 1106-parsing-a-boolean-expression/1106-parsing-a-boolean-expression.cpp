@@ -13,32 +13,29 @@ public:
                     mp[st.top()]++;st.pop();
                 }
                 if(st.top()=='|'){
+                    st.pop();
                     if(mp.count('t')){
-                        st.pop();
                         st.push('t');
                     }
                     else{
-                        st.pop();
                         st.push('f');
                     }
                 }
                 else if(st.top()=='&'){
+                    st.pop();
                     if(mp.count('f')){
-                        st.pop();
                         st.push('f');
                     }
                     else{
-                        st.pop();
                         st.push('t');
                     }
                 }
                 else{
+                    st.pop();
                     if(mp.count('f')){
-                        st.pop();
                         st.push('t');
                     }
                     else{
-                        st.pop();
                         st.push('f');
                     }
                 }
