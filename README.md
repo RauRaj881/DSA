@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RauRaj881/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/RauRaj881/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RauRaj881/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1657-determine-if-two-strings-are-close](https://github.com/RauRaj881/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RauRaj881/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RauRaj881/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1987-number-of-unique-good-subsequences](https://github.com/RauRaj881/DSA/tree/master/1987-number-of-unique-good-subsequences) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/RauRaj881/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RauRaj881/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1612-avoid-flood-in-the-city](https://github.com/RauRaj881/DSA/tree/master/1612-avoid-flood-in-the-city) |
+| [1657-determine-if-two-strings-are-close](https://github.com/RauRaj881/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/RauRaj881/DSA/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2169-simple-bank-system](https://github.com/RauRaj881/DSA/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/RauRaj881/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/RauRaj881/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/RauRaj881/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/RauRaj881/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1657-determine-if-two-strings-are-close](https://github.com/RauRaj881/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/RauRaj881/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RauRaj881/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RauRaj881/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0923-3sum-with-multiplicity](https://github.com/RauRaj881/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RauRaj881/DSA/tree/master/1034-subarrays-with-k-different-integers) |
+| [1657-determine-if-two-strings-are-close](https://github.com/RauRaj881/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/RauRaj881/DSA/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/RauRaj881/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RauRaj881/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
