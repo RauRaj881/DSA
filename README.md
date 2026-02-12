@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/RauRaj881/DSA/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/RauRaj881/DSA/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2097-valid-arrangement-of-pairs](https://github.com/RauRaj881/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RauRaj881/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-solving-questions-with-brainpower](https://github.com/RauRaj881/DSA/tree/master/2140-solving-questions-with-brainpower) |
 | [2164-two-best-non-overlapping-events](https://github.com/RauRaj881/DSA/tree/master/2164-two-best-non-overlapping-events) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1300-critical-connections-in-a-network](https://github.com/RauRaj881/DSA/tree/master/1300-critical-connections-in-a-network) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RauRaj881/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/RauRaj881/DSA/tree/master/2092-find-all-people-with-secret) |
+| [2097-valid-arrangement-of-pairs](https://github.com/RauRaj881/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [3607-power-grid-maintenance](https://github.com/RauRaj881/DSA/tree/master/3607-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -891,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/RauRaj881/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [2097-valid-arrangement-of-pairs](https://github.com/RauRaj881/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/RauRaj881/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RauRaj881/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RauRaj881/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -906,4 +909,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/RauRaj881/DSA/tree/master/3620-network-recovery-pathways) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/RauRaj881/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
