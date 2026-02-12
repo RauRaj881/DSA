@@ -13,7 +13,6 @@ public:
             outdeg[st]++;
         }
         stack<int> st;
-        //vector<int> vis(n,0);
         for(auto it:outdeg){
             int nd=it.first;
             if(outdeg[nd]==indeg[nd]+1){
@@ -35,7 +34,7 @@ public:
         }
         reverse(ans.begin(),ans.end());
         vector<vector<int>> ans2;
-        for(int i=1;i<ans.size();i++){
+        for(int i=1;i<n+1;i++){
             ans2.push_back({ans[i-1],ans[i]});
         }
         return ans2;
