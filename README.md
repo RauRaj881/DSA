@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/RauRaj881/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/RauRaj881/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RauRaj881/DSA/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/RauRaj881/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/RauRaj881/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RauRaj881/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/RauRaj881/DSA/tree/master/0204-count-primes) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RauRaj881/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/RauRaj881/DSA/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/RauRaj881/DSA/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/RauRaj881/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/RauRaj881/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/RauRaj881/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/RauRaj881/DSA/tree/master/0079-word-search) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/RauRaj881/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/RauRaj881/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/RauRaj881/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RauRaj881/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/RauRaj881/DSA/tree/master/0136-single-number) |
@@ -798,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RauRaj881/DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/RauRaj881/DSA/tree/master/0067-add-binary) |
 | [1184-car-pooling](https://github.com/RauRaj881/DSA/tree/master/1184-car-pooling) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RauRaj881/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/RauRaj881/DSA/tree/master/2169-simple-bank-system) |
