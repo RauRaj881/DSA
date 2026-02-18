@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
 public:
     bool hasAlternatingBits(int n) {
         int x=1;
@@ -22,5 +22,13 @@ public:
             else{x<<=1;}
         }
         return true;
+    }
+};*/
+class Solution {
+public:
+    bool hasAlternatingBits(int n) {
+        long x=(n>>1);
+        long xr=x^n;
+        return ((xr&(xr+1))==0);
     }
 };
