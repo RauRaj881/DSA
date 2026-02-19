@@ -2,7 +2,7 @@ class Solution {
 public:
     int countBinarySubstrings(string s) {
         int n=s.size();
-        if(n==1){return 0;}
+        //if(n==1){return 0;}
         int prev=0,curr=0;
         prev=1;
         int i=1;
