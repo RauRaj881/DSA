@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/RauRaj881/DSA/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RauRaj881/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/RauRaj881/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RauRaj881/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RauRaj881/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/RauRaj881/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/RauRaj881/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/RauRaj881/DSA/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/RauRaj881/DSA/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/RauRaj881/DSA/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RauRaj881/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/RauRaj881/DSA/tree/master/0864-shortest-path-to-get-all-keys) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RauRaj881/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/RauRaj881/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
