@@ -29,6 +29,6 @@ tuple<int,int,int> fact(long long n){
         while(k%3==0){c3++;k/=3;}
         while(k%5==0){c5++;k/=5;}
         if(k!=1){return 0;}
-        return dp[fact(ori)];
+        return dp[{c2,c3,c5}];
     }
 };
