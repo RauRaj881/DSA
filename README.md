@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/RauRaj881/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/RauRaj881/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RauRaj881/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1755-closest-subsequence-sum](https://github.com/RauRaj881/DSA/tree/master/1755-closest-subsequence-sum) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/RauRaj881/DSA/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1862-sum-of-floored-pairs](https://github.com/RauRaj881/DSA/tree/master/1862-sum-of-floored-pairs) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RauRaj881/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/RauRaj881/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RauRaj881/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1755-closest-subsequence-sum](https://github.com/RauRaj881/DSA/tree/master/1755-closest-subsequence-sum) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/RauRaj881/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1987-number-of-unique-good-subsequences](https://github.com/RauRaj881/DSA/tree/master/1987-number-of-unique-good-subsequences) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/RauRaj881/DSA/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/RauRaj881/DSA/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0868-binary-gap](https://github.com/RauRaj881/DSA/tree/master/0868-binary-gap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RauRaj881/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1755-closest-subsequence-sum](https://github.com/RauRaj881/DSA/tree/master/1755-closest-subsequence-sum) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RauRaj881/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/RauRaj881/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/RauRaj881/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/RauRaj881/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/RauRaj881/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/RauRaj881/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1755-closest-subsequence-sum](https://github.com/RauRaj881/DSA/tree/master/1755-closest-subsequence-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RauRaj881/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -697,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/RauRaj881/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [1129-longest-string-chain](https://github.com/RauRaj881/DSA/tree/master/1129-longest-string-chain) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/RauRaj881/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1755-closest-subsequence-sum](https://github.com/RauRaj881/DSA/tree/master/1755-closest-subsequence-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RauRaj881/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RauRaj881/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RauRaj881/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -951,4 +956,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RauRaj881/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Bitmask
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/RauRaj881/DSA/tree/master/1755-closest-subsequence-sum) |
 <!---LeetCode Topics End-->
