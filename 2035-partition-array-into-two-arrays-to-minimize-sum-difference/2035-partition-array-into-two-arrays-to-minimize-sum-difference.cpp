@@ -2,7 +2,7 @@ class Solution {
 public:
 void storesm(vector<int>&nums,vector<vector<int>>&left,vector<vector<int>>&right,int tot){
     int n=nums.size();
-    for(int i=0;i<(1<<(n/2));i++){
+    for(int i=0;i<=(1<<(n/2));i++){
         int sz=0;
         int sm1=0,sm2=0;
         for(int j=0;j<n/2;j++){
