@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/RauRaj881/DSA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/RauRaj881/DSA/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/RauRaj881/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3844-longest-almost-palindromic-substring](https://github.com/RauRaj881/DSA/tree/master/3844-longest-almost-palindromic-substring) |
 ## Memoization
 |  |
 | ------- |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/RauRaj881/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/RauRaj881/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/RauRaj881/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3844-longest-almost-palindromic-substring](https://github.com/RauRaj881/DSA/tree/master/3844-longest-almost-palindromic-substring) |
 ## Backtracking
 |  |
 | ------- |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RauRaj881/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RauRaj881/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RauRaj881/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3844-longest-almost-palindromic-substring](https://github.com/RauRaj881/DSA/tree/master/3844-longest-almost-palindromic-substring) |
 ## Binary Indexed Tree
 |  |
 | ------- |
