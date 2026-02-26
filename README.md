@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/RauRaj881/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/RauRaj881/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/RauRaj881/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/RauRaj881/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RauRaj881/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3843-first-element-with-unique-frequency](https://github.com/RauRaj881/DSA/tree/master/3843-first-element-with-unique-frequency) |
 | [3928-split-and-merge-array-transformation](https://github.com/RauRaj881/DSA/tree/master/3928-split-and-merge-array-transformation) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/RauRaj881/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3713-longest-balanced-substring-i](https://github.com/RauRaj881/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/RauRaj881/DSA/tree/master/3714-longest-balanced-substring-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/RauRaj881/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RauRaj881/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3843-first-element-with-unique-frequency](https://github.com/RauRaj881/DSA/tree/master/3843-first-element-with-unique-frequency) |
 | [3928-split-and-merge-array-transformation](https://github.com/RauRaj881/DSA/tree/master/3928-split-and-merge-array-transformation) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RauRaj881/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2659-make-array-empty](https://github.com/RauRaj881/DSA/tree/master/2659-make-array-empty) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/RauRaj881/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/RauRaj881/DSA/tree/master/4045-longest-balanced-subarray-i) |
 ## Stack
 |  |
@@ -822,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/RauRaj881/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/RauRaj881/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/RauRaj881/DSA/tree/master/3714-longest-balanced-substring-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/RauRaj881/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/RauRaj881/DSA/tree/master/4045-longest-balanced-subarray-i) |
 ## Counting
 |  |
@@ -866,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/RauRaj881/DSA/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RauRaj881/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/RauRaj881/DSA/tree/master/0347-top-k-frequent-elements) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/RauRaj881/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/RauRaj881/DSA/tree/master/4045-longest-balanced-subarray-i) |
 ## Counting Sort
 |  |
@@ -984,4 +989,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1755-closest-subsequence-sum](https://github.com/RauRaj881/DSA/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RauRaj881/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/RauRaj881/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
