@@ -6,9 +6,7 @@ public:
         unordered_map<int,int> mp2;
         for(auto it:nums){
             int x=mp1[it];
-            if(x>0){
-                mp2[x]--;
-            }
+            mp2[x]--;
             mp2[x+1]++;
             mp1[it]++;
         }
