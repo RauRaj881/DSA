@@ -18,7 +18,7 @@ public:
             }
             else{
                 int cr=cnt-1;
-                while(cr>0&&mp.count(cr)){
+                while(/*cr>0&&*/mp.count(cr)){
                     cr--;
                 }
                 if(cr>0){mp[cr]=i;mp2[i]=cr;}
