@@ -1,6 +1,6 @@
 class Solution {
 public:
-string get(string &lt){
+string get(string lt){
     string tp=lt;
     for(int i=0;i<lt.size();i++){
         if(tp[i]=='0'){tp[i]='1';}
