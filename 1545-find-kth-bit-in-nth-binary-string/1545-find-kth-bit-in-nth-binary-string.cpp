@@ -10,12 +10,10 @@ string get(string &lt){
     return lt+"1"+tp;
 }
     char findKthBit(int n, int k) {
-        string ans="0";
         string lt="0";
         string cr="0";
         for(int i=2;i<=n;i++){
             cr=get(lt);
-            ans=cr;
             lt=cr;
         }
         return cr[k-1];
