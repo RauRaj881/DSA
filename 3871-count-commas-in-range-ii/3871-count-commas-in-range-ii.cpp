@@ -13,8 +13,8 @@ public:
         while(tp>0) {p *= 10;tp--;}
         long long ans=(ori-p+1)*(x);
         cnt--;
-        long long p2=1;
 
+        long long p2=1;
         long long tp2=cnt-1;
         while(tp2>0) {p2 *= 10;tp2--;};
         p2*=9;
