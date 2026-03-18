@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/RauRaj881/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RauRaj881/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3843-first-element-with-unique-frequency](https://github.com/RauRaj881/DSA/tree/master/3843-first-element-with-unique-frequency) |
+| [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/RauRaj881/DSA/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [3928-split-and-merge-array-transformation](https://github.com/RauRaj881/DSA/tree/master/3928-split-and-merge-array-transformation) |
 | [4005-maximum-total-subarray-value-i](https://github.com/RauRaj881/DSA/tree/master/4005-maximum-total-subarray-value-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/RauRaj881/DSA/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/RauRaj881/DSA/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/RauRaj881/DSA/tree/master/3398-smallest-substring-with-identical-characters-i) |
 | [3713-longest-balanced-substring-i](https://github.com/RauRaj881/DSA/tree/master/3713-longest-balanced-substring-i) |
+| [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/RauRaj881/DSA/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 ## Number Theory
 |  |
 | ------- |
