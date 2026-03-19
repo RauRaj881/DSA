@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RauRaj881/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/RauRaj881/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2097-valid-arrangement-of-pairs](https://github.com/RauRaj881/DSA/tree/master/2097-valid-arrangement-of-pairs) |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RauRaj881/DSA/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3607-power-grid-maintenance](https://github.com/RauRaj881/DSA/tree/master/3607-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RauRaj881/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/RauRaj881/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/RauRaj881/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RauRaj881/DSA/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3607-power-grid-maintenance](https://github.com/RauRaj881/DSA/tree/master/3607-power-grid-maintenance) |
 | [3928-split-and-merge-array-transformation](https://github.com/RauRaj881/DSA/tree/master/3928-split-and-merge-array-transformation) |
 ## Union Find
@@ -983,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1202-smallest-string-with-swaps](https://github.com/RauRaj881/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RauRaj881/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RauRaj881/DSA/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/RauRaj881/DSA/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Doubly-Linked List
 |  |
@@ -996,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/RauRaj881/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2097-valid-arrangement-of-pairs](https://github.com/RauRaj881/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/RauRaj881/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RauRaj881/DSA/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RauRaj881/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RauRaj881/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3620-network-recovery-pathways](https://github.com/RauRaj881/DSA/tree/master/3620-network-recovery-pathways) |
