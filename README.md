@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RauRaj881/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3843-first-element-with-unique-frequency](https://github.com/RauRaj881/DSA/tree/master/3843-first-element-with-unique-frequency) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/RauRaj881/DSA/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/RauRaj881/DSA/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3928-split-and-merge-array-transformation](https://github.com/RauRaj881/DSA/tree/master/3928-split-and-merge-array-transformation) |
 | [4005-maximum-total-subarray-value-i](https://github.com/RauRaj881/DSA/tree/master/4005-maximum-total-subarray-value-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/RauRaj881/DSA/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/RauRaj881/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RauRaj881/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3843-first-element-with-unique-frequency](https://github.com/RauRaj881/DSA/tree/master/3843-first-element-with-unique-frequency) |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/RauRaj881/DSA/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3928-split-and-merge-array-transformation](https://github.com/RauRaj881/DSA/tree/master/3928-split-and-merge-array-transformation) |
 | [4045-longest-balanced-subarray-i](https://github.com/RauRaj881/DSA/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/RauRaj881/DSA/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -981,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1202-smallest-string-with-swaps](https://github.com/RauRaj881/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RauRaj881/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/RauRaj881/DSA/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Doubly-Linked List
 |  |
 | ------- |
