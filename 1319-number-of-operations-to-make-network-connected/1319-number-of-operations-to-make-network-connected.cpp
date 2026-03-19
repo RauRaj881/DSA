@@ -1,44 +1,32 @@
 class Solution {
 public:
-       int findUpar(vector<int> &parent,int node){
-        if(node==parent[node]){return node;}
-        return findUpar(parent,parent[node]);
+void dfs(int nd,vector<int> &vis,int prt,vector<vector<int>> &adj){
+    vis[nd]=1;
+    for(auto it:adj[nd]){
+        if(it!=prt){
+            if(vis[it]==-1)dfs(it,vis,nd,adj);
         }
-        int x=0;
-        void unionbyrank(int u,int v,vector<int> &parent,vector<int> &rank){
-            int ulp_u=findUpar(parent,u);
-            int ulp_v=findUpar(parent,v);
-            if(ulp_u==ulp_v){
-                x++;
-                return;
-            }
-            if(rank[ulp_u]<rank[ulp_v]){
-                parent[ulp_u]=ulp_v;
-            }
-            else if(rank[ulp_u]>rank[ulp_v]){
-                parent[ulp_v]=ulp_u;
-            }
-            else if(rank[ulp_u]==rank[ulp_v]){
-                parent[ulp_u]=ulp_v;
-                rank[ulp_v]++;
-            }
+    }
+}
+    int makeConnected(int n, vector<vector<int>>& cn){
+        int c=cn.size();
+        if(c<n-1){return -1;}
+        int ans=0;
+        vector<vector<int>> adj(n);
+        for(int i=0;i<c;i++){
+            int u=cn[i][0];
+            int v=cn[i][1];
+            adj[u].push_back(v);
+            adj[v].push_back(u);
         }
-    int makeConnected(int n, vector<vector<int>>& connections) {
-        vector<int> parent(n);
-         for(int i=0;i<n;i++){
-            parent[i]=i;
-        }
-        vector<int> rank(n,0);
-        for(int i=0;i<connections.size();i++){
-            unionbyrank(connections[i][0],connections[i][1],parent,rank);
-        }
-        int y=0;
-        for(int j=0;j<n;j++){
-            if(parent[j]==j){
-                y++;
+        vector<int> vis(n,-1);
+        for(int i=0;i<n;i++){
+            if(vis[i]==-1){
+                vis[i]=1;
+                dfs(i,vis,-1,adj);
+                ans++;
             }
         }
-        if(x>=y-1){return y-1;}
-        return -1;
+        return ans-1;
     }
 };
