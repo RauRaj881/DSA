@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/RauRaj881/DSA/tree/master/1250-longest-common-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/RauRaj881/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RauRaj881/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RauRaj881/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1416-restore-the-array](https://github.com/RauRaj881/DSA/tree/master/1416-restore-the-array) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RauRaj881/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RauRaj881/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/RauRaj881/DSA/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/RauRaj881/DSA/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/RauRaj881/DSA/tree/master/0494-target-sum) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RauRaj881/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/RauRaj881/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bit Manipulation
 |  |
