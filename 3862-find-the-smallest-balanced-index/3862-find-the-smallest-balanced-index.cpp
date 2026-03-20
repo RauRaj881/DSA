@@ -13,7 +13,7 @@ public:
             int l = log10(pd[i+1]);
             int r = log10(ns[i]); 
             int sum = l + r;
-            if(sum>14){pd[i]=1e16;}
+            if(sum>=14){pd[i]=1e16;}
             else{pd[i]=pd[i+1]*ns[i];}
         }
         for(int i=0;i<n;i++){
