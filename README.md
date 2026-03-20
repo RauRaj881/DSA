@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/RauRaj881/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RauRaj881/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3843-first-element-with-unique-frequency](https://github.com/RauRaj881/DSA/tree/master/3843-first-element-with-unique-frequency) |
+| [3862-find-the-smallest-balanced-index](https://github.com/RauRaj881/DSA/tree/master/3862-find-the-smallest-balanced-index) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/RauRaj881/DSA/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/RauRaj881/DSA/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3928-split-and-merge-array-transformation](https://github.com/RauRaj881/DSA/tree/master/3928-split-and-merge-array-transformation) |
@@ -866,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-number-of-zigzag-arrays-i](https://github.com/RauRaj881/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/RauRaj881/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/RauRaj881/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3862-find-the-smallest-balanced-index](https://github.com/RauRaj881/DSA/tree/master/3862-find-the-smallest-balanced-index) |
 | [4045-longest-balanced-subarray-i](https://github.com/RauRaj881/DSA/tree/master/4045-longest-balanced-subarray-i) |
 ## Counting
 |  |
