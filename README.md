@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1862-sum-of-floored-pairs](https://github.com/RauRaj881/DSA/tree/master/1862-sum-of-floored-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RauRaj881/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RauRaj881/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/RauRaj881/DSA/tree/master/1895-largest-magic-square) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/RauRaj881/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/RauRaj881/DSA/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RauRaj881/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-cherry-pickup-ii](https://github.com/RauRaj881/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RauRaj881/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RauRaj881/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/RauRaj881/DSA/tree/master/1895-largest-magic-square) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/RauRaj881/DSA/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RauRaj881/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
