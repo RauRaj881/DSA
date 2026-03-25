@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/RauRaj881/DSA/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/RauRaj881/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/RauRaj881/DSA/tree/master/3433-count-mentions-per-user) |
+| [3547-maximum-sum-of-edge-values-in-a-graph](https://github.com/RauRaj881/DSA/tree/master/3547-maximum-sum-of-edge-values-in-a-graph) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/RauRaj881/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RauRaj881/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/RauRaj881/DSA/tree/master/3623-count-number-of-trapezoids-i) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RauRaj881/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3449-maximize-the-minimum-game-score](https://github.com/RauRaj881/DSA/tree/master/3449-maximize-the-minimum-game-score) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/RauRaj881/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3547-maximum-sum-of-edge-values-in-a-graph](https://github.com/RauRaj881/DSA/tree/master/3547-maximum-sum-of-edge-values-in-a-graph) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/RauRaj881/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RauRaj881/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [4005-maximum-total-subarray-value-i](https://github.com/RauRaj881/DSA/tree/master/4005-maximum-total-subarray-value-i) |
@@ -1029,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RauRaj881/DSA/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RauRaj881/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RauRaj881/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3547-maximum-sum-of-edge-values-in-a-graph](https://github.com/RauRaj881/DSA/tree/master/3547-maximum-sum-of-edge-values-in-a-graph) |
 | [3620-network-recovery-pathways](https://github.com/RauRaj881/DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
