@@ -12,7 +12,7 @@ public:
                 if(tp[s[l]]==0){tp.erase(s[l]);}
                 l++;
             }
-            if(tp.size()<=mxLt&&r-l+1>=mnSz)mp[s.substr(l,r-l+1)]++;
+            if(tp.size()<=mxLt&&r-l+1==mnSz)mp[s.substr(l,r-l+1)]++;
         }
         int ans=0;
         for(auto it:mp){
