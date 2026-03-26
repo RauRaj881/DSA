@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RauRaj881/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/RauRaj881/DSA/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RauRaj881/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0691-stickers-to-spell-word](https://github.com/RauRaj881/DSA/tree/master/0691-stickers-to-spell-word) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RauRaj881/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/RauRaj881/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/RauRaj881/DSA/tree/master/0739-daily-temperatures) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/RauRaj881/DSA/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/RauRaj881/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RauRaj881/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0691-stickers-to-spell-word](https://github.com/RauRaj881/DSA/tree/master/0691-stickers-to-spell-word) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RauRaj881/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RauRaj881/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0790-domino-and-tromino-tiling](https://github.com/RauRaj881/DSA/tree/master/0790-domino-and-tromino-tiling) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/RauRaj881/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/RauRaj881/DSA/tree/master/0139-word-break) |
+| [0691-stickers-to-spell-word](https://github.com/RauRaj881/DSA/tree/master/0691-stickers-to-spell-word) |
 ## String
 |  |
 | ------- |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/RauRaj881/DSA/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/RauRaj881/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0686-repeated-string-match](https://github.com/RauRaj881/DSA/tree/master/0686-repeated-string-match) |
+| [0691-stickers-to-spell-word](https://github.com/RauRaj881/DSA/tree/master/0691-stickers-to-spell-word) |
 | [0696-count-binary-substrings](https://github.com/RauRaj881/DSA/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RauRaj881/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0792-number-of-matching-subsequences](https://github.com/RauRaj881/DSA/tree/master/0792-number-of-matching-subsequences) |
@@ -565,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/RauRaj881/DSA/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/RauRaj881/DSA/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/RauRaj881/DSA/tree/master/0494-target-sum) |
+| [0691-stickers-to-spell-word](https://github.com/RauRaj881/DSA/tree/master/0691-stickers-to-spell-word) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RauRaj881/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/RauRaj881/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bit Manipulation
@@ -578,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/RauRaj881/DSA/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/RauRaj881/DSA/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/RauRaj881/DSA/tree/master/0401-binary-watch) |
+| [0691-stickers-to-spell-word](https://github.com/RauRaj881/DSA/tree/master/0691-stickers-to-spell-word) |
 | [0693-binary-number-with-alternating-bits](https://github.com/RauRaj881/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RauRaj881/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/RauRaj881/DSA/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -613,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/RauRaj881/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RauRaj881/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/RauRaj881/DSA/tree/master/0567-permutation-in-string) |
+| [0691-stickers-to-spell-word](https://github.com/RauRaj881/DSA/tree/master/0691-stickers-to-spell-word) |
 | [0792-number-of-matching-subsequences](https://github.com/RauRaj881/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0923-3sum-with-multiplicity](https://github.com/RauRaj881/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/RauRaj881/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -1059,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0691-stickers-to-spell-word](https://github.com/RauRaj881/DSA/tree/master/0691-stickers-to-spell-word) |
 | [1755-closest-subsequence-sum](https://github.com/RauRaj881/DSA/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RauRaj881/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Merge Sort
