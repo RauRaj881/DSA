@@ -8,7 +8,7 @@ public:
             for(int j=i;j<min(n,i+30);j++){
                 bool pos=true;
                 for(int k=0;k<=30;k++){
-                    if(nums[j] & (1<<k)){
+                    if((nums[j] & (1<<k))!=0){
                         if(st.count(k)){
                         pos=false;break;}
                         else{st.insert(k);}
