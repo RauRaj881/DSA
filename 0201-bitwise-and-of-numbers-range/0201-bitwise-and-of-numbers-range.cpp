@@ -7,6 +7,6 @@ public:
             right>>=1;
             shifts++;
         }
-        return right<<shifts;
+        return left<<shifts;
     }
 };
