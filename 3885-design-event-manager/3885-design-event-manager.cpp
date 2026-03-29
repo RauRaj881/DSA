@@ -17,8 +17,7 @@ public:
     
     int pollHighest(){
         if(pq.empty()){return -1;}
-        while(!pq.empty()&&(!mp.count(-pq.top().second))||(!pq.empty()&&mp[-pq.top().second]!=pq.top().first)){
-
+        while((!pq.empty()&&mp[-pq.top().second]!=pq.top().first)){
             pq.pop();
         }
         if(pq.empty()){return -1;}
