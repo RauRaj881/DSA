@@ -36,7 +36,7 @@ public:
                 auto it=upper_bound(ds[pvl].begin(),ds[pvl].end(),nm);
                 int idx=it-ds[pvl].begin();
                 if(idx > 0){
-        dp[i][nm] = pre[idx-1]%(mod);
+        dp[i][nm] = pre[idx-1];
     } else {
         dp[i][nm] = 0;
     }
