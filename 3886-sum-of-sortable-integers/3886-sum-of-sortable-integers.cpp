@@ -1,52 +1,33 @@
 class Solution {
 public:
-    bool isSortable(const vector<int>& nums, const vector<int>& target, int k, int n) {
-    for (int i = 0; i < n; i += k) {
-        // 1. Extract the current k-length block
-        vector<int> sub(nums.begin() + i, nums.begin() + i + k);
-        
-        // 2. Extract what the sorted version of THIS block SHOULD be
-        vector<int> expected(target.begin() + i, target.begin() + i + k);
-        
-        // 3. Check if 'sub' contains the correct elements
-        vector<int> temp = sub;
-        sort(temp.begin(), temp.end());
-        if (temp != expected) return false;
-
-        // 4. Check if 'sub' is a cyclic rotation of 'expected'
-        // A cyclic rotation of a sorted array has at most one "drop"
-        int drops = 0;
-        for (int j = 0; j < k; ++j) {
-            if (sub[j] > sub[(j + 1) % k]) {
-                drops++;
+    bool isvalid(int k,vector<int>&nums,vector<int>&st){
+        for(int i=0;i<nums.size();i+=k){
+            int cnt=0;
+            vector<int> tp(nums.begin()+i,nums.begin()+i+k);
+            vector<int> ntp=tp;
+            sort(ntp.begin(),ntp.end());
+            vector<int> x(st.begin()+i,st.begin()+i+k);
+            if(ntp!=x){return false;}
+            for(int i=1;i<tp.size();i++){
+                if(tp[i]<tp[i-1]){cnt++;}
             }
+            if(cnt>1||(cnt==1&&tp[0]<tp[tp.size()-1])){return false;}
         }
-        
-        // A perfectly sorted block (all same) has 0 drops.
-        // A rotated sorted block has exactly 1 drop.
-        if (drops > 1) return false;
+        return true;
     }
-    return true;
-}
     int sortableIntegers(vector<int>& nums){
-        vector<int> qelvarodin = nums;
-        int n = qelvarodin.size();
-        
-        vector<int> target = qelvarodin;
-        sort(target.begin(), target.end());
-
-        long long totalSum = 0;
-        
-        // Find all divisors of n
-        for (int k = 1; k <= n; ++k) {
-            if (n % k == 0) {
-                if (isSortable(qelvarodin, target, k, n)) {
-                    totalSum += k;
-                }
-            }
+        int n=nums.size();
+        vector<int> div;
+        for(int i=1;i<=n;i++){
+            if(n%i==0){div.push_back(i);}
         }
-        
-        return totalSum;
+        vector<int> st=nums;
+        sort(st.begin(),st.end());
+        int ans=0;
+        for(int i=0;i<div.size();i++){
+            if(isvalid(div[i],nums,st)){ans+=div[i];}
+        }
+        return ans;
         
     }
 };
