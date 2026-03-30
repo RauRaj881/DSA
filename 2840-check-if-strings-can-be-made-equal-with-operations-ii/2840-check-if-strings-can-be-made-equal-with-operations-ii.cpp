@@ -7,7 +7,6 @@ public:
         for(int i=0;i<=1;i++){
             string s="";
             for(int j=i;j<n;j+=2){
-                //string p=s1[j];
                 s+=s1[j];
             }
             sort(s.begin(),s.end());
