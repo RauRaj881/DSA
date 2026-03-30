@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RauRaj881/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/RauRaj881/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RauRaj881/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RauRaj881/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RauRaj881/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RauRaj881/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3399-smallest-substring-with-identical-characters-ii](https://github.com/RauRaj881/DSA/tree/master/3399-smallest-substring-with-identical-characters-ii) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/RauRaj881/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RauRaj881/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/RauRaj881/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RauRaj881/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/RauRaj881/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RauRaj881/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RauRaj881/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RauRaj881/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2659-make-array-empty](https://github.com/RauRaj881/DSA/tree/master/2659-make-array-empty) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/RauRaj881/DSA/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RauRaj881/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/RauRaj881/DSA/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3433-count-mentions-per-user](https://github.com/RauRaj881/DSA/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RauRaj881/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
