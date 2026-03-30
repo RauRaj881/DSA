@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RauRaj881/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2401-longest-nice-subarray](https://github.com/RauRaj881/DSA/tree/master/2401-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RauRaj881/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2573-find-the-string-with-lcp](https://github.com/RauRaj881/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2591-frog-jump-ii](https://github.com/RauRaj881/DSA/tree/master/2591-frog-jump-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/RauRaj881/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/RauRaj881/DSA/tree/master/2625-increment-submatrices-by-one) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RauRaj881/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/RauRaj881/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RauRaj881/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2573-find-the-string-with-lcp](https://github.com/RauRaj881/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/RauRaj881/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/RauRaj881/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RauRaj881/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RauRaj881/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2164-two-best-non-overlapping-events](https://github.com/RauRaj881/DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/RauRaj881/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2573-find-the-string-with-lcp](https://github.com/RauRaj881/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RauRaj881/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RauRaj881/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RauRaj881/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RauRaj881/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/RauRaj881/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RauRaj881/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2573-find-the-string-with-lcp](https://github.com/RauRaj881/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RauRaj881/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RauRaj881/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RauRaj881/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -703,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RauRaj881/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RauRaj881/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2573-find-the-string-with-lcp](https://github.com/RauRaj881/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2591-frog-jump-ii](https://github.com/RauRaj881/DSA/tree/master/2591-frog-jump-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/RauRaj881/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2659-make-array-empty](https://github.com/RauRaj881/DSA/tree/master/2659-make-array-empty) |
@@ -1038,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/RauRaj881/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RauRaj881/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RauRaj881/DSA/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
+| [2573-find-the-string-with-lcp](https://github.com/RauRaj881/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/RauRaj881/DSA/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Doubly-Linked List
 |  |
