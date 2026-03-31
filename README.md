@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RauRaj881/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RauRaj881/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3399-smallest-substring-with-identical-characters-ii](https://github.com/RauRaj881/DSA/tree/master/3399-smallest-substring-with-identical-characters-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/RauRaj881/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/RauRaj881/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/RauRaj881/DSA/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/RauRaj881/DSA/tree/master/3713-longest-balanced-substring-i) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/RauRaj881/DSA/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RauRaj881/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3449-maximize-the-minimum-game-score](https://github.com/RauRaj881/DSA/tree/master/3449-maximize-the-minimum-game-score) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/RauRaj881/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/RauRaj881/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3547-maximum-sum-of-edge-values-in-a-graph](https://github.com/RauRaj881/DSA/tree/master/3547-maximum-sum-of-edge-values-in-a-graph) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/RauRaj881/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -865,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RauRaj881/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/RauRaj881/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/RauRaj881/DSA/tree/master/0686-repeated-string-match) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/RauRaj881/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sliding Window
 |  |
 | ------- |
