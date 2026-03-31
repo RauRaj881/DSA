@@ -28,12 +28,11 @@ public:
                     bool pos=false;
                     for(int j=i+m-1;j>=i;j--){
                         if(st.count(j)){
-                            if(ans[j]=='a'){ans[j]='b';}
-                            else{ans[j]='a';}
+                            ans[j]='b';
                             pos=true;break;
                         }
                     }
-                    //if(!pos){return "";}
+                    if(!pos){return "";}
                 }
             }
         }
