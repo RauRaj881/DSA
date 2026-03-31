@@ -33,7 +33,7 @@ public:
                             pos=true;break;
                         }
                     }
-                    if(!pos){return "";}
+                    //if(!pos){return "";}
                 }
             }
         }
