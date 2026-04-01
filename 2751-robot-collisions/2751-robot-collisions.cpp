@@ -28,7 +28,7 @@ public:
                     else if(cht<sht){pos=true;sht--;st.push({sht,sx,si});break;}
                     else{pos=true;break;}
                 }
-                if(!pos){st.push({cht,cx,v[i][3]});}
+                //if(!pos){st.push({cht,cx,v[i][3]});}
             }
         }
         vector<pair<int,int>> ans;
