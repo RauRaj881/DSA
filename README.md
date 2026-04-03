@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/RauRaj881/DSA/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/RauRaj881/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RauRaj881/DSA/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/RauRaj881/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/RauRaj881/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/RauRaj881/DSA/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/RauRaj881/DSA/tree/master/0057-insert-interval) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RauRaj881/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/RauRaj881/DSA/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/RauRaj881/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/RauRaj881/DSA/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/RauRaj881/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/RauRaj881/DSA/tree/master/0078-subsets) |
