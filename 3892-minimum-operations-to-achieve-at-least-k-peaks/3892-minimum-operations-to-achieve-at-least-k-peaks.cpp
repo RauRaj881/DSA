@@ -3,7 +3,7 @@ class Solution {
 public:
 ll fn(int st,int ed,vector<int>& nums, int k){
     if(k==0){return 0;}
-    if(ed<st){return 1e9;}
+    //if(ed<st){return 1e9;}
     int n=nums.size();
     vector<vector<int>> dp(n,vector<int>(k+1,INT_MAX));
     for(int i=st;i<=ed;i++){dp[i][0]=0;}
