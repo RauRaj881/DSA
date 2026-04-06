@@ -11,7 +11,7 @@ public:
             mp1[nums[r]]++;
             mp2[nums[r]]++;
             if(mp2[nums[r]]==m){tv++;}
-            while(mp1.size()>k&&l1<r){
+            while(mp1.size()>k){
                 mp1[nums[l1]]--;
                 if(mp1[nums[l1]]==0){mp1.erase(nums[l1]);}
                 l1++;
