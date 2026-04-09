@@ -24,7 +24,7 @@ public:
             int y=mW-x;
             int ad=0;
             if(sp!=0){ns=y/sp;ad=y%sp;}
-            if(j==n-1){ad=n,ns=0;}
+            if(j==n-1){ad=n;ns=0;}
             for(int idx=i;idx<=j;idx++){
                 if(idx==i){cr+=words[idx];}
                 else{
