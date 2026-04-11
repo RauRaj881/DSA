@@ -12,15 +12,15 @@ public:
             }
             }
         }
-        ll lt=-1;
+        int lt=-1;
         vector<ll> p(1e5+5,-1);
         for(ll i=1e5+4;i>=0;i--){
             if(v[i]==0){lt=i;}
             p[i]=lt;
         }
-        ll ans=0;
-        for(ll i=0;i<n;i++){
-            ll x=nums[i];
+        int ans=0;
+        for(int i=0;i<n;i++){
+            int x=nums[i];
             if(i%2==1){
                 if(v[x]==0){
                     if(x==2){ans+=2;}
@@ -29,10 +29,10 @@ public:
             }
             else{
                 if(v[x]==1){
-                    ans+=(ll)(p[x]-x);
+                    ans+=(p[x]-x);
                 }
             }
         }
-        return (int)ans;
+        return ans;
     }
 };
