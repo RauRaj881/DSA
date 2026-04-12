@@ -33,11 +33,11 @@ public:
                 vector<int> arr=mp[df-2];
                 for(int j=0;j<arr.size();j++){
                 if(mp[df-2][j]>0){
-                    if(pre0[mp[df-2][j]-1]>0){ans=max(ans,i-mp[df-2][j]);}
+                    if(pre0[mp[df-2][j]-1]>0){ans=max(ans,i-mp[df-2][j]);break;}
                 }
                 if(i<n-1){
                     if(pre0[n-1]>pre0[i]){
-                        ans=max(ans,i-mp[df-2][j]);
+                        ans=max(ans,i-mp[df-2][j]);break;
                     }
                 }
                 }
