@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/RauRaj881/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RauRaj881/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2573-find-the-string-with-lcp](https://github.com/RauRaj881/DSA/tree/master/2573-find-the-string-with-lcp) |
+| [2585-number-of-ways-to-earn-points](https://github.com/RauRaj881/DSA/tree/master/2585-number-of-ways-to-earn-points) |
 | [2591-frog-jump-ii](https://github.com/RauRaj881/DSA/tree/master/2591-frog-jump-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/RauRaj881/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/RauRaj881/DSA/tree/master/2625-increment-submatrices-by-one) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/RauRaj881/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2463-minimum-total-distance-traveled](https://github.com/RauRaj881/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/RauRaj881/DSA/tree/master/2573-find-the-string-with-lcp) |
+| [2585-number-of-ways-to-earn-points](https://github.com/RauRaj881/DSA/tree/master/2585-number-of-ways-to-earn-points) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RauRaj881/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RauRaj881/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/RauRaj881/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
