@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/RauRaj881/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/RauRaj881/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RauRaj881/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/RauRaj881/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1755-closest-subsequence-sum](https://github.com/RauRaj881/DSA/tree/master/1755-closest-subsequence-sum) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/RauRaj881/DSA/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/RauRaj881/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1300-critical-connections-in-a-network](https://github.com/RauRaj881/DSA/tree/master/1300-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RauRaj881/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/RauRaj881/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RauRaj881/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/RauRaj881/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2097-valid-arrangement-of-pairs](https://github.com/RauRaj881/DSA/tree/master/2097-valid-arrangement-of-pairs) |
@@ -1125,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1202-smallest-string-with-swaps](https://github.com/RauRaj881/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RauRaj881/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/RauRaj881/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RauRaj881/DSA/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2573-find-the-string-with-lcp](https://github.com/RauRaj881/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/RauRaj881/DSA/tree/master/3873-maximum-points-activated-with-one-addition) |
