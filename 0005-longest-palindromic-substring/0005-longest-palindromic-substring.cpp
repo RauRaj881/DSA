@@ -1,27 +1,33 @@
 class Solution {
 public:
-bool ispalin(int i,int j,string &s){
-    int l=i,r=j;
-    while(l<r){
-        if(s[l]!=s[r]){return false;}
-        r--;l++;
-    }
-    return true;
-}
-    string longestPalindrome(string s) {
+    string longestPalindrome(string s){
         int n=s.size();
-        int x=0,y=0;
         int mx=1;
+        int idx=0;
         for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                if(ispalin(i,j,s)){
-                    if(j-i+1>mx){
-                        mx=j-i+1;
-                        x=i;y=j;
-                    }
-                }
+            int cr=i;
+            int lt=i-1;int rt=i+1;
+            int len=1;
+            while(lt>=0&&rt<n){
+                if(s[lt]==s[rt]){len+=2;lt--;rt++;}
+                else{break;}
             }
+            lt=i-1;rt=i+1;
+            if(len>mx){mx=len;idx=i;}
+            if(lt>=0&&s[i]==s[lt]){len=2;lt--;
+            while(lt>=0&&rt<n){
+                if(s[lt]==s[rt]){len+=2;lt--;rt++;}
+                else{break;}
+            }
+            }
+            if(len>mx){mx=len;idx=i;}
         }
-        return s.substr(x,y-x+1);
+            string ans="";
+            int i=idx-mx/2;
+            while(mx--){
+                ans+=s[i];
+                i++;
+            }
+            return ans;
     }
 };
