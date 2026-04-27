@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/RauRaj881/DSA/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/RauRaj881/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/RauRaj881/DSA/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RauRaj881/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RauRaj881/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/RauRaj881/DSA/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RauRaj881/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/RauRaj881/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/RauRaj881/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/RauRaj881/DSA/tree/master/0436-find-right-interval) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RauRaj881/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/RauRaj881/DSA/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RauRaj881/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/RauRaj881/DSA/tree/master/0792-number-of-matching-subsequences) |
