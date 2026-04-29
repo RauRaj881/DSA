@@ -1,24 +1,24 @@
 class Solution {
 public:
-vector<vector<int>> ans;
-void f(int i,vector<int>& cd,vector<int>& path,int tar,int sm){
-    if(i==cd.size()){
-        if(sm==tar){ans.push_back(path);}
-        return;
+    void backtrack(vector<vector<int>>&v,vector<int>&ans,vector<int>& candidates,int target,int s,int i){
+        if(i==candidates.size() || s>target){
+            if(s==target){
+                v.push_back(ans);
+            }
+            return;
+        }
+        ans.push_back(candidates[i]);
+        s+=candidates[i];
+        backtrack(v,ans,candidates,target,s,i);
+        ans.pop_back();
+        s-=candidates[i];
+        backtrack(v,ans,candidates,target,s,i+1);
     }
-    //path.push_back(cd[i]);
-    //sm+=cd[i];
-    f(i+1,cd,path,tar,sm);
-    if(cd[i]+sm<=tar){
-        path.push_back(cd[i]);
-    f(i,cd,path,tar,sm+cd[i]);
-    path.pop_back();
-    }
-}
-    vector<vector<int>> combinationSum(vector<int>& cd, int tar){
-        int n=cd.size();
-        vector<int> path;
-        f(0,cd,path,tar,0);
-        return ans;
-    }
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        sort(candidates.begin(),candidates.end());
+        vector<vector<int>> v;
+        vector<int> ans;
+        backtrack(v,ans,candidates,target,0,0);
+        return v;
+    }                                  
 };
