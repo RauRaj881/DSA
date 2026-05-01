@@ -578,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/RauRaj881/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/RauRaj881/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/RauRaj881/DSA/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/RauRaj881/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/RauRaj881/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/RauRaj881/DSA/tree/master/0392-is-subsequence) |
 | [0433-minimum-genetic-mutation](https://github.com/RauRaj881/DSA/tree/master/0433-minimum-genetic-mutation) |
@@ -894,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/RauRaj881/DSA/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RauRaj881/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RauRaj881/DSA/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/RauRaj881/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RauRaj881/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/RauRaj881/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/RauRaj881/DSA/tree/master/0567-permutation-in-string) |
