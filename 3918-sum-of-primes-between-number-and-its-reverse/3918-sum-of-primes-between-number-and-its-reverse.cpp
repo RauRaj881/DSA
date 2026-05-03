@@ -3,9 +3,11 @@ public:
     int sumOfPrimesInRange(int n){
         vector<int> sieve(1001,-1);
         sieve[1]=0;
-        for(int i=2;i<=1000;i++){ 
+        for(int i=2;i*i<=1000;i++){
+            if(sieve[i]==-1){
             for(int j=i*i;j<=1000;j+=i){ 
-                if(j<=1000){sieve[j]=1;} 
+                sieve[j]=1; 
+            }
             } 
         } 
         string s=""; 
