@@ -828,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RauRaj881/DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/RauRaj881/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/RauRaj881/DSA/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/RauRaj881/DSA/tree/master/0234-palindrome-linked-list) |
 | [1106-parsing-a-boolean-expression](https://github.com/RauRaj881/DSA/tree/master/1106-parsing-a-boolean-expression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RauRaj881/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RauRaj881/DSA/tree/master/2573-remove-nodes-from-linked-list) |
@@ -900,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RauRaj881/DSA/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/RauRaj881/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RauRaj881/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/RauRaj881/DSA/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/RauRaj881/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/RauRaj881/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/RauRaj881/DSA/tree/master/0658-find-k-closest-elements) |
@@ -940,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/RauRaj881/DSA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RauRaj881/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RauRaj881/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/RauRaj881/DSA/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/RauRaj881/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RauRaj881/DSA/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RauRaj881/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1127,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/RauRaj881/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/RauRaj881/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RauRaj881/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RauRaj881/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RauRaj881/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
