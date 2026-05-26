@@ -29,7 +29,7 @@ public:
             else{carry=0;}
             ListNode* nt=new ListNode(sm%10);
             tail->next=nt;
-            tail=tail->next;
+            tail=nt;
         } 
         return dummy->next;
     }
