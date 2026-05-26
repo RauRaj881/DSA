@@ -708,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/RauRaj881/DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/RauRaj881/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/RauRaj881/DSA/tree/master/0139-word-break) |
+| [0160-intersection-of-two-linked-lists](https://github.com/RauRaj881/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/RauRaj881/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/RauRaj881/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RauRaj881/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -903,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RauRaj881/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/RauRaj881/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/RauRaj881/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/RauRaj881/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RauRaj881/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/RauRaj881/DSA/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/RauRaj881/DSA/tree/master/0392-is-subsequence) |
@@ -1136,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RauRaj881/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/RauRaj881/DSA/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/RauRaj881/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/RauRaj881/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/RauRaj881/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RauRaj881/DSA/tree/master/0876-middle-of-the-linked-list) |
