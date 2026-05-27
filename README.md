@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RauRaj881/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RauRaj881/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RauRaj881/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/RauRaj881/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3399-smallest-substring-with-identical-characters-ii](https://github.com/RauRaj881/DSA/tree/master/3399-smallest-substring-with-identical-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/RauRaj881/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/RauRaj881/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/RauRaj881/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RauRaj881/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/RauRaj881/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/RauRaj881/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/RauRaj881/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/RauRaj881/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/RauRaj881/DSA/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
