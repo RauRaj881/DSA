@@ -9,13 +9,12 @@ public:
                 if(int(word[i])==nm-32){
                     if(idxl==-1){idxl=i;}
                 }
-                if(int(word[i]==nm)){
+                if(int(word[i])==nm){
                     idxs=i;
                 }
             }
             if((idxs!=-1&&idxl!=-1)&&idxl>idxs){ans++;}
         }
         return ans;
-        
     }
 };
