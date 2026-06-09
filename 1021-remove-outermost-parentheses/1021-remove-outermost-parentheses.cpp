@@ -1,25 +1,14 @@
 class Solution {
 public:
-    string removeOuterParentheses(string s) {
-        int t=0,p=0;
-        vector<int> v;        
-        for(int i=0;i<s.size();i++){
-            char c=s[i];
-            if(c=='(') t++;
-            else if(c==')') p++;
-            if(t==p){v.push_back(i);
-        t=0;
-            p=0;
-            }
-            if(t==1){
-                v.push_back(i);
-                }
+    string removeOuterParentheses(string s){
+        string ans="";
+        int cnt=0;
+        for(auto it:s){
+            if(it=='('){cnt--;}
+            else{cnt++;}
+            if(cnt==0||(cnt==-1&&it=='(')){continue;}
+            else{ans+=it;}
         }
-        int u=v.size();
-        for(int j=0;j<u;j++){
-          int index=v[j]-j;
-           s.erase(s.begin()+index);
-        }
-        return s;
+        return ans;
     }
 };
