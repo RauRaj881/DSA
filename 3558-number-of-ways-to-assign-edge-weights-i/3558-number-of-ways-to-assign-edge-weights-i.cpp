@@ -9,17 +9,18 @@ void dfs(int nd,vector<vector<int>> &adj,int prt,int &mxd,int x){
         }
     }
 }
-long long modPow(long long a, long long b) {
-        long long res = 1;
-
-        while (b) {
-            if (b & 1) res = (res * a) % md;
-            a = (a * a) % md;
-            b >>= 1;
+int modPow(long long a,long long b){
+    int ans=1;
+    while(b>0){
+        if(b%2==1){
+            ans=(ans*a)%(md);
         }
-
-        return res;
+        a=(a*a)%(md);
+        b/=2;
+    }
+    return ans;
 }
+
 
     int assignEdgeWeights(vector<vector<int>>& ed){
         int n=ed.size()+1;
