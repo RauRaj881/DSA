@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/RauRaj881/DSA/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/RauRaj881/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RauRaj881/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3838-weighted-word-mapping](https://github.com/RauRaj881/DSA/tree/master/3838-weighted-word-mapping) |
 | [3843-first-element-with-unique-frequency](https://github.com/RauRaj881/DSA/tree/master/3843-first-element-with-unique-frequency) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/RauRaj881/DSA/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 | [3862-find-the-smallest-balanced-index](https://github.com/RauRaj881/DSA/tree/master/3862-find-the-smallest-balanced-index) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/RauRaj881/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RauRaj881/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/RauRaj881/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/RauRaj881/DSA/tree/master/3838-weighted-word-mapping) |
 | [3844-longest-almost-palindromic-substring](https://github.com/RauRaj881/DSA/tree/master/3844-longest-almost-palindromic-substring) |
 ## Backtracking
 |  |
@@ -1129,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RauRaj881/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/RauRaj881/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/RauRaj881/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/RauRaj881/DSA/tree/master/3838-weighted-word-mapping) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/RauRaj881/DSA/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Divide and Conquer
 |  |
