@@ -42,15 +42,11 @@ public:
         }
 
 
-        while(cr1!=nullptr){
+        if(cr1!=nullptr){
             prv->next=cr1;
-            prv=cr1;
-            cr1=cr1->next;
         }
-        while(cr2!=nullptr){
+        if(cr2!=nullptr){
             prv->next=cr2;
-            prv=cr2;
-            cr2=cr2->next;
         }
         if(vl1<=vl2){return list1;}
         return list2;
