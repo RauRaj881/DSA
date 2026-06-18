@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/RauRaj881/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1234-number-of-paths-with-max-score](https://github.com/RauRaj881/DSA/tree/master/1234-number-of-paths-with-max-score) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RauRaj881/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RauRaj881/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/RauRaj881/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RauRaj881/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RauRaj881/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/RauRaj881/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/RauRaj881/DSA/tree/master/1129-longest-string-chain) |
 | [1202-smallest-string-with-swaps](https://github.com/RauRaj881/DSA/tree/master/1202-smallest-string-with-swaps) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RauRaj881/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/RauRaj881/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/RauRaj881/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RauRaj881/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/RauRaj881/DSA/tree/master/0853-most-profit-assigning-work) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/RauRaj881/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RauRaj881/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RauRaj881/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RauRaj881/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/RauRaj881/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1612-avoid-flood-in-the-city](https://github.com/RauRaj881/DSA/tree/master/1612-avoid-flood-in-the-city) |
@@ -898,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/RauRaj881/DSA/tree/master/1129-longest-string-chain) |
 | [1184-car-pooling](https://github.com/RauRaj881/DSA/tree/master/1184-car-pooling) |
 | [1202-smallest-string-with-swaps](https://github.com/RauRaj881/DSA/tree/master/1202-smallest-string-with-swaps) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RauRaj881/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/RauRaj881/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RauRaj881/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/RauRaj881/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
