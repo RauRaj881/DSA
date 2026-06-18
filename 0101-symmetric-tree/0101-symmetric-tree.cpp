@@ -11,22 +11,21 @@
  */
 class Solution {
 public:
-    bool isSymmetric(TreeNode* root){
-        queue<TreeNode*> q;
-        q.push(root->left);
-        q.push(root->right);
-        while(!q.empty()){
-            TreeNode* lt=q.front();
-            q.pop();
-            TreeNode* rt=q.front();
-            q.pop();
-            if(lt == nullptr && rt == nullptr)continue;
-
-            if(lt==nullptr||rt==nullptr||lt->val!=rt->val){return false;}
-
-            q.push(lt->left);q.push(rt->right);
-            q.push(lt->right);q.push(rt->left);
-        }
+bool check(TreeNode* lt,TreeNode* rt){
+    if(lt==nullptr){
+        if(rt==nullptr){return 1;}
+        else return 0;
+    }
+    if(rt==nullptr){
+        if(lt==nullptr){return 1;}
+        else return 0;
+    }
+    if(lt->val==rt->val&&check(lt->left,rt->right)&&check(lt->right,rt->left)){
         return true;
+    }
+    return false;
+}
+    bool isSymmetric(TreeNode* root) {
+        return check(root->left,root->right);   
     }
 };
