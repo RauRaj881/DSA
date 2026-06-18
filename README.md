@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/RauRaj881/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RauRaj881/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/RauRaj881/DSA/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/RauRaj881/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RauRaj881/DSA/tree/master/0200-number-of-islands) |
 | [0794-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0794-swim-in-rising-water) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/RauRaj881/DSA/tree/master/0101-symmetric-tree) |
 | [0127-word-ladder](https://github.com/RauRaj881/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/RauRaj881/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RauRaj881/DSA/tree/master/0200-number-of-islands) |
@@ -1236,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RauRaj881/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/RauRaj881/DSA/tree/master/0101-symmetric-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RauRaj881/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RauRaj881/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RauRaj881/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1244,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RauRaj881/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/RauRaj881/DSA/tree/master/0101-symmetric-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RauRaj881/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RauRaj881/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RauRaj881/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
