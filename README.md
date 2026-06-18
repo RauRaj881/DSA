@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RauRaj881/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/RauRaj881/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2097-valid-arrangement-of-pairs](https://github.com/RauRaj881/DSA/tree/master/2097-valid-arrangement-of-pairs) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RauRaj881/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RauRaj881/DSA/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/RauRaj881/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3607-power-grid-maintenance](https://github.com/RauRaj881/DSA/tree/master/3607-power-grid-maintenance) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RauRaj881/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/RauRaj881/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/RauRaj881/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RauRaj881/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RauRaj881/DSA/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3607-power-grid-maintenance](https://github.com/RauRaj881/DSA/tree/master/3607-power-grid-maintenance) |
 | [3928-split-and-merge-array-transformation](https://github.com/RauRaj881/DSA/tree/master/3928-split-and-merge-array-transformation) |
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/RauRaj881/DSA/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/RauRaj881/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RauRaj881/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RauRaj881/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RauRaj881/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/RauRaj881/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RauRaj881/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -1235,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/RauRaj881/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RauRaj881/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RauRaj881/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RauRaj881/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/RauRaj881/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
@@ -1242,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/RauRaj881/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RauRaj881/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RauRaj881/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RauRaj881/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union-Find
 |  |
 | ------- |
