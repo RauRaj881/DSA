@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/RauRaj881/DSA/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RauRaj881/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RauRaj881/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/RauRaj881/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3336-water-bottles-ii](https://github.com/RauRaj881/DSA/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/RauRaj881/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/RauRaj881/DSA/tree/master/3433-count-mentions-per-user) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RauRaj881/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2401-longest-nice-subarray](https://github.com/RauRaj881/DSA/tree/master/2401-longest-nice-subarray) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RauRaj881/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/RauRaj881/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/RauRaj881/DSA/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/RauRaj881/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/RauRaj881/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/RauRaj881/DSA/tree/master/1106-parsing-a-boolean-expression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RauRaj881/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RauRaj881/DSA/tree/master/2573-remove-nodes-from-linked-list) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/RauRaj881/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |
@@ -1129,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RauRaj881/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2751-robot-collisions](https://github.com/RauRaj881/DSA/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RauRaj881/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/RauRaj881/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3336-water-bottles-ii](https://github.com/RauRaj881/DSA/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/RauRaj881/DSA/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RauRaj881/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
