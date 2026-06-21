@@ -17,7 +17,7 @@ public:
         while(!st.empty()){
             auto it=*st.begin();
             int w=it[0],u=it[1],cnt=it[2];
-            st.erase(it);
+            st.erase(st.begin());
             //if (w != dist[u][cnt]) continue;
             if(it[1]==n-1){return it[0];}
             for(auto it2:adj[u]){
