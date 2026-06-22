@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/RauRaj881/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2659-make-array-empty](https://github.com/RauRaj881/DSA/tree/master/2659-make-array-empty) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/RauRaj881/DSA/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/RauRaj881/DSA/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/RauRaj881/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RauRaj881/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/RauRaj881/DSA/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/RauRaj881/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/RauRaj881/DSA/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RauRaj881/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/RauRaj881/DSA/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RauRaj881/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/RauRaj881/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3336-water-bottles-ii](https://github.com/RauRaj881/DSA/tree/master/3336-water-bottles-ii) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/RauRaj881/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2585-number-of-ways-to-earn-points](https://github.com/RauRaj881/DSA/tree/master/2585-number-of-ways-to-earn-points) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RauRaj881/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/RauRaj881/DSA/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RauRaj881/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/RauRaj881/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RauRaj881/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RauRaj881/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2401-longest-nice-subarray](https://github.com/RauRaj881/DSA/tree/master/2401-longest-nice-subarray) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RauRaj881/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/RauRaj881/DSA/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/RauRaj881/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/RauRaj881/DSA/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/RauRaj881/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
