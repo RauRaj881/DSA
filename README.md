@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RauRaj881/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/RauRaj881/DSA/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2097-valid-arrangement-of-pairs](https://github.com/RauRaj881/DSA/tree/master/2097-valid-arrangement-of-pairs) |
+| [2104-sum-of-subarray-ranges](https://github.com/RauRaj881/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RauRaj881/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-solving-questions-with-brainpower](https://github.com/RauRaj881/DSA/tree/master/2140-solving-questions-with-brainpower) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RauRaj881/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -1033,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RauRaj881/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RauRaj881/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/RauRaj881/DSA/tree/master/1717-maximum-score-from-removing-substrings) |
+| [2104-sum-of-subarray-ranges](https://github.com/RauRaj881/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2211-count-collisions-on-a-road](https://github.com/RauRaj881/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RauRaj881/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 | [2751-robot-collisions](https://github.com/RauRaj881/DSA/tree/master/2751-robot-collisions) |
@@ -1047,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/RauRaj881/DSA/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/RauRaj881/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RauRaj881/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/RauRaj881/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RauRaj881/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RauRaj881/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Enumeration
