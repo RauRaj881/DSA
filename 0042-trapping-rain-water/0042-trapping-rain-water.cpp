@@ -1,15 +1,23 @@
 class Solution {
 public:
-    int trap(vector<int>& height) {
-        int n=height.size();
-        int leftm=-1,rightm=-1;
-        int l=0,r=n-1,total=0;
-        while(l<r){
-            leftm=max(height[l],leftm);
-            rightm=max(height[r],rightm);
-            if(leftm<=rightm){total+=leftm-height[l];l++;}
-            else{total+=rightm-height[r];r--;}
+    int trap(vector<int>& hgt){
+        int n=hgt.size();
+        stack<int> st;
+        int ans=0;
+        for(int i=0;i<n;i++){
+            while(!st.empty()&&hgt[st.top()]<=hgt[i]){
+                int btw=hgt[st.top()];
+                st.pop();
+                if(st.empty()){break;}
+                int lt=hgt[st.top()];
+                int rt=hgt[i];
+                int ht=min(rt,lt)-btw;
+                int wd=i-st.top()-1;
+                ans+=(wd*ht);
+            }
+            st.push(i);
         }
-        return total;
+        return ans;
+        
     }
 };
