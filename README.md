@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/RauRaj881/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RauRaj881/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/RauRaj881/DSA/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/RauRaj881/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/RauRaj881/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/RauRaj881/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/RauRaj881/DSA/tree/master/0053-maximum-subarray) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RauRaj881/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/RauRaj881/DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/RauRaj881/DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/RauRaj881/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/RauRaj881/DSA/tree/master/0062-unique-paths) |
@@ -962,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/RauRaj881/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RauRaj881/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/RauRaj881/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/RauRaj881/DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RauRaj881/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RauRaj881/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/RauRaj881/DSA/tree/master/0148-sort-list) |
@@ -1008,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RauRaj881/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/RauRaj881/DSA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RauRaj881/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RauRaj881/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -1033,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RauRaj881/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/RauRaj881/DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/RauRaj881/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RauRaj881/DSA/tree/master/0503-next-greater-element-ii) |
