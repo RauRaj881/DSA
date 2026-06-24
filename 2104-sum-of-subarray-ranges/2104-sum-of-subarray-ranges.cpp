@@ -18,27 +18,28 @@ public:
             else{right[i]=st.top()-i;}
             st.push(i);
         }
+
+
+        while(!st.empty()){st.pop();}
         vector<int> left2(n);
         vector<int> right2(n);
-        stack<int> st2;
         for(int i=0;i<n;i++){
-            while(!st2.empty()&&arr[i]>=arr[st2.top()]){st2.pop();}
-            if(st2.empty()){left2[i]=i+1;}
-            else{left2[i]=i-st2.top();}
-            st2.push(i);
+            while(!st.empty()&&arr[i]>=arr[st.top()]){st.pop();}
+            if(st.empty()){left2[i]=i+1;}
+            else{left2[i]=i-st.top();}
+            st.push(i);
         }
-        while(!st2.empty()){st2.pop();}
+        while(!st.empty()){st.pop();}
         for(int i=n-1;i>=0;i--){
-            while(!st2.empty()&&arr[i]>arr[st2.top()]){st2.pop();}
-            if(st2.empty()){right2[i]=n-i;}
-            else{right2[i]=st2.top()-i;}
-            st2.push(i);
+            while(!st.empty()&&arr[i]>arr[st.top()]){st.pop();}
+            if(st.empty()){right2[i]=n-i;}
+            else{right2[i]=st.top()-i;}
+            st.push(i);
         }
         long long ans=0;
-        long long mod=1e9+7;
         for(int i=0;i<n;i++){
-            long long tp=-(1LL*arr[i]*left[i]*right[i])+(1LL*arr[i]*left2[i]*right2[i]);
-            ans=(ans+tp);
+            ans += 1LL * arr[i] * left2[i] * right2[i];
+            ans -= 1LL * arr[i] * left[i] * right[i];
         }
         return ans; 
     }
