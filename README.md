@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/RauRaj881/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1755-closest-subsequence-sum](https://github.com/RauRaj881/DSA/tree/master/1755-closest-subsequence-sum) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/RauRaj881/DSA/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/RauRaj881/DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1833-maximum-ice-cream-bars](https://github.com/RauRaj881/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1862-sum-of-floored-pairs](https://github.com/RauRaj881/DSA/tree/master/1862-sum-of-floored-pairs) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/RauRaj881/DSA/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/RauRaj881/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/RauRaj881/DSA/tree/master/1612-avoid-flood-in-the-city) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/RauRaj881/DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1862-sum-of-floored-pairs](https://github.com/RauRaj881/DSA/tree/master/1862-sum-of-floored-pairs) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/RauRaj881/DSA/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
@@ -989,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/RauRaj881/DSA/tree/master/1129-longest-string-chain) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/RauRaj881/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1755-closest-subsequence-sum](https://github.com/RauRaj881/DSA/tree/master/1755-closest-subsequence-sum) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/RauRaj881/DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RauRaj881/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RauRaj881/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RauRaj881/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -1039,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RauRaj881/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RauRaj881/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/RauRaj881/DSA/tree/master/1717-maximum-score-from-removing-substrings) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/RauRaj881/DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2104-sum-of-subarray-ranges](https://github.com/RauRaj881/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2211-count-collisions-on-a-road](https://github.com/RauRaj881/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RauRaj881/DSA/tree/master/2573-remove-nodes-from-linked-list) |
@@ -1056,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/RauRaj881/DSA/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/RauRaj881/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RauRaj881/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/RauRaj881/DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2104-sum-of-subarray-ranges](https://github.com/RauRaj881/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RauRaj881/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RauRaj881/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
