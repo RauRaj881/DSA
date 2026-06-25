@@ -1,45 +1,42 @@
 class Solution {
 public:
-int f(vector<int> &heights){
+int f(vector<int> &h){
+    int mx=0;
     stack<int> st;
-    int maxa=0;
-    for(int j=0;j<heights.size();j++){
-        while(!st.empty()&&heights[j]<heights[st.top()]){
-            int x=st.top();
-            st.pop();
+    int n=h.size();
+    for(int i=0;i<n;i++){
+        while(!st.empty()&&h[st.top()]>h[i]){
+            int ht=h[st.top()];
             int pse=-1;
+            st.pop();
             if(!st.empty()){pse=st.top();}
-            maxa=max(maxa,heights[x]*(j-(pse+1)));
+            int wd=i-pse-1;
+            mx=max(wd*ht,mx);
         }
-        st.push(j);
+        st.push(i);
     }
-    int nse=heights.size();
     while(!st.empty()){
-        int x=st.top();
-        st.pop();
+        int ht=h[st.top()];
         int pse=-1;
+        st.pop();
         if(!st.empty()){pse=st.top();}
-        maxa=max(maxa,heights[x]*(nse-(pse+1)));
+        int wd=n-pse-1;
+        mx=max(wd*ht,mx);
     }
-    return maxa;
+    return mx;
 }
-    int maximalRectangle(vector<vector<char>>& matrix) {
-        int n=matrix.size();
-        int m=matrix[0].size();
-        vector<int> heights(m,0);
-        int maxa=0;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(matrix[i][j]=='1'){
-                    heights[j]++;
-                }
-                else{
-                    heights[j]=0;
-                }
+    int maximalRectangle(vector<vector<char>>& mat){
+        int m=mat.size();
+        int n=mat[0].size();
+        vector<int> h(n);
+        int ans=0;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(mat[i][j]=='1'){h[j]++;}
+                else{h[j]=0;}
             }
-            int area=f(heights);
-            maxa=max(maxa,area);
+            ans=max(ans,f(h));
         }
-        return maxa;
+        return ans;
     }
 };
