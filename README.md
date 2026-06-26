@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/RauRaj881/DSA/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0874-walking-robot-simulation](https://github.com/RauRaj881/DSA/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/RauRaj881/DSA/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/RauRaj881/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/RauRaj881/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0909-snakes-and-ladders](https://github.com/RauRaj881/DSA/tree/master/0909-snakes-and-ladders) |
 | [0923-3sum-with-multiplicity](https://github.com/RauRaj881/DSA/tree/master/0923-3sum-with-multiplicity) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/RauRaj881/DSA/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RauRaj881/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/RauRaj881/DSA/tree/master/0874-walking-robot-simulation) |
+| [0904-fruit-into-baskets](https://github.com/RauRaj881/DSA/tree/master/0904-fruit-into-baskets) |
 | [0923-3sum-with-multiplicity](https://github.com/RauRaj881/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RauRaj881/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/RauRaj881/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -1109,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/RauRaj881/DSA/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/RauRaj881/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/RauRaj881/DSA/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/RauRaj881/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RauRaj881/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RauRaj881/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/RauRaj881/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
