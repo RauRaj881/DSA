@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/RauRaj881/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/RauRaj881/DSA/tree/master/0801-is-graph-bipartite) |
+| [0834-sum-of-distances-in-tree](https://github.com/RauRaj881/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RauRaj881/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RauRaj881/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1202-smallest-string-with-swaps](https://github.com/RauRaj881/DSA/tree/master/1202-smallest-string-with-swaps) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/RauRaj881/DSA/tree/master/0790-domino-and-tromino-tiling) |
 | [0792-number-of-matching-subsequences](https://github.com/RauRaj881/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0799-champagne-tower](https://github.com/RauRaj881/DSA/tree/master/0799-champagne-tower) |
+| [0834-sum-of-distances-in-tree](https://github.com/RauRaj881/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/RauRaj881/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/RauRaj881/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/RauRaj881/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -1329,6 +1331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RauRaj881/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/RauRaj881/DSA/tree/master/0101-symmetric-tree) |
+| [0834-sum-of-distances-in-tree](https://github.com/RauRaj881/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RauRaj881/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RauRaj881/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RauRaj881/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1362,6 +1365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RauRaj881/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0834-sum-of-distances-in-tree](https://github.com/RauRaj881/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RauRaj881/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/RauRaj881/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2097-valid-arrangement-of-pairs](https://github.com/RauRaj881/DSA/tree/master/2097-valid-arrangement-of-pairs) |
