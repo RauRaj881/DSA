@@ -36,7 +36,8 @@ public:
             temp.push(q.front());
             q.pop();
         }
-        while(!temp.empty()){
+        int sz=temp.size();
+        for(int i=0;i<sz;i++){
             int lv=temp.front();
             temp.pop();
             for(auto it:adj[lv]){
@@ -53,7 +54,8 @@ public:
             temp.push(q.front());
             q.pop();
         }
-        while(!temp.empty()){
+        sz=temp.size();
+        for(int i=0;i<sz;i++){
             int lv=temp.front();
             temp.pop();
             for(auto it:adj[lv]){
