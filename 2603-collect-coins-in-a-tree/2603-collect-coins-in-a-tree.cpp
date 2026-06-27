@@ -31,15 +31,10 @@ public:
             if(adj[i].size()==1&&coins[i]==1){q.push(i);}
         }
         // First layer removal - collect all leaves first, then remove
-        queue<int> temp;
-        while(!q.empty()){
-            temp.push(q.front());
-            q.pop();
-        }
-        int sz=temp.size();
+        int sz=q.size();
         for(int i=0;i<sz;i++){
-            int lv=temp.front();
-            temp.pop();
+            int lv=q.front();
+            q.pop();
             for(auto it:adj[lv]){
                 adj[it].erase(lv);
             }
@@ -50,14 +45,10 @@ public:
         for(int i=0;i<n;i++){
             if(adj[i].size()==1){q.push(i);}
         }
-        while(!q.empty()){
-            temp.push(q.front());
-            q.pop();
-        }
-        sz=temp.size();
+        sz=q.size();
         for(int i=0;i<sz;i++){
-            int lv=temp.front();
-            temp.pop();
+            int lv=q.front();
+            q.pop();
             for(auto it:adj[lv]){
                 adj[it].erase(lv);
             }
