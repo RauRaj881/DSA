@@ -11,15 +11,17 @@
  */
 class Solution {
 public:
-void f(TreeNode* rt,vector<int>&ans){
-    if(rt==nullptr){return;}
-    ans.push_back(rt->val);
-    f(rt->left,ans);
-    f(rt->right,ans);
-}
     vector<int> preorderTraversal(TreeNode* rt){
+        stack<TreeNode*> st;
         vector<int> ans;
-        f(rt,ans);
+        if(rt!=nullptr)st.push(rt);
+        while(!st.empty()){
+            TreeNode* ft=st.top();
+            ans.push_back(ft->val);
+            st.pop();
+            if(ft->right!=nullptr){st.push(ft->right);}
+            if(ft->left!=nullptr){st.push(ft->left);}
+        }
         return ans;
     }
 };
