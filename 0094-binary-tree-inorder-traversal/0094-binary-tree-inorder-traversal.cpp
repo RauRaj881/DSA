@@ -11,29 +11,15 @@
  */
 class Solution {
 public:
-/*void backtrack(TreeNode* root,vector<int> &v){
-    if(root==nullptr){
-        return;
-    }
-    backtrack(root->left,v);
-    v.push_back(root->val);
-    backtrack(root->right,v);
-}*/
-    
-    vector<int> inorderTraversal(TreeNode* root) {
-       TreeNode* curr=root;
-       stack<TreeNode*> st;
-       vector<int> ans;
-       while(curr!=nullptr||!st.empty()){
-        while(curr!=nullptr){
-            st.push(curr);
-            curr=curr->left;
-        }
-        curr=st.top();
-        st.pop();
-        ans.push_back(curr->val);
-        curr=curr->right;
-       }
-       return ans;
+void f(TreeNode* rt,vector<int>&ans){
+    if(rt==nullptr){return;}
+    f(rt->left,ans);
+    ans.push_back(rt->val);
+    f(rt->right,ans);
+}
+    vector<int> inorderTraversal(TreeNode* rt){
+        vector<int> ans;
+        f(rt,ans);
+        return ans;
     }
 };
