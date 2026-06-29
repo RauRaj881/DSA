@@ -13,12 +13,9 @@ class Solution {
 public:
 bool f(TreeNode* p, TreeNode* q){
     if(p==nullptr&&q==nullptr){return true;}
-    else if(p==nullptr||q==nullptr){return false;}
-    bool cr=f(p->left,q->left);
-    if(cr==false){return false;}
-    bool cr2=f(p->right,q->right);
-    if(cr2==false){return false;}
-    return p->val==q->val;
+    if(p==nullptr||q==nullptr){return false;}
+    if(p->val!=q->val){return false;}
+    return f(p->left,q->left)&&f(p->right,q->right);
 }
     bool isSameTree(TreeNode* p, TreeNode* q){
         return f(p,q);
