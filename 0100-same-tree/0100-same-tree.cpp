@@ -13,8 +13,7 @@ class Solution {
 public:
 bool f(TreeNode* p, TreeNode* q){
     if(p==nullptr&&q==nullptr){return true;}
-    else if(p!=nullptr&&q==nullptr){return false;}
-    else if(p==nullptr&&q!=nullptr){return false;}
+    else if(p==nullptr||q==nullptr){return false;}
     bool cr=f(p->left,q->left);
     if(cr==false){return false;}
     bool cr2=f(p->right,q->right);
