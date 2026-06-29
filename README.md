@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RauRaj881/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RauRaj881/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RauRaj881/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RauRaj881/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RauRaj881/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/RauRaj881/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/RauRaj881/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/RauRaj881/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-most-profit-assigning-work](https://github.com/RauRaj881/DSA/tree/master/0853-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/RauRaj881/DSA/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RauRaj881/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/RauRaj881/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/RauRaj881/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/RauRaj881/DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
