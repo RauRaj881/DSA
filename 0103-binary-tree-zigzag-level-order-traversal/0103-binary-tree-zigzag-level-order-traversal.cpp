@@ -18,15 +18,15 @@ public:
         int lv=0;
         while(!q.empty()){
             int sz=q.size();
-            vector<int> tp;
+            vector<int> tp(sz);
             for(int i=0;i<sz;i++){
                 TreeNode* ft=q.front();
-                tp.push_back(ft->val);
+                int idx=(lv%2==0?i:sz-1-i);
+                tp[idx]=(ft->val);
                 q.pop();
                 if(ft->left!=nullptr){q.push(ft->left);}
                 if(ft->right!=nullptr){q.push(ft->right);}
             }
-            if(lv%2==1){reverse(tp.begin(),tp.end());}
             ans.push_back(tp);
             lv++;
         }
