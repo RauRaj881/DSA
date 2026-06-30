@@ -26,10 +26,10 @@ public:
         }
 
         vector<vector<int>> ans;
-        for(auto it:mp){
+        for(auto &it:mp){
             vector<int> tp;
-            for(auto it2:it.second){
-                for(auto it3:it2.second){
+            for(auto &it2:it.second){
+                for(auto &it3:it2.second){
                     tp.push_back(it3);
                 }
             }
