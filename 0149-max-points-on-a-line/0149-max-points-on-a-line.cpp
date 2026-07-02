@@ -1,42 +1,25 @@
 class Solution {
 public:
-    int maxPoints(vector<vector<int>>& points){
-        int n = points.size();
-        if (n <= 2) return n;
-
-        int ans = 2;
-
-        for (int i = 0; i < n; i++){
-            map<pair<int,int>, int> mp;
-            for (int j = i + 1; j < n; j++) {
-                int dx = points[j][0] - points[i][0];
-                int dy = points[j][1] - points[i][1];
-                // Vertical line
-                if (dx == 0) {
-                    dy = 1;
+    int maxPoints(vector<vector<int>>& p){
+        int n=p.size();
+        int mx=min(2,n);
+        for(int i=0;i<n;i++){
+            map<pair<int,int>,int> mp;
+            for(int j=i+1;j<n;j++){
+                int dx=p[i][0]-p[j][0];
+                int dy=p[i][1]-p[j][1];
+                if(dx==0){dy=1;}
+                else if(dy==0){dx=1;}
+                else{
+                    int g=__gcd(dx,dy);
+                    dx/=g;
+                    dy/=g;
+                    if(dx<0){dx*=-1;dy*=-1;}
                 }
-                // Horizontal line
-                else if (dy == 0) {
-                    dx = 1;
-                }
-                else {
-                    int g = __gcd(abs(dx), abs(dy));
-
-                    dx /= g;
-                    dy /= g;
-
-                    // Make representation unique
-                    if (dx < 0) {
-                        dx = -dx;
-                        dy = -dy;
-                    }
-                }
-
-                mp[{dx, dy}]++;
-                ans = max(ans, mp[{dx, dy}] + 1);
+                mp[{dx,dy}]++;
+                mx=max(mx,mp[{dx,dy}]+1);
             }
         }
-
-        return ans;
+        return mx;
     }
 };
