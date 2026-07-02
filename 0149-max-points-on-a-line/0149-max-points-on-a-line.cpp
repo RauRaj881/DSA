@@ -5,7 +5,8 @@ public:
         int mx=min(2,n);
         for(int i=0;i<n;i++){
             map<pair<int,int>,int> mp;
-            for(int j=i+1;j<n;j++){
+            for(int j=0;j<n;j++){
+                if(j==i){continue;}
                 int dx=p[i][0]-p[j][0];
                 int dy=p[i][1]-p[j][1];
                 if(dx==0){dy=1;}
