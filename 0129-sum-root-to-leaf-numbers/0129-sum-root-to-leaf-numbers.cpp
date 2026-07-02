@@ -13,11 +13,12 @@ class Solution {
 public:
 int ans=0;
 void f(TreeNode* rt,int cr){
-    if(!rt->left&&!rt->right){cr=cr*10+rt->val;ans+=cr;return;}
-    //if(!rt->left||!rt->right){return;}
+    if(!rt){return;}
     cr=cr*10+rt->val;
-    if(rt->left)f(rt->left,cr);
-    if(rt->right)f(rt->right,cr);
+    if(!rt->left&&!rt->right){ans+=cr;return;}
+    //cr=cr*10+rt->val;
+    f(rt->left,cr);
+    f(rt->right,cr);
 }
     int sumNumbers(TreeNode* rt){
         f(rt,0);
