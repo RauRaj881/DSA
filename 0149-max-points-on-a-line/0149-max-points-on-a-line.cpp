@@ -26,7 +26,7 @@ public:
                     dy /= g;
 
                     // Make representation unique
-                    if (dy < 0) {
+                    if (dx < 0) {
                         dx = -dx;
                         dy = -dy;
                     }
