@@ -3,9 +3,9 @@ public:
 bool ispossible(int mid,vector<vector<int>>& grid,vector<vector<int>> &v){
     int n=grid.size();
     int m=grid[0].size();
-    if (v[0][0] < mid) return false;
+    //if (v[0][0] < mid) return false;
     queue<pair<int,int>> q;
-    q.push({0,0});
+    if(v[0][0]>=mid)q.push({0,0});
     vector<vector<int>> vis(n,vector<int>(m,-1));
     vis[0][0]=1;
     int dx[4]={-1,0,1,0};
