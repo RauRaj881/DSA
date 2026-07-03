@@ -11,11 +11,11 @@ bool ispossible(long long mid,vector<bool>& onl,vector<vector<pair<int,int>>> &a
         long long w=it[0],u=it[1];
         st.erase(st.begin());
         if(u==n-1){return true;}
+        if(w!=dst[u]){continue;}
         for(auto it2:adj[u]){
             long long v=it2.first;
             long long adw=it2.second;
             if(w+adw<=k&&adw>=mid&&dst[v]>w+adw&&onl[v]){
-                st.erase({dst[v],v});
                 st.insert({w+adw,v});
                 dst[v]=w+adw;
             }
