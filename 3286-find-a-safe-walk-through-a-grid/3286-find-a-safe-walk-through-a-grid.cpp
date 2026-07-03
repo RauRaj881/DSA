@@ -5,11 +5,11 @@ public:
         int m=grid[0].size();
         int tot=m*(n-1)+m;
         int k=hlt-1;
-        vector<int> dst(tot,INT_MAX);
-        if(grid[0][0]==0)dst[0]=0;
-        else{dst[0]=1;}
+        vector<vector<int>> dst(n,vector<int>(m,INT_MAX));
+        if(grid[0][0]==0)dst[0][0]=0;
+        else{dst[0][0]=1;}
         set<vector<int>> st;
-        if(dst[0]<=k){st.insert({dst[0],0,0});}
+        if(dst[0][0]<=k){st.insert({dst[0][0],0,0});}
         int dx[4]={-1,0,1,0};
         int dy[4]={0,1,0,-1};
         while(!st.empty()){
@@ -21,11 +21,10 @@ public:
                 int nx=dx[i]+x;
                 int ny=dy[i]+y;
                 if(nx>=0&&nx<n&&ny>=0&&ny<m){
-                    int nd=m*nx+ny;
                     int nw=w+(grid[nx][ny]==1?1:0);
-                    if(dst[nd]>nw&&nw<=k){
+                    if(dst[nx][ny]>nw&&nw<=k){
                         st.insert({nw,nx,ny});
-                        dst[nd]=nw;
+                        dst[nx][ny]=nw;
                     }
                 }
             }
