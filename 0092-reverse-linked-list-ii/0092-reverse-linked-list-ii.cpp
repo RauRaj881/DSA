@@ -11,34 +11,35 @@
 class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int lt,int rt){
-        ListNode* left;
-        ListNode* right;
-        int cnt=1;
-        ListNode* tx=head;
-        while(tx!=nullptr){if(cnt==lt){left=tx;}if(cnt==rt){right=tx;}tx=tx->next;cnt++;}
-        ListNode* nd2=right->next;
+        if(lt==rt){return head;}
+        ListNode* nd1=nullptr;
         ListNode* cr=head;
-        ListNode* nd1;
-        if(left==head){nd1=nullptr;}
-        else{
-            while(cr->next!=left){
-                cr=cr->next;
-            }
-            nd1=cr;
+        int cnt=1;
+        while(cnt<lt-1){
+            cr=cr->next;
+            cnt++;
         }
-        ListNode* cr1=left;
-        ListNode* cr2=left->next;
-        while(cr2!=nd2){
+        if(lt!=1)nd1=cr;
+        ListNode* tp;
+        ListNode* cr1;
+        ListNode* cr2;
+        if(lt!=1){
+        tp=cr->next;
+        cr1=cr->next;
+        }
+        else{tp=head;cr1=head;}
+        cr2=cr1->next;
+        int cnt2=0;
+        while(cnt2<rt-lt){
             ListNode* nt=cr2->next;
             cr2->next=cr1;
             cr1=cr2;
             cr2=nt;
+            cnt2++;
         }
-        left->next = nd2;
-        if(nd1)
-        nd1->next = right;
-        else
-        head = right;
+        if(nd1){nd1->next=cr1;}
+        else{head=cr1;}
+        tp->next=cr2;
         return head;
     }
 };
