@@ -35,11 +35,10 @@ public:
             cr2=nt;
         }
         left->next = nd2;
-
         if(nd1)
-        nd1->next = cr1;
+        nd1->next = right;
         else
-        head = cr1;
+        head = right;
         return head;
     }
 };
