@@ -17,7 +17,6 @@ public:
         ListNode* mn=dummy;
         ListNode* pvg=dummy;
         while(mn){
-            mn=pvg;
             for(int i=0;i<k&&mn;i++){
                 mn=mn->next;
             }
@@ -34,6 +33,7 @@ public:
             }
             pvg->next=mn;
             pvg=crg;
+            mn=pvg;
         }
         return dummy->next;
     }
