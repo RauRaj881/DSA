@@ -9,11 +9,11 @@
  * };
  */
 
-class cmp {
+class cmp{
 public:
-    bool operator()(ListNode* a, ListNode* b) {
-        return a->val > b->val;
-    }
+   bool operator()(ListNode* a,ListNode* b){
+    return a->val>b->val;
+   }
 };
 class Solution {
 public:
