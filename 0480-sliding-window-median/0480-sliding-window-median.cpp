@@ -4,7 +4,7 @@ public:
         int n=nums.size();
         vector<double> ans;
         auto cmp = [&](int a, int b) {
-            if (nums[a] == nums[b]) return a < b;
+            if (nums[a] == nums[b]) return b > a;
             return nums[a] < nums[b];
         };
 
