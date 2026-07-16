@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RauRaj881/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/RauRaj881/DSA/tree/master/0454-4sum-ii) |
 | [0474-ones-and-zeroes](https://github.com/RauRaj881/DSA/tree/master/0474-ones-and-zeroes) |
+| [0480-sliding-window-median](https://github.com/RauRaj881/DSA/tree/master/0480-sliding-window-median) |
 | [0494-target-sum](https://github.com/RauRaj881/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/RauRaj881/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RauRaj881/DSA/tree/master/0503-next-greater-element-ii) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RauRaj881/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RauRaj881/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/RauRaj881/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/RauRaj881/DSA/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/RauRaj881/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/RauRaj881/DSA/tree/master/0658-find-k-closest-elements) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RauRaj881/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/RauRaj881/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/RauRaj881/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/RauRaj881/DSA/tree/master/0454-4sum-ii) |
+| [0480-sliding-window-median](https://github.com/RauRaj881/DSA/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/RauRaj881/DSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/RauRaj881/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/RauRaj881/DSA/tree/master/0525-contiguous-array) |
@@ -1205,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/RauRaj881/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/RauRaj881/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/RauRaj881/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0480-sliding-window-median](https://github.com/RauRaj881/DSA/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/RauRaj881/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/RauRaj881/DSA/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/RauRaj881/DSA/tree/master/0904-fruit-into-baskets) |
