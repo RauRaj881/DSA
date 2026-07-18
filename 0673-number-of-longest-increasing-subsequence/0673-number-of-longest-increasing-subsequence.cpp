@@ -1,30 +1,23 @@
 class Solution {
 public:
-    int findNumberOfLIS(vector<int>& nums) {
+    int findNumberOfLIS(vector<int>& nums){
         int n=nums.size();
         vector<int> dp(n,1);
-         vector<int> cnt(n,1);
-        int maxno=0;
-        if(n==1){return 1;}
+        vector<int> cnt(n,1);
+        int mx=0;
         for(int i=0;i<n;i++){
-            for(int prev=0;prev<i;prev++){
-                if(nums[i]>nums[prev]&&dp[i]<1+dp[prev]){
-                    dp[i]=dp[prev]+1;
-                    cnt[i]=cnt[prev];
+            for(int j=0;j<i;j++){
+                if(nums[i]>nums[j]){
+                    if(dp[i]<1+dp[j]){cnt[i]=cnt[j];dp[i]=1+dp[j];}
+                    else if(dp[i]==1+dp[j]){cnt[i]+=cnt[j];}
                 }
-                else if(nums[i]>nums[prev]&&dp[i]==1+dp[prev]){
-                    dp[i]=dp[prev]+1;
-                    cnt[i]+=cnt[prev];
-                }
-                maxno=max(dp[i],maxno);
             }
+            mx=max(mx,dp[i]);
         }
-        int x=0;
+        int ans=0;
         for(int i=0;i<n;i++){
-            if(dp[i]==maxno){
-                x+=cnt[i];
-            }
+            if(dp[i]==mx){ans+=cnt[i];}
         }
-        return x;
+        return ans;
     }
 };
