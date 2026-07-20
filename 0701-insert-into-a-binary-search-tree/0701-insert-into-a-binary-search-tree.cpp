@@ -19,7 +19,7 @@ public:
         while(cr){
             lt=cr;
             if(cr->val>vl){cr=cr->left;}
-            else if(cr->val<vl){cr=cr->right;}
+            else{cr=cr->right;}
         }
         if(lt->val>vl){lt->left=new TreeNode(vl);}
         else{lt->right=new TreeNode(vl);}
