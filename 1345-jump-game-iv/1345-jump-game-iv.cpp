@@ -21,7 +21,7 @@ public:
             if(idx1<n&&!s.count(idx1)){s.insert(idx1);q.push(idx1);}
             if(idx2>=0&&!s.count(idx2)){s.insert(idx2);q.push(idx2);}
             for(auto it:mp[arr[cr]]){
-                if(!s.count(it)){s.insert(it);q.push(it);}
+                s.insert(it);q.push(it);
             }
             mp.erase(arr[cr]);
             }
