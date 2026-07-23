@@ -1,58 +1,45 @@
 class Solution {
 public:
-void dfx(int i,vector<int> &path, vector<vector<int>> &adj,vector<int> &visited,
-vector<vector<int>> &res){
-          visited[i]=1;
-          path.push_back(i);
-          for(int j=0;j<adj[i].size();j++){
-              if(visited[adj[i][j]]==0){
-                  dfx(adj[i][j],path,adj,visited,res);
-          }
-      }
-  }
-    vector<int> processQueries(int V, vector<vector<int>>& edges, vector<vector<int>>& q) {
-        vector<vector<int>> adj(V);
-        for(int i=0;i<edges.size();i++){
-            adj[edges[i][0]-1].push_back(edges[i][1]-1);
-            adj[edges[i][1]-1].push_back(edges[i][0]-1);
+void dfs(int nd,vector<vector<int>> &adj,vector<int>& vis,vector<int>&id,int i){
+    id[nd]=i;
+    vis[nd]=1;
+    for(auto it:adj[nd]){
+        if(vis[it]==-1){
+            dfs(it,adj,vis,id,i);
         }
-        vector<vector<int>> res;
-        vector<int> visited(V,0);
-        for(int i=0;i<adj.size();i++){
-            vector<int> path;
-            if(visited[i]==0){
-                dfx(i,path,adj,visited,res);
-                res.push_back(path);
+    }
+}
+    vector<int> processQueries(int n,vector<vector<int>>& cn,vector<vector<int>>& qr){
+        vector<vector<int>> adj(n);
+        for(int i=0;i<cn.size();i++){
+            int u=cn[i][0]-1;
+            int v=cn[i][1]-1;
+            adj[u].push_back(v);
+            adj[v].push_back(u);
+        }
+        vector<int> id(n,-1);
+        vector<int> vis(n,-1);
+        int y=0;
+        for(int i=0;i<n;i++){
+            if(vis[i]==-1){
+                dfs(i,adj,vis,id,i);
             }
+        }
+        map<int,set<int>> mp;
+        for(int i=0;i<n;i++){
+            mp[id[i]].insert(i);
         }
         vector<int> ans;
-        vector<int> id(V);
-        for(int i=0;i<res.size();i++){
-            for(int x:res[i]){
-                id[x]=i;
-            }
-        }
-        vector<set<int>> vec(res.size());
-        for(int i=0;i<V;i++){
-            vec[id[i]].insert(i);
-        }
-        for(int i=0;i<q.size();i++){
-            int ft=q[i][0];
-            int sd=q[i][1];
-            int id2=id[sd-1];
-            if(ft==1){
-                if(vec[id2].count(sd-1)){
-                    ans.push_back(sd);
-                }
-                else if(vec[id2].empty()){
-                    ans.push_back(-1);
-                }
-                else{
-                    ans.push_back(*vec[id2].begin()+1);
-                }
+        for(int i=0;i<qr.size();i++){
+            int tp=qr[i][0];
+            int nd=qr[i][1]-1;
+            if(tp==2){
+                mp[id[nd]].erase(nd);
             }
             else{
-               vec[id2].erase(sd-1);
+                if(mp[id[nd]].count(nd)){ans.push_back(nd+1);}
+                else if(mp[id[nd]].empty()){ans.push_back(-1);}
+                else{ans.push_back(*mp[id[nd]].begin()+1);}
             }
         }
         return ans;
