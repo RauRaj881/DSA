@@ -7,11 +7,11 @@ public:
             s+=a;
             count++;
         }
-        if(s.find(b)!=string::npos){
+        if(s.find(b) < s.length()){
             return count;
         }
         s+=a;
-        if(s.find(b)!=string::npos){return count+1;}
+        if(s.find(b) < s.length()){return count+1;}
         return -1;
     }
 };
