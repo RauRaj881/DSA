@@ -19,13 +19,12 @@ void dfs(int nd,vector<vector<int>> &adj,vector<int>& vis,vector<int>&id,int i){
         }
         vector<int> id(n,-1);
         vector<int> vis(n,-1);
-        int y=0;
         for(int i=0;i<n;i++){
             if(vis[i]==-1){
                 dfs(i,adj,vis,id,i);
             }
         }
-        map<int,set<int>> mp;
+        unordered_map<int,set<int>> mp;
         for(int i=0;i<n;i++){
             mp[id[i]].insert(i);
         }
