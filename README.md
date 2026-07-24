@@ -763,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/RauRaj881/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RauRaj881/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RauRaj881/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/RauRaj881/DSA/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2211-count-collisions-on-a-road](https://github.com/RauRaj881/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RauRaj881/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RauRaj881/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -980,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/RauRaj881/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RauRaj881/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/RauRaj881/DSA/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RauRaj881/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RauRaj881/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2573-find-the-string-with-lcp](https://github.com/RauRaj881/DSA/tree/master/2573-find-the-string-with-lcp) |
@@ -1117,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RauRaj881/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RauRaj881/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RauRaj881/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/RauRaj881/DSA/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RauRaj881/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RauRaj881/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RauRaj881/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -1129,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RauRaj881/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/RauRaj881/DSA/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/RauRaj881/DSA/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2659-make-array-empty](https://github.com/RauRaj881/DSA/tree/master/2659-make-array-empty) |
 ## Segment Tree
 |  |
