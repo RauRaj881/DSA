@@ -6,11 +6,15 @@ public:
         dp[0][1][0]=-p[0];
         dp[0][0][0]=0;
         for(int i=1;i<n;i++){
-            for(int t=1;t<=2;t++){
+            for(int t=0;t<=2;t++){
+                if(t==0){
                 dp[i][0][0]=dp[i-1][0][0];
                 dp[i][1][0]=max(dp[i-1][1][0],dp[i-1][0][0]-p[i]);
+                }
+                else{
                 dp[i][0][t]=max(dp[i-1][0][t],dp[i-1][1][t-1]+p[i]);
                 dp[i][1][t]=max(dp[i-1][1][t],dp[i-1][0][t]-p[i]);
+                }
             }
         }
         return max(0,max(dp[n-1][0][1],dp[n-1][0][2]));
