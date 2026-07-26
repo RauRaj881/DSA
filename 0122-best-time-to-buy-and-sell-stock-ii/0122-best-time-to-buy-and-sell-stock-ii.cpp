@@ -1,84 +1,20 @@
-//memoization
-/*class Solution {
-public:
-int recur(int index,int x,vector<int>& prices,int n,int profit,vector<vector<int>> &dp){
-    if(index==n){
-        return 0;
-    }
-    if(dp[index][x]!=-1){
-        return dp[index][x];
-    }
-
-    if(x==0){
-        profit=max((-prices[index]+recur(index+1,1-x,prices,n,profit,dp)),recur(index+1,x,prices,n,profit,dp));
-    }
-    else{
-        profit=max((prices[index]+recur(index+1,1-x,prices,n,profit,dp)),recur(index+1,x,prices,n,profit,dp));
-    }
-    return dp[index][x]=profit;
-}
-    int maxProfit(vector<int>& prices) {
-        int n=prices.size();
-        vector<vector<int>> dp(n,vector<int>(2,-1));
-        return recur(0,0,prices,n,0,dp);
-    }
-};*/
-//tabulation
-/*class Solution {
-public:
-    int maxProfit(vector<int>& prices) {
-        int n=prices.size();
-        vector<vector<int>> dp(n+1,vector<int>(2,0));
-        dp[n][0]=dp[n][1]=0;
-        for(int i=n-1;i>=0;i--){
-            for(int j=0;j<=1;j++){
-            if(j==0){
-        int profit=max(-prices[i]+dp[i+1][1],dp[i+1][0]);
-        dp[i][j]=profit;
-    }
-    else{
-        int profit=max(prices[i]+dp[i+1][0],dp[i+1][1]);
-        dp[i][j]=profit;
-    }
-            }
-        }
-        return dp[0][0];
-    }
-};*/
 class Solution {
 public:
-    int maxProfit(vector<int>& prices) {
-        int n=prices.size();
-        vector<vector<int>> dp(n,vector<int>(2,0));
-        dp[0][0]=0;//dp[i][0] means you don't hold stock at ith index
-        dp[0][1]=-prices[0];//dp[i][1] means you hold stock at ith index
+    int maxProfit(vector<int>& p){
+        int n=p.size();
+        vector<vector<int>> dp(n,vector<int>(2,INT_MIN));
+        dp[0][0]=0;
+        dp[0][1]=-p[0];
         for(int i=1;i<n;i++){
-            dp[i][1]=max(dp[i-1][1],dp[i-1][0]-prices[i]);
-            dp[i][0]=max(dp[i-1][0],dp[i-1][1]+prices[i]);
+            for(int tp=0;tp<2;tp++){
+                if(tp==0){
+                    dp[i][tp]=max(dp[i-1][tp],dp[i-1][1]+p[i]);
+                }
+                else{
+                    dp[i][tp]=max(dp[i-1][0]-p[i],dp[i-1][1]);
+                }
+            }
         }
-        return dp[n-1][0];
+        return max(dp[n-1][0],dp[n-1][1]);
     }
 };
-//space optimization
-/*class Solution {
-public:
-    int maxProfit(vector<int>& prices) {
-        int n=prices.size();
-        vector<int> prev(2,0);
-        for(int i=n-1;i>=0;i--){
-            vector<int> curr(2,0);
-            for(int j=0;j<=1;j++){
-                if(j==0){
-        int profit=max(-prices[i]+prev[1],prev[0]);
-        curr[j]=profit;
-    }
-    else{
-        int profit=max(prices[i]+prev[0],prev[1]);
-        curr[j]=profit;
-    }
-            }
-          prev=curr;  
-        }
-        return prev[0];
-    }
-};*/
