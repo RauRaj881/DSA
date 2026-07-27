@@ -13,7 +13,7 @@ static bool cmp(string& a,string& b){
                 const string &a = w[i];
                 const string &b = w[j];
                 int cnt=0;
-                if(a.size()!=b.size()+1||dp[j]+1<dp[i]){continue;}
+                if(a.size()!=b.size()+1||dp[j]+1<=dp[i]){continue;}
                 int k1=0,k2=0;
                 while(k1<a.size()&&k2<b.size()){
                     if(a[k1]==b[k2]){k1++;k2++;}
