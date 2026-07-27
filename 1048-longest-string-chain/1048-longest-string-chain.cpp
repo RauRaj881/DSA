@@ -10,7 +10,8 @@ static bool cmp(string& a,string& b){
         vector<int> dp(n,1);
         for(int i=0;i<n;i++){
             for(int j=0;j<i;j++){
-                string a=w[i],b=w[j];
+                const string &a = w[i];
+                const string &b = w[j];
                 int cnt=0;
                 if(a.size()!=b.size()+1||dp[j]+1<dp[i]){continue;}
                 int k1=0,k2=0;
@@ -18,7 +19,7 @@ static bool cmp(string& a,string& b){
                     if(a[k1]==b[k2]){k1++;k2++;}
                     else{cnt++;k1++;}
                 }
-                if(cnt==1||k1==a.size()-1){dp[i]=dp[j]+1;}
+                if((cnt==1&&k1==a.size())||k1==a.size()-1){dp[i]=dp[j]+1;}
             }
         }
         int ans=0;
