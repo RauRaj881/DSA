@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/RauRaj881/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RauRaj881/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/RauRaj881/DSA/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RauRaj881/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/RauRaj881/DSA/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RauRaj881/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0691-stickers-to-spell-word](https://github.com/RauRaj881/DSA/tree/master/0691-stickers-to-spell-word) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/RauRaj881/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/RauRaj881/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/RauRaj881/DSA/tree/master/0556-next-greater-element-iii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RauRaj881/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RauRaj881/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/RauRaj881/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RauRaj881/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1048,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RauRaj881/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/RauRaj881/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/RauRaj881/DSA/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RauRaj881/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/RauRaj881/DSA/tree/master/0658-find-k-closest-elements) |
 | [0792-number-of-matching-subsequences](https://github.com/RauRaj881/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0846-hand-of-straights](https://github.com/RauRaj881/DSA/tree/master/0846-hand-of-straights) |
