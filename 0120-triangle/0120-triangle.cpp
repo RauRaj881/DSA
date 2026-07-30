@@ -16,7 +16,7 @@ public:
         }
         int ans=INT_MAX;
         for(int j=0;j<=m-1;j++){
-            ans=min(ans,dp[n-1][j]);
+            ans=min(ans,dp[m-1][j]);
         }
         return ans;
     }
