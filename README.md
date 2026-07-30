@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/RauRaj881/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/RauRaj881/DSA/tree/master/0801-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/RauRaj881/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0834-sum-of-distances-in-tree](https://github.com/RauRaj881/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RauRaj881/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RauRaj881/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/RauRaj881/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/RauRaj881/DSA/tree/master/0801-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/RauRaj881/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RauRaj881/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/RauRaj881/DSA/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0909-snakes-and-ladders](https://github.com/RauRaj881/DSA/tree/master/0909-snakes-and-ladders) |
@@ -1578,6 +1580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RauRaj881/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/RauRaj881/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0834-sum-of-distances-in-tree](https://github.com/RauRaj881/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RauRaj881/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RauRaj881/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -1605,6 +1608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/RauRaj881/DSA/tree/master/0802-find-eventual-safe-states) |
 | [2603-collect-coins-in-a-tree](https://github.com/RauRaj881/DSA/tree/master/2603-collect-coins-in-a-tree) |
 | [3620-network-recovery-pathways](https://github.com/RauRaj881/DSA/tree/master/3620-network-recovery-pathways) |
 ## Eulerian Circuit
