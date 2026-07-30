@@ -1,77 +1,21 @@
-//memoization
-/*class Solution {
-public:
-int coinchange(int index,int amount, vector<vector<int>> &dp,vector<int>& coins){
-    if(index==0){
-        if(amount%coins[0]==0){return amount/coins[0];}
-        else {return 1e9;}
-    }
-    if(dp[index][amount]!=-1){return dp[index][amount];}
-        int nottake=coinchange(index-1,amount,dp,coins);
-        int take=1e9;
-        if(coins[index]<=amount){
-            take=1+coinchange(index,amount-coins[index],dp,coins);
-        }
-        return dp[index][amount]=min(take,nottake);
-}
-    int coinChange(vector<int>& coins, int amount) {
-        int n=coins.size();
-        vector<vector<int>> dp(n,vector<int>(amount+1,-1));
-        int x=coinchange(n-1,amount,dp,coins);
-        if(x!=1e9){return x;}
-        else return -1;
-    }
-};*/
-//tabulation
-/*class Solution {
-public:
-    int coinChange(vector<int>& coins, int amount) {
-        int n=coins.size();
-        vector<vector<int>> dp(n,vector<int>(amount+1,0));
-        for(int sum=0;sum<=amount;sum++){
-        if(sum%coins[0]==0){
-            dp[0][sum]=sum/coins[0];
-        }
-        else dp[0][sum]=1e9;
-        }
-        for(int i=1;i<n;i++){
-            for(int sum=0;sum<=amount;sum++){
-                int nottake=dp[i-1][sum];
-                int take=1e9;
-                if(coins[i]<=sum){
-                    take=1+dp[i][sum-coins[i]];
-                }
-                dp[i][sum]=min(take,nottake);
-            }
-        }
-        if(dp[n-1][amount]!=1e9){return dp[n-1][amount];;}
-        return -1;
-    }
-};*/
 class Solution {
 public:
-    int coinChange(vector<int>& coins, int amount) {
-        int n=coins.size();
-        vector<int> prev(amount+1,0);
-        for(int sum=0;sum<=amount;sum++){
-        if(sum%coins[0]==0){
-            prev[sum]=sum/coins[0];
-        }
-        else prev[sum]=1e9;
+    int coinChange(vector<int>& c,int amt){
+        int n=c.size();
+        vector<vector<int>> dp(n,vector<int>(amt+1,1e9));
+        dp[0][0]=0;
+        for(int i=c[0];i<=amt;i+=c[0]){
+            dp[0][i]=i/c[0];
         }
         for(int i=1;i<n;i++){
-            vector<int> curr(amount+1);
-            for(int sum=0;sum<=amount;sum++){
-                int nottake=prev[sum];
-                int take=1e9;
-                if(coins[i]<=sum){
-                    take=1+curr[sum-coins[i]];
-                }
-                curr[sum]=min(take,nottake);
+            for(int j=0;j<=amt;j++){
+                int nt=dp[i-1][j];
+                int t=INT_MAX;
+                if(c[i]<=j){t=1+dp[i][j-c[i]];}
+                dp[i][j]=min(t,nt);
             }
-            prev=curr;
         }
-        if(prev[amount]!=1e9){return prev[amount];}
-        return -1;
+        if(dp[n-1][amt]==1e9){return -1;}
+        return dp[n-1][amt];
     }
 };
