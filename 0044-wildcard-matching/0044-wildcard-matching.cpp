@@ -1,39 +1,20 @@
 class Solution {
 public:
-int n,m;
-vector<vector<int>>dp;
-    bool isMatch(string s, string p) {
-        n=s.size(), m=p.size();
-        dp.resize(n,vector<int>(m,-1));
-       return  solve(s,p,n-1,m-1);
+bool f(int i,int j,string&s,string&p,vector<vector<int>>&dp){
+    if(i<0&&j<0){return true;}
+    else if(i<0&&j>=0){
+        while(j>=0){if(p[j]!='*'){return false;}j--;}
+        return true;
     }
-bool check(string &str){
-    for(int i=0; i<str.size(); i++){
-        if(str[i]!='*') return false;
-    }
-    return true;
+    else if(i>=0&&j<0){return false;}
+    if(dp[i][j]!=-1){return dp[i][j];}
+    if(s[i]==p[j]||p[j]=='?'){return dp[i][j]=f(i-1,j-1,s,p,dp);}
+    else if(p[j]=='*'){return dp[i][j]=f(i-1,j,s,p,dp)||f(i,j-1,s,p,dp);}
+    return dp[i][j]=false;
 }
-    bool solve(string &s, string&p, int i, int j){ 
-
-        if(i<0 && j<0) return true;
-
-        if(i<0 && j>=0) {
-            string str=p.substr(0,j+1);
-            if(check(str)) return true;
-            return false;
-        }
-        if(i>=0 && j<0) return false;
-        // if(i<0 || j<0) return false;
-
-        if(dp[i][j]!=-1) return dp[i][j];
-        
-        if(s[i]==p[j] || p[j]=='?'){
-            return dp[i][j]= solve(s,p,i-1,j-1);
-        }
-        else if(p[j]!='*' && s[i]!=p[j]) return false;
-
-        // else{
-            return dp[i][j]= solve(s,p,i,j-1) || solve(s,p,i-1,j);
-        // }
+    bool isMatch(string s, string p){
+        int n=s.size(),m=p.size();
+        vector<vector<int>> dp(n,vector<int>(m,-1));
+        return f(n-1,m-1,s,p,dp);
     }
 };
