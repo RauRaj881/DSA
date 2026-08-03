@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/RauRaj881/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RauRaj881/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-closest-subsequence-sum](https://github.com/RauRaj881/DSA/tree/master/1755-closest-subsequence-sum) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/RauRaj881/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/RauRaj881/DSA/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/RauRaj881/DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1833-maximum-ice-cream-bars](https://github.com/RauRaj881/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RauRaj881/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/RauRaj881/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/RauRaj881/DSA/tree/master/1612-avoid-flood-in-the-city) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/RauRaj881/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/RauRaj881/DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1862-sum-of-floored-pairs](https://github.com/RauRaj881/DSA/tree/master/1862-sum-of-floored-pairs) |
