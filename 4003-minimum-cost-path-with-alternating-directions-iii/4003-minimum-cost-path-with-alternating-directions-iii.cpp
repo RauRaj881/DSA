@@ -7,7 +7,7 @@ public:
         ll dy[4]={0,1,0,-1};
         set<vector<ll>> st;
         st.insert({1,0,0,1});
-        dst[0][0][1]=p[0][0];
+        dst[0][0][1]=1;
         while(!st.empty()){
             vector<ll> cr=*st.begin();
             ll w=cr[0],x=cr[1],y=cr[2],tp=cr[3];
