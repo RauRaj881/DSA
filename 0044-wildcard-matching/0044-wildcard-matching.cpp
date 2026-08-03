@@ -1,58 +1,39 @@
-//memoization
-/*class Solution {
-public:
-bool wildcard(int index1,int index2,vector<vector<int>> &dp,string &s, string &p){
-    if(index1<0&&index2<0){return true;}
-    else if(index1>=0&&index2<0){return false;}
-    else if(index1<0&&index2>=0){
-        for(int i=0;i<=index2;i++){
-            if(p[i]!='*'){return false;}
-        }
-        return true;
-    }
-    if(dp[index1][index2]!=-1){return dp[index1][index2];}
-    if(s[index1]==p[index2]||p[index2]=='?'){
-        return dp[index1][index2]=wildcard(index1-1,index2-1,dp,s,p);
-    }
-    else if(p[index2]=='*'){
-        return dp[index1][index2]=wildcard(index1-1,index2,dp,s,p)||wildcard(index1,index2-1,dp,s,p);
-    }
-    return dp[index1][index2]=false;
-}
-    bool isMatch(string s, string p) {
-        int n=s.size();
-        int m=p.size();
-        vector<vector<int>> dp(n,vector<int>(m,-1));
-        return wildcard(n-1,m-1,dp,s,p);
-    }
-};*/
 class Solution {
 public:
+int n,m;
+vector<vector<int>>dp;
     bool isMatch(string s, string p) {
-        int n = s.size(), m = p.size();
-        int i = 0, j = 0;
-        int starIdx = -1, match = 0;
-        while (i < n) {
-            if (j < m && (p[j] == s[i] || p[j] == '?')) {
-                i++;
-                j++;
-            } 
-            else if (j < m && p[j] == '*') {
-                starIdx = j;
-                match = i;
-                j++;
-            } 
-            else if (starIdx != -1) {
-                j = starIdx + 1;
-                match++;
-                i = match;
-            } 
-            else {
-                return false;
-            }
-        }
-        while (j < m && p[j] == '*') j++;
+        n=s.size(), m=p.size();
+        dp.resize(n,vector<int>(m,-1));
+       return  solve(s,p,n-1,m-1);
+    }
+bool check(string &str){
+    for(int i=0; i<str.size(); i++){
+        if(str[i]!='*') return false;
+    }
+    return true;
+}
+    bool solve(string &s, string&p, int i, int j){ 
 
-        return j == m;
+        if(i<0 && j<0) return true;
+
+        if(i<0 && j>=0) {
+            string str=p.substr(0,j+1);
+            if(check(str)) return true;
+            return false;
+        }
+        if(i>=0 && j<0) return false;
+        // if(i<0 || j<0) return false;
+
+        if(dp[i][j]!=-1) return dp[i][j];
+        
+        if(s[i]==p[j] || p[j]=='?'){
+            return dp[i][j]= solve(s,p,i-1,j-1);
+        }
+        else if(p[j]!='*' && s[i]!=p[j]) return false;
+
+        // else{
+            return dp[i][j]= solve(s,p,i,j-1) || solve(s,p,i-1,j);
+        // }
     }
 };
