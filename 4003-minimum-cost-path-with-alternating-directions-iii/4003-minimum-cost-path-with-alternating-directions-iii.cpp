@@ -14,7 +14,7 @@ public:
             st.erase(st.begin());
             if(dst[x][y][1-tp]>w+p[x][y]){st.insert({w+p[x][y],x,y,1-tp});dst[x][y][1-tp]=w+p[x][y];}
             if(x==m-1&&y==n-1){return w;}
-            //if(dst[x][y][tp]!=w){continue;}
+            if(dst[x][y][tp]!=w){continue;}
             for(int i=0;i<4;i++){
                 ll nx=x+dx[i],ny=y+dy[i];
                 if(nx<0||nx>=m||ny<0||ny>=n){continue;}
