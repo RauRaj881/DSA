@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/RauRaj881/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/RauRaj881/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1686-stone-game-vi](https://github.com/RauRaj881/DSA/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/RauRaj881/DSA/tree/master/1690-stone-game-vii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RauRaj881/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/RauRaj881/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RauRaj881/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/RauRaj881/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RauRaj881/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1686-stone-game-vi](https://github.com/RauRaj881/DSA/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/RauRaj881/DSA/tree/master/1690-stone-game-vii) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/RauRaj881/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1862-sum-of-floored-pairs](https://github.com/RauRaj881/DSA/tree/master/1862-sum-of-floored-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/RauRaj881/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RauRaj881/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RauRaj881/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/RauRaj881/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1690-stone-game-vii](https://github.com/RauRaj881/DSA/tree/master/1690-stone-game-vii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RauRaj881/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1755-closest-subsequence-sum](https://github.com/RauRaj881/DSA/tree/master/1755-closest-subsequence-sum) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/RauRaj881/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -1703,6 +1706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/RauRaj881/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RauRaj881/DSA/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/RauRaj881/DSA/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/RauRaj881/DSA/tree/master/1690-stone-game-vii) |
 ## Game Theory
 |  |
 | ------- |
@@ -1711,6 +1715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/RauRaj881/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RauRaj881/DSA/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/RauRaj881/DSA/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/RauRaj881/DSA/tree/master/1690-stone-game-vii) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -1718,6 +1723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/RauRaj881/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RauRaj881/DSA/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/RauRaj881/DSA/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/RauRaj881/DSA/tree/master/1690-stone-game-vii) |
 ## Nim Game
 |  |
 | ------- |
