@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/RauRaj881/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/RauRaj881/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-cherry-pickup-ii](https://github.com/RauRaj881/DSA/tree/master/1559-cherry-pickup-ii) |
+| [1563-stone-game-v](https://github.com/RauRaj881/DSA/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RauRaj881/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RauRaj881/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/RauRaj881/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/RauRaj881/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RauRaj881/DSA/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/RauRaj881/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1563-stone-game-v](https://github.com/RauRaj881/DSA/tree/master/1563-stone-game-v) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/RauRaj881/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RauRaj881/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/RauRaj881/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RauRaj881/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1510-stone-game-iv](https://github.com/RauRaj881/DSA/tree/master/1510-stone-game-iv) |
 | [1559-cherry-pickup-ii](https://github.com/RauRaj881/DSA/tree/master/1559-cherry-pickup-ii) |
+| [1563-stone-game-v](https://github.com/RauRaj881/DSA/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RauRaj881/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/RauRaj881/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RauRaj881/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1700,6 +1703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RauRaj881/DSA/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/RauRaj881/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RauRaj881/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/RauRaj881/DSA/tree/master/1563-stone-game-v) |
 ## Zero-Sum Game
 |  |
 | ------- |
