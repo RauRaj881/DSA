@@ -1,26 +1,32 @@
 class Solution {
 public:
-    int leastInterval(vector<char>& tasks, int n){
+    int leastInterval(vector<char>& t,int n){
         priority_queue<pair<int,int>> pq;
         queue<vector<int>> q;
-        vector<int> v(26,0);
-        for(auto it:tasks){v[it-'A']++;}
+        vector<int> fr(26,0);
+        for(int i=0;i<t.size();i++){
+            fr[t[i]-'A']++;
+        }
         for(int i=0;i<26;i++){
-            if(v[i]>0){pq.push({v[i],i});}
+            if(fr[i]>0){
+                pq.push({fr[i],i});
+            }
         }
         int tm=0;
         while(!pq.empty()||!q.empty()){
-            while(!q.empty()&&tm-q.front()[2]>n){
-                pq.push({q.front()[1],q.front()[0]});
+            while(!q.empty()&&q.front()[0]==tm){
+                int ch=q.front()[1];
+                int crfr=q.front()[2];
+                pq.push({crfr,ch});
                 q.pop();
             }
             if(!pq.empty()){
-                int fr=pq.top().first;
+                int crfr=pq.top().first;
                 int ch=pq.top().second;
-                fr--;
                 pq.pop();
-                if(fr>0){
-                    q.push({ch,fr,tm});
+                crfr--;
+                if(crfr>0){
+                    q.push({tm+n+1,ch,crfr});
                 }
             }
             tm++;
