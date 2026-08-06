@@ -11,20 +11,12 @@
  */
 class Solution {
 public:
-vector<int> v;
-
-void f(TreeNode* rt){
-    if(!rt){return;}
-    //v.push_back(rt->val);
-    f(rt->left);
-    v.push_back(rt->val);
-    f(rt->right);
+bool f(TreeNode* rt,long long mn,long long mx){
+    if(!rt){return true;}
+    if(rt->val>=mx||rt->val<=mn){return false;}
+    return f(rt->left,mn,rt->val)&&f(rt->right,rt->val,mx);
 }
     bool isValidBST(TreeNode* rt){
-        f(rt);
-        for(int i=1;i<v.size();i++){
-            if(v[i]<=v[i-1]){return false;}
-        }
-        return true;
+        return f(rt,-1e10,1e10);
     }
 };
