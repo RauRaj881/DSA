@@ -12,8 +12,10 @@
 class Solution {
 public:
 vector<int> v;
+
 void f(TreeNode* rt){
     if(!rt){return;}
+    //v.push_back(rt->val);
     f(rt->left);
     v.push_back(rt->val);
     f(rt->right);
