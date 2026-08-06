@@ -20,12 +20,11 @@ void f(TreeNode* rt){
 }
     bool findTarget(TreeNode* rt, int k){
         f(rt);
-        for(int i=0;i<v.size();i++){
-            auto it=lower_bound(v.begin(),v.end(),k-v[i]);
-            if(it!=v.end()){
-                int idx=it-v.begin();
-                if(v[idx]==k-v[i]&&idx!=i){return true;}
-            }
+        int i=0,j=v.size()-1;
+        while(i<j){
+            if(v[i]+v[j]==k){return true;}
+            else if(v[i]+v[j]>k){j--;}
+            else{i++;}
         }
         return false;
     }
