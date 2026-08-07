@@ -29,7 +29,7 @@ sbtree f(TreeNode* rt){
         int mn=min(lft.mn,rt->val);
         return {true,mx,mn,sm};
     }
-    return {false,INT_MIN,INT_MAX,0};
+    return {false,0,0,0};
 }
     int maxSumBST(TreeNode* rt){
         f(rt);
