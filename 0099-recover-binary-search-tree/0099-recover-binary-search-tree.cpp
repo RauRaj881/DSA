@@ -28,7 +28,12 @@ void f2(TreeNode* rt){
 }
     void recoverTree(TreeNode* rt){
         f(rt);
-        sort(v.begin(),v.end());
+        int idx1=-1,idx2=-1;
+        for(int i=1;i<v.size();i++){
+            if(v[i]<=v[i-1]){if(idx1==-1){idx1=i-1;}else{idx2=i;break;}}
+        }
+        if(idx2!=-1)swap(v[idx1],v[idx2]);
+        else{swap(v[idx1],v[idx1+1]);}
         f2(rt);
     }
 };
