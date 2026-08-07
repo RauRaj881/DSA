@@ -1,20 +1,22 @@
 class Solution {
 public:
-bool ispos(int mid,vector<int>& piles, int h){
-    long long x=0;
-    for(int i=0;i<piles.size();i++){
-        x+=(piles[i]+mid-1)/mid;
+bool f(int mid,vector<int>& piles, int h){
+    long long cnt=0;
+    for(auto it:piles){
+        cnt+=(it+mid-1)/mid;
     }
-    return x<=h;
+    return cnt<=h;
 }
     int minEatingSpeed(vector<int>& piles, int h){
-        int ans=-1;
-        int low=1,high=1e9;
+        int mx=0;
+        for(auto it:piles){mx=max(mx,it);}
+        int low=1,high=mx;
+        int ans=mx;
         while(low<=high){
-            int mid=(low+high)/2;
-            if(ispos(mid,piles,h)){ans=mid;high=mid-1;}
+            int mid=low+(high-low)/2;
+            if(f(mid,piles,h)){ans=mid;high=mid-1;}
             else{low=mid+1;}
         }
-        return ans;
+        return ans;     
     }
 };
