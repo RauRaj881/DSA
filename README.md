@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/RauRaj881/DSA/tree/master/1184-car-pooling) |
 | [1202-smallest-string-with-swaps](https://github.com/RauRaj881/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1234-number-of-paths-with-max-score](https://github.com/RauRaj881/DSA/tree/master/1234-number-of-paths-with-max-score) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/RauRaj881/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RauRaj881/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RauRaj881/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1306-jump-game-iii](https://github.com/RauRaj881/DSA/tree/master/1306-jump-game-iii) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/RauRaj881/DSA/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RauRaj881/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1234-number-of-paths-with-max-score](https://github.com/RauRaj881/DSA/tree/master/1234-number-of-paths-with-max-score) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/RauRaj881/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RauRaj881/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RauRaj881/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RauRaj881/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/RauRaj881/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1234-number-of-paths-with-max-score](https://github.com/RauRaj881/DSA/tree/master/1234-number-of-paths-with-max-score) |
 | [1250-longest-common-subsequence](https://github.com/RauRaj881/DSA/tree/master/1250-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/RauRaj881/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RauRaj881/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RauRaj881/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/RauRaj881/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
