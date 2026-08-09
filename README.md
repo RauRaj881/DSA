@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/RauRaj881/DSA/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/RauRaj881/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/RauRaj881/DSA/tree/master/0220-contains-duplicate-iii) |
+| [0221-maximal-square](https://github.com/RauRaj881/DSA/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/RauRaj881/DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/RauRaj881/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/RauRaj881/DSA/tree/master/0239-sliding-window-maximum) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/RauRaj881/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/RauRaj881/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RauRaj881/DSA/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/RauRaj881/DSA/tree/master/0221-maximal-square) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/RauRaj881/DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0794-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0794-swim-in-rising-water) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/RauRaj881/DSA/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RauRaj881/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/RauRaj881/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RauRaj881/DSA/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/RauRaj881/DSA/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/RauRaj881/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RauRaj881/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/RauRaj881/DSA/tree/master/0312-burst-balloons) |
