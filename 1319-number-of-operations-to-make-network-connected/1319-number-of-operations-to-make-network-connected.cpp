@@ -1,44 +1,27 @@
 class Solution {
 public:
-       int findUpar(vector<int> &parent,int node){
-        if(node==parent[node]){return node;}
-        return findUpar(parent,parent[node]);
+void dfs(int nd,vector<vector<int>> &adj,vector<int>&vis){
+    vis[nd]=1;
+    for(auto it:adj[nd]){
+        if(vis[it]==-1){
+            dfs(it,adj,vis);
         }
-        int x=0;
-        void unionbyrank(int u,int v,vector<int> &parent,vector<int> &rank){
-            int ulp_u=findUpar(parent,u);
-            int ulp_v=findUpar(parent,v);
-            if(ulp_u==ulp_v){
-                x++;
-                return;
-            }
-            if(rank[ulp_u]<rank[ulp_v]){
-                parent[ulp_u]=ulp_v;
-            }
-            else if(rank[ulp_u]>rank[ulp_v]){
-                parent[ulp_v]=ulp_u;
-            }
-            else if(rank[ulp_u]==rank[ulp_v]){
-                parent[ulp_u]=ulp_v;
-                rank[ulp_v]++;
-            }
+    }
+}
+    int makeConnected(int n, vector<vector<int>>& c){
+        if(c.size()<n-1){return -1;}
+        int comp=0;
+        vector<vector<int>> adj(n);
+        for(int i=0;i<c.size();i++){
+            int u=c[i][0];
+            int v=c[i][1];
+            adj[u].push_back(v);
+            adj[v].push_back(u);
         }
-    int makeConnected(int n, vector<vector<int>>& connections) {
-        vector<int> parent(n);
-         for(int i=0;i<n;i++){
-            parent[i]=i;
+        vector<int> vis(n,-1);
+        for(int i=0;i<n;i++){
+            if(vis[i]==-1){comp++;dfs(i,adj,vis);}
         }
-        vector<int> rank(n,0);
-        for(int i=0;i<connections.size();i++){
-            unionbyrank(connections[i][0],connections[i][1],parent,rank);
-        }
-        int y=0;
-        for(int j=0;j<n;j++){
-            if(parent[j]==j){
-                y++;
-            }
-        }
-        if(x>=y-1){return y-1;}
-        return -1;
+        return comp-1;
     }
 };
