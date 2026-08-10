@@ -8,7 +8,7 @@ void merge(int l,int mid,int r,vector<pair<int,int>>&arr,vector<int>&ans){
         if(arr[i].first>arr[j].first){tp.push_back(arr[j]);j++;}
         else{ans[arr[i].second]+=j-1-mid;tp.push_back(arr[i]);i++;}
     }
-    while(i<=mid){tp.push_back(arr[i]);ans[arr[i].second]+=j-mid-1;i++;}
+    while(i<=mid){tp.push_back(arr[i]);ans[arr[i].second]+=r-mid;i++;}
     while(j<=r){tp.push_back(arr[j]);j++;}
     for(int i=0;i<tp.size();i++){
         arr[i+l]=tp[i];
