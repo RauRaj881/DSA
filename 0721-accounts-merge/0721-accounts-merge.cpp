@@ -7,7 +7,7 @@ int findUpar(int node,vector<int> & parent){
 void disjoint(int u,int v,vector<int> & parent,vector<int> &rank){
     int ulp_u=findUpar(u,parent);
     int ulp_v=findUpar(v,parent);
-    if(ulp_u==ulp_v){return;}
+    //if(ulp_u==ulp_v){return;}
     if(rank[ulp_u]<rank[ulp_v]){
         parent[ulp_u]=ulp_v;
     }
@@ -25,7 +25,7 @@ void disjoint(int u,int v,vector<int> & parent,vector<int> &rank){
         for(int i=0;i<n;i++){
             parent[i]=i;
         }
-        vector<int> rank(n,0);
+       vector<int> rank(n,0);
        unordered_map<string,int> mailtonod;
        for(int i=0;i<accounts.size();i++){
         for(int j=1;j<accounts[i].size();j++){
