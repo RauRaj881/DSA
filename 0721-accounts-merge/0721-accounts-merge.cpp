@@ -1,61 +1,58 @@
 class Solution {
 public:
-int findUpar(int node,vector<int> & parent){
-    if(parent[node]==node){return node;}
-    return findUpar(parent[node],parent);
+int find_up(int u,vector<int>& parent){
+    if(parent[u]==u){return u;}
+    return find_up(parent[u],parent);
 }
-void disjoint(int u,int v,vector<int> & parent,vector<int> &rank){
-    int ulp_u=findUpar(u,parent);
-    int ulp_v=findUpar(v,parent);
-    //if(ulp_u==ulp_v){return;}
-    if(rank[ulp_u]<rank[ulp_v]){
-        parent[ulp_u]=ulp_v;
-    }
-    else if(rank[ulp_u]>rank[ulp_v]){
+void union_by_rank(int u,int v,vector<int>& parent,vector<int>& rank){
+    int ulp_u=find_up(u,parent);
+    int ulp_v=find_up(v,parent);
+    if(rank[ulp_u]>rank[ulp_v]){
         parent[ulp_v]=ulp_u;
     }
-    else if(rank[ulp_u]==rank[ulp_v]){
+    else if(rank[ulp_u]<rank[ulp_v]){
         parent[ulp_u]=ulp_v;
-        rank[ulp_v]++;
+    }
+    else{
+        parent[ulp_v]=ulp_u;
+        rank[ulp_u]++;
     }
 }
-    vector<vector<string>> accountsMerge(vector<vector<string>>& accounts) {
-        int n=accounts.size();
+    vector<vector<string>> accountsMerge(vector<vector<string>>& acc){
+        int n=acc.size();
+        unordered_map<string,int> mp;
         vector<int> parent(n);
+        vector<int> rank(n,1);
+        for(int i=0;i<n;i++){parent[i]=i;}
         for(int i=0;i<n;i++){
-            parent[i]=i;
-        }
-       vector<int> rank(n,0);
-       unordered_map<string,int> mailtonod;
-       for(int i=0;i<accounts.size();i++){
-        for(int j=1;j<accounts[i].size();j++){
-            string mail=accounts[i][j];
-            if(mailtonod.find(mail)==mailtonod.end()){
-                mailtonod[mail]=i;
-            }
-            else {
-                disjoint(i,mailtonod[mail],parent,rank);
+            for(int j=1;j<acc[i].size();j++){
+                string gmail=acc[i][j];
+                if(mp.count(gmail)){
+                    union_by_rank(i,mp[gmail],parent,rank);
+                }
+                else{
+                    mp[gmail]=i;
+                }
             }
         }
-       }
-       vector<vector<string>> s(n);
-       for(auto it:mailtonod){
-        int node=it.second;
-        string p=it.first;
-        int y=findUpar(node,parent);
-        s[y].push_back(p);
-       }
-       vector<vector<string>> ans;
-       for(int i=0;i<n;i++){
-        if(s[i].size()==0){continue;}
-        sort(s[i].begin(),s[i].end());
-        vector<string> temp;
-        temp.push_back(accounts[i][0]);
-        for(auto it:s[i]){
-            temp.push_back(it);
+        vector<vector<string>> v(n);
+        for(auto it:mp){
+            string cr=it.first;
+            int u=it.second;
+            int ulp_u=find_up(u,parent);
+            v[ulp_u].push_back(cr);
         }
-        ans.push_back(temp);
-       }
-       return ans;
+        vector<vector<string>> ans;
+        for(int i=0;i<n;i++){
+            if(v[i].empty()){continue;}
+            vector<string> tp;
+            tp.push_back(acc[i][0]);
+            sort(v[i].begin(),v[i].end());
+            for(auto it:v[i]){
+                tp.push_back(it);
+            }
+            ans.push_back(tp);
+        }
+        return ans;
     }
 };
