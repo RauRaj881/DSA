@@ -2,20 +2,23 @@ class Solution {
 public:
     int candy(vector<int>& r){
         int n=r.size();
-        vector<int> can(n,1);
+        int up=0,down=0,peak=0,ans=1;
         for(int i=1;i<n;i++){
             if(r[i]>r[i-1]){
-            can[i]=can[i-1]+1;
+                up++;
+                ans+=1+up;
+                peak=up;
+                down=0;
             }
-        }
-        for(int i=n-2;i>=0;i--){
-            if(r[i]>r[i+1]){
-                can[i]=max(can[i],can[i+1]+1);
+            else if(r[i]<r[i-1]){
+                down++;
+                up=0;
+                ans+=down;
+                if(down>peak){ans++;}
             }
-        }
-        int ans=0;
-        for(auto it:can){
-            ans+=it;
+            else{
+                up=0;down=0;peak=0;ans++;
+            }
         }
         return ans;
     }
