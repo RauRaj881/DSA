@@ -9,7 +9,8 @@ public:
             if(nums[i]==nums[i-1]+1&&pos){sm+=nums[i];st.insert(nums[i]);}
             else{pos=false;st.insert(nums[i]);}
         }
-        for(int i=sm;i<=1275;i++){
+        if(sm>50){return sm;}
+        for(int i=sm;i<=51;i++){
             if(!st.count(i)){return i;}
         }
         return -1;
