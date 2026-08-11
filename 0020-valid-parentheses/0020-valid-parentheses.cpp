@@ -8,8 +8,8 @@ public:
                 st.push(s[i]);
             }
             else{
-                //if(st.empty()){return false;}
-                if(s[i]==')'){if(st.top()=='('){st.pop();}else{return false;}}
+                if(st.empty()){return false;}
+                else if(s[i]==')'){if(st.top()=='('){st.pop();}else{return false;}}
                 else if(s[i]=='}'){if(st.top()=='{'){st.pop();}else{return false;}}
                 else if(s[i]==']'){if(st.top()=='['){st.pop();}else{return false;}}
             }
