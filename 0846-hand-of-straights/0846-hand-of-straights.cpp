@@ -4,7 +4,8 @@ public:
         map<int,int> mp;
         for(auto it:hand){mp[it]++;}
         while(!mp.empty()){
-            int st=mp.begin()->first;
+            auto it=mp.begin();
+            int st=it->first;
             mp[st]--;
             if(mp[st]==0){mp.erase(st);}
             for(int i=1;i<sz;i++){
