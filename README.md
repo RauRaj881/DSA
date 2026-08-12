@@ -1868,4 +1868,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RauRaj881/DSA/tree/master/0020-valid-parentheses) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/RauRaj881/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
