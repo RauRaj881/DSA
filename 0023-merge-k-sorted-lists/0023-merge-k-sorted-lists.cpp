@@ -8,12 +8,11 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
 class cmp{
-public:
-   bool operator()(ListNode* a,ListNode* b){
-    return a->val>b->val;
-   }
+    public:
+    bool operator()(ListNode* a,ListNode* b){
+        return a->val>b->val;
+    }
 };
 class Solution {
 public:
@@ -23,13 +22,12 @@ public:
             if(lts[i]){pq.push(lts[i]);}
         }
         ListNode* dummy=new ListNode(0);
-        ListNode* tail=dummy;
+        ListNode* prv=dummy;
         while(!pq.empty()){
-            ListNode* nd=pq.top();
+            ListNode* cr=pq.top();
             pq.pop();
-            tail->next=nd;
-            tail=nd;
-            if(nd->next){pq.push(nd->next);}
+            prv->next=cr;prv=cr;
+            if(cr->next){pq.push(cr->next);}
         }
         return dummy->next;
     }
