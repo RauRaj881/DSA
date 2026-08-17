@@ -13,13 +13,12 @@ void dfs(int nd,vector<vector<int>>& adj,vector<int>& vis){
         int m=strs[0].size();
         vector<vector<int>> adj(n);
         for(int i=0;i<n;i++){
-            string cr=strs[i];
-            for(int j=0;j<n;j++){
+            for(int j=i+1;j<n;j++){
                 if(i==j){continue;}
                 string tp=strs[j];
                 int cnt=0;
-                for(int k=0;k<m;k++){if(cr[k]!=tp[k]){cnt++;}}
-                if(cnt<=2){adj[i].push_back(j);}
+                for(int k=0;k<m;k++){if(strs[i][k]!=strs[j][k]){cnt++;}}
+                if(cnt<=2){adj[i].push_back(j);adj[j].push_back(i);}
             }
         }
         vector<int> vis(n,-1);
