@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/RauRaj881/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/RauRaj881/DSA/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/RauRaj881/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RauRaj881/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/RauRaj881/DSA/tree/master/0801-is-graph-bipartite) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/RauRaj881/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/RauRaj881/DSA/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/RauRaj881/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RauRaj881/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/RauRaj881/DSA/tree/master/0801-is-graph-bipartite) |
@@ -1702,6 +1704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/RauRaj881/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/RauRaj881/DSA/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/RauRaj881/DSA/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/RauRaj881/DSA/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/RauRaj881/DSA/tree/master/0839-similar-string-groups) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/RauRaj881/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -1724,6 +1727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/RauRaj881/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RauRaj881/DSA/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/RauRaj881/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RauRaj881/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/RauRaj881/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0834-sum-of-distances-in-tree](https://github.com/RauRaj881/DSA/tree/master/0834-sum-of-distances-in-tree) |
@@ -1874,6 +1878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bipartite Graph
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/RauRaj881/DSA/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/RauRaj881/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Dijkstra's Algorithm
 |  |
@@ -1892,4 +1897,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RauRaj881/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/RauRaj881/DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
