@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/RauRaj881/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0794-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0794-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/RauRaj881/DSA/tree/master/0827-making-a-large-island) |
+| [0839-similar-string-groups](https://github.com/RauRaj881/DSA/tree/master/0839-similar-string-groups) |
 | [0846-hand-of-straights](https://github.com/RauRaj881/DSA/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RauRaj881/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-most-profit-assigning-work](https://github.com/RauRaj881/DSA/tree/master/0853-most-profit-assigning-work) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/RauRaj881/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/RauRaj881/DSA/tree/master/0827-making-a-large-island) |
 | [0834-sum-of-distances-in-tree](https://github.com/RauRaj881/DSA/tree/master/0834-sum-of-distances-in-tree) |
+| [0839-similar-string-groups](https://github.com/RauRaj881/DSA/tree/master/0839-similar-string-groups) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RauRaj881/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/RauRaj881/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RauRaj881/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/RauRaj881/DSA/tree/master/0801-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/RauRaj881/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/RauRaj881/DSA/tree/master/0827-making-a-large-island) |
+| [0839-similar-string-groups](https://github.com/RauRaj881/DSA/tree/master/0839-similar-string-groups) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RauRaj881/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/RauRaj881/DSA/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0909-snakes-and-ladders](https://github.com/RauRaj881/DSA/tree/master/0909-snakes-and-ladders) |
@@ -817,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/RauRaj881/DSA/tree/master/0721-accounts-merge) |
 | [0792-number-of-matching-subsequences](https://github.com/RauRaj881/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/RauRaj881/DSA/tree/master/0796-rotate-string) |
+| [0839-similar-string-groups](https://github.com/RauRaj881/DSA/tree/master/0839-similar-string-groups) |
 | [0940-distinct-subsequences-ii](https://github.com/RauRaj881/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/RauRaj881/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/RauRaj881/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -979,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/RauRaj881/DSA/tree/master/0691-stickers-to-spell-word) |
 | [0721-accounts-merge](https://github.com/RauRaj881/DSA/tree/master/0721-accounts-merge) |
 | [0792-number-of-matching-subsequences](https://github.com/RauRaj881/DSA/tree/master/0792-number-of-matching-subsequences) |
+| [0839-similar-string-groups](https://github.com/RauRaj881/DSA/tree/master/0839-similar-string-groups) |
 | [0846-hand-of-straights](https://github.com/RauRaj881/DSA/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RauRaj881/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/RauRaj881/DSA/tree/master/0874-walking-robot-simulation) |
@@ -1698,6 +1703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/RauRaj881/DSA/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/RauRaj881/DSA/tree/master/0827-making-a-large-island) |
+| [0839-similar-string-groups](https://github.com/RauRaj881/DSA/tree/master/0839-similar-string-groups) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/RauRaj881/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1202-smallest-string-with-swaps](https://github.com/RauRaj881/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RauRaj881/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
