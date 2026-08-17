@@ -15,7 +15,6 @@ void dfs(int nd,vector<vector<int>>& adj,vector<int>& vis){
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
                 if(i==j){continue;}
-                string tp=strs[j];
                 int cnt=0;
                 for(int k=0;k<m;k++){if(strs[i][k]!=strs[j][k]){cnt++;}}
                 if(cnt<=2){adj[i].push_back(j);adj[j].push_back(i);}
