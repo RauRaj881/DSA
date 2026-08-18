@@ -12,13 +12,12 @@ public:
                 if(s[lt]==s[rt]){len+=2;lt--;rt++;}
                 else{break;}
             }
-            lt=i-1;rt=i+1;
             if(len>mx){mx=len;idx=i;}
-            if(lt>=0&&s[i]==s[lt]){len=2;lt--;
+            lt=i-1;rt=i;
+            len=0;
             while(lt>=0&&rt<n){
                 if(s[lt]==s[rt]){len+=2;lt--;rt++;}
                 else{break;}
-            }
             }
             if(len>mx){mx=len;idx=i;}
         }
