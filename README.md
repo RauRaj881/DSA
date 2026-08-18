@@ -1901,4 +1901,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/RauRaj881/DSA/tree/master/0785-is-graph-bipartite) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/RauRaj881/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
