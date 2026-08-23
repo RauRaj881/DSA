@@ -8,8 +8,7 @@ public:
             dp[i][0]=max(dp[i-1][0],dp[i-1][1]+p[i]);
             int cr=0;
             if(i>=2){cr=dp[i-2][0];}
-            cr+=-p[i];
-            dp[i][1]=max(dp[i-1][1],cr);
+            dp[i][1]=max(dp[i-1][1],cr-p[i]);
         }
         return dp[n-1][0];
     }
