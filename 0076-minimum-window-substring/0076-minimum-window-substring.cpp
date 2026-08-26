@@ -14,7 +14,7 @@ public:
             mp2[s[r]]++;
             if(mp2[s[r]]==mp[s[r]]){cnt++;}
             while(cnt==sz&&l<=r){
-                if(cnt==sz){if(mn>=r-l+1){mn=r-l+1;idx=l;}}
+                if(mn>=r-l+1){mn=r-l+1;idx=l;}
                 mp2[s[l]]--;
                 if(mp.count(s[l])&&mp2[s[l]]==mp[s[l]]-1){cnt--;}
                 l++;
