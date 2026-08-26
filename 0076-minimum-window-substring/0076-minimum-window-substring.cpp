@@ -1,28 +1,26 @@
 class Solution {
 public:
-    string minWindow(string s, string t) {
-        int m=s.length();
-        int n=t.length();
-        map<char,int> mp;
-        for(int i=0;i<n;i++){
-            mp[t[i]]++;
-        }
-        int cnt=0;
-        int l=0,r=0;
-        int startl=-1,minr=0;
-        int minlength=m;
-        while(r<m){
-            if(mp[s[r]]>0){cnt++;};
-            mp[s[r]]--;
-            while(l<=r&&cnt>=n){
-                if(r-l+1<=minlength){minlength=r-l+1;startl=l;}
-                mp[s[l]]++;
-                if(mp[s[l]]>0){cnt--;}
+    string minWindow(string s, string t){
+        int n1=s.size();
+        int n2=t.size();
+        if(n2>n1){return "";}
+        unordered_map<char,int> mp;
+        for(auto it:t){mp[it]++;}
+        int mn=n1+1,idx=-1;
+        int l=0,cnt=0;
+        int sz=mp.size();
+        unordered_map<char,int> mp2;
+        for(int r=0;r<n1;r++){
+            mp2[s[r]]++;
+            if(mp2[s[r]]==mp[s[r]]){cnt++;}
+            while(cnt==sz&&l<=r){
+                if(cnt==sz){if(mn>r-l+1){mn=r-l+1;idx=l;}}
+                mp2[s[l]]--;
+                if(mp.count(s[l])&&mp2[s[l]]==mp[s[l]]-1){cnt--;}
                 l++;
             }
-            r++;
         }
-        if(startl==-1){return s.substr(0,0);}
-        return s.substr(startl,minlength); 
+        if(idx==-1){return "";}
+        return s.substr(idx,mn);
     }
 };
