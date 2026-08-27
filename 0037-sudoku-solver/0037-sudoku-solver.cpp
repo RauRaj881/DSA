@@ -2,15 +2,9 @@ class Solution {
 public:
 bool isvalid(int row,int col,int k,vector<vector<char>>& b){
     for(int i=0;i<9;i++){
-        if(b[i][col]==char(k+'0')){
-            return false;
-        }
-        if(b[row][i]==char(k+'0')){
-            return false;
-        }
-        if(b[3*(row/3)+i/3][3*(col/3)+i%3]==char(k+'0')){
-            return false;
-        }
+        if(b[row][i]==k+'0'){return false;}
+        if(b[i][col]==k+'0'){return false;}
+        if(b[3*(row/3)+i/3][3*(col/3)+i%3]==k+'0'){return false;}
     }
     return true;
 }
@@ -31,6 +25,5 @@ bool finished=false;
             }
         }
         finished=true;
-        
     }
 };
