@@ -26,7 +26,7 @@ priority_queue<int,vector<int>,greater<int>> pq2;
     
     double findMedian(){
         if(pq1.size()!=pq2.size()){return pq1.top();}
-        double ans=(double)(pq1.top()+pq2.top())/2;
+        double ans=(pq1.top()+pq2.top())/2.0;
         return ans;
     }
 };
