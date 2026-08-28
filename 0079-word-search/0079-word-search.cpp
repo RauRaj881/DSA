@@ -19,9 +19,9 @@ void f(int row,int col,vector<vector<char>>& b,string w,int i,vector<vector<int>
     bool exist(vector<vector<char>>& b,string w){
         int n=b.size();
         int m=b[0].size();
+        vector<vector<int>> vis(n,vector<int>(m,-1));
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                vector<vector<int>> vis(n,vector<int>(m,-1));
                 f(i,j,b,w,0,vis);
             }
         }
