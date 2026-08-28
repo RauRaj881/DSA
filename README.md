@@ -887,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RauRaj881/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RauRaj881/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/RauRaj881/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/RauRaj881/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RauRaj881/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3399-smallest-substring-with-identical-characters-ii](https://github.com/RauRaj881/DSA/tree/master/3399-smallest-substring-with-identical-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/RauRaj881/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -923,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/RauRaj881/DSA/tree/master/0691-stickers-to-spell-word) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RauRaj881/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/RauRaj881/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/RauRaj881/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -955,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/RauRaj881/DSA/tree/master/2401-longest-nice-subarray) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RauRaj881/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/RauRaj881/DSA/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/RauRaj881/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/RauRaj881/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/RauRaj881/DSA/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/RauRaj881/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
