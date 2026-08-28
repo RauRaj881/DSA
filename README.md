@@ -908,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/RauRaj881/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/RauRaj881/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/RauRaj881/DSA/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/RauRaj881/DSA/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/RauRaj881/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/RauRaj881/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RauRaj881/DSA/tree/master/0079-word-search) |
@@ -1945,6 +1946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/RauRaj881/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/RauRaj881/DSA/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/RauRaj881/DSA/tree/master/0052-n-queens-ii) |
 ## Dancing Links
 |  |
 | ------- |
