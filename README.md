@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RauRaj881/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0691-stickers-to-spell-word](https://github.com/RauRaj881/DSA/tree/master/0691-stickers-to-spell-word) |
 | [0695-max-area-of-island](https://github.com/RauRaj881/DSA/tree/master/0695-max-area-of-island) |
+| [0706-design-hashmap](https://github.com/RauRaj881/DSA/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/RauRaj881/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RauRaj881/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/RauRaj881/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -1009,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/RauRaj881/DSA/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RauRaj881/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0691-stickers-to-spell-word](https://github.com/RauRaj881/DSA/tree/master/0691-stickers-to-spell-word) |
+| [0706-design-hashmap](https://github.com/RauRaj881/DSA/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/RauRaj881/DSA/tree/master/0721-accounts-merge) |
 | [0792-number-of-matching-subsequences](https://github.com/RauRaj881/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0839-similar-string-groups](https://github.com/RauRaj881/DSA/tree/master/0839-similar-string-groups) |
@@ -1561,6 +1563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/RauRaj881/DSA/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RauRaj881/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RauRaj881/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0706-design-hashmap](https://github.com/RauRaj881/DSA/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/RauRaj881/DSA/tree/master/0901-online-stock-span) |
 | [2069-walking-robot-simulation-ii](https://github.com/RauRaj881/DSA/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/RauRaj881/DSA/tree/master/2169-simple-bank-system) |
@@ -1590,6 +1593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/RauRaj881/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RauRaj881/DSA/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/RauRaj881/DSA/tree/master/0355-design-twitter) |
+| [0706-design-hashmap](https://github.com/RauRaj881/DSA/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/RauRaj881/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RauRaj881/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RauRaj881/DSA/tree/master/2573-remove-nodes-from-linked-list) |
@@ -1814,6 +1818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/RauRaj881/DSA/tree/master/0706-design-hashmap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RauRaj881/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Bitmask
 |  |
