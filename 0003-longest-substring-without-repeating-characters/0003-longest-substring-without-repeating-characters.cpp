@@ -7,7 +7,7 @@ public:
         int mx=0;
         for(int r=0;r<n;r++){
             mp[s[r]]++;
-            while(mp.size()!=r-l+1){
+            while(mp.size()<r-l+1){
                 mp[s[l]]--;
                 if(mp[s[l]]==0){mp.erase(s[l]);}
                 l++;
