@@ -1,24 +1,30 @@
 class Solution {
 public:
-    vector<int> findOrder(int n,vector<vector<int>>& ed){
-        vector<vector<int>> adj(n);
+    vector<int> findOrder(int n,vector<vector<int>>& pre){
         vector<int> indeg(n,0);
-        for(int i=0;i<ed.size();i++){
-            int u=ed[i][0];
-            int v=ed[i][1];
+        vector<vector<int>> adj(n);
+        for(int i=0;i<pre.size();i++){
+            int u=pre[i][0];
+            int v=pre[i][1];
             adj[v].push_back(u);
             indeg[u]++;
         }
         queue<int> q;
-        for(int i=0;i<n;i++){if(indeg[i]==0){q.push(i);}}
+        for(int i=0;i<n;i++){
+            if(indeg[i]==0){
+                q.push(i);
+            }
+        }
         vector<int> ans;
         while(!q.empty()){
-            int cr=q.front();
+            int tp=q.front();
+            ans.push_back(tp);
             q.pop();
-            ans.push_back(cr);
-            for(auto it:adj[cr]){
+            for(auto it:adj[tp]){
                 indeg[it]--;
-                if(indeg[it]==0){q.push(it);}
+                if(indeg[it]==0){
+                    q.push(it);
+                }
             }
         }
         if(ans.size()==n){return ans;}
