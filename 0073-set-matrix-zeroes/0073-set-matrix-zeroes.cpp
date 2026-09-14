@@ -3,23 +3,35 @@ public:
     void setZeroes(vector<vector<int>>& mat) {
         int m=mat.size();
         int n=mat[0].size();
+        bool firstrow=false,firstcol=false;
+        for(int j=0;j<n;j++){
+            if(mat[0][j]==0){firstrow=true;}
+        }
         for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
+            if(mat[i][0]==0){firstcol=true;}
+        }
+        for(int i=1;i<m;i++){
+            for(int j=1;j<n;j++){
                 if(mat[i][j]==0){
-                    for(int row=0;row<m;row++){
-                        if(mat[row][j]!=0)mat[row][j]=1067893;
-                    }
-                    for(int col=0;col<n;col++){
-                        if(mat[i][col]!=0)
-                        mat[i][col]=1067893;
-                    }
+                    mat[i][0]=0;mat[0][j]=0;
                 }
             }
         }
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(mat[i][j]==1067893){mat[i][j]=0;}
+        for(int i=1;i<m;i++){
+                for(int j=1;j<n;j++){
+                    if(mat[i][0]==0||mat[0][j]==0){mat[i][j]=0;}
             }
         }
+        if(firstrow){
+            for(int j=0;j<n;j++){
+                mat[0][j]=0;
+            }
+        }
+        if(firstcol){
+            for(int i=0;i<m;i++){
+                mat[i][0]=0;
+            }
+        }
+        
     }
 };
