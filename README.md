@@ -843,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/RauRaj881/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/RauRaj881/DSA/tree/master/0796-rotate-string) |
 | [0839-similar-string-groups](https://github.com/RauRaj881/DSA/tree/master/0839-similar-string-groups) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RauRaj881/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/RauRaj881/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/RauRaj881/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/RauRaj881/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -1105,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/RauRaj881/DSA/tree/master/0846-hand-of-straights) |
 | [0853-most-profit-assigning-work](https://github.com/RauRaj881/DSA/tree/master/0853-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/RauRaj881/DSA/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RauRaj881/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/RauRaj881/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RauRaj881/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RauRaj881/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -1334,6 +1336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/RauRaj881/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/RauRaj881/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/RauRaj881/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RauRaj881/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RauRaj881/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/RauRaj881/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1106-parsing-a-boolean-expression](https://github.com/RauRaj881/DSA/tree/master/1106-parsing-a-boolean-expression) |
@@ -1962,6 +1965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RauRaj881/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RauRaj881/DSA/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RauRaj881/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Tournament Sort
 |  |
 | ------- |
