@@ -1,20 +1,18 @@
 class Solution {
 public:
-    void nextPermutation(vector<int>& s) {
-        int i=s.size()-2;
-        while(i>=0&&s[i]>=s[i+1]){i--;}
-        if(i<0){reverse(s.begin(),s.end());return;}
-        int j=s.size()-1;
-        while(i<j){
-            if(s[j]>s[i]){
-                swap(s[j],s[i]);
-                sort(s.begin()+i+1,s.end());
-                // nm=stoi(s);
-                //if(nm>(long long)INT_MAX){return -1;}
-                return;
-            }
-            else{j--;}
+    void nextPermutation(vector<int>& nums){
+        int n=nums.size();
+        int idx=n;
+        for(int i=n-1;i>=1;i--){
+            if(nums[i]>nums[i-1]){idx=i-1;break;}
         }
-        return;
+        if(idx==n){
+            reverse(nums.begin(),nums.end());
+            return;
+        }
+        for(int i=n-1;i>idx;i--){
+            if(nums[i]>nums[idx]){swap(nums[idx],nums[i]);break;}
+        }
+        sort(nums.begin()+idx+1,nums.end());      
     }
 };
