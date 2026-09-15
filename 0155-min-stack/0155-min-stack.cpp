@@ -13,9 +13,7 @@ stack<int> mn;
     }
     
     void pop(){
-        if(st.top()==mn.top()){
-            mn.pop();
-        }
+        if(st.top()==mn.top()){mn.pop();}
         st.pop();
     }
     
