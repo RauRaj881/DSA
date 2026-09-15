@@ -13,6 +13,6 @@ public:
         for(int i=n-1;i>idx;i--){
             if(nums[i]>nums[idx]){swap(nums[idx],nums[i]);break;}
         }
-        sort(nums.begin()+idx+1,nums.end());      
+        reverse(nums.begin()+idx+1,nums.end());      
     }
 };
