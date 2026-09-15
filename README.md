@@ -1998,4 +1998,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/RauRaj881/DSA/tree/master/0881-boats-to-save-people) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/RauRaj881/DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
