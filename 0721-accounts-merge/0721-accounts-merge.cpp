@@ -2,7 +2,7 @@ class Solution {
 public:
 int findup(int u,vector<int>&parent){
     if(parent[u]==u){return u;}
-    return findup(parent[u],parent);
+    return parent[u]=findup(parent[u],parent);
 }
 void union_by_rank(int u,int v,vector<int>&parent,vector<int>&rank){
     int ulp_u=findup(u,parent);
