@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/RauRaj881/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RauRaj881/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/RauRaj881/DSA/tree/master/1406-stone-game-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RauRaj881/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RauRaj881/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RauRaj881/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RauRaj881/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -1416,6 +1417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/RauRaj881/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/RauRaj881/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RauRaj881/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RauRaj881/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RauRaj881/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RauRaj881/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -1447,6 +1449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/RauRaj881/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1184-car-pooling](https://github.com/RauRaj881/DSA/tree/master/1184-car-pooling) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RauRaj881/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RauRaj881/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/RauRaj881/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RauRaj881/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1862-sum-of-floored-pairs](https://github.com/RauRaj881/DSA/tree/master/1862-sum-of-floored-pairs) |
