@@ -1,34 +1,36 @@
 class Solution {
 public:
-    int ladderLength(string bw, string ew, vector<string>& wl){
-        int n=wl.size();
-        int m=bw.size();
-        unordered_set<string> st;
-        for(auto it:wl){st.insert(it);}
-        if(!st.count(ew)){return 0;}
+    int ladderLength(string st,string ed,vector<string>& wl){
+        int n=st.size();
+        int m=wl.size();
         queue<string> q;
-        q.push(bw);
-        int level=0;
-        unordered_set<string> vis;
-        vis.insert(bw);
+        q.push(st);
+        unordered_set<string> s;
+        for(auto it:wl){s.insert(it);}
+        int cnt=1;
         while(!q.empty()){
-            level++;
+            cnt++;
             int sz=q.size();
-            for(int k=0;k<sz;k++){
+            for(int i=0;i<sz;i++){
                 string cr=q.front();
                 q.pop();
-            for(int i=0;i<m;i++){
-                for(int j=0;j<26;j++){
-                    char nw=j+'a';
+                for(int j=0;j<n;j++){
                     string tp=cr;
-                    tp[i]=nw;
-                    if(tp==ew){return level+1;}
-                    if(st.count(tp)&&!vis.count(tp)){q.push(tp);vis.insert(tp);}
+                    for(int k=0;k<26;k++){
+                        char ori=tp[j];
+                        tp[j]=k+'a';
+                        if(s.count(tp)){
+                            q.push(tp);
+                            s.erase(tp);
+                            if(tp==ed){return cnt;}
+                        }
+                        tp[j]=ori;
+                    }
                 }
-            }
             }
         }
         return 0;
+        
         
     }
 };
