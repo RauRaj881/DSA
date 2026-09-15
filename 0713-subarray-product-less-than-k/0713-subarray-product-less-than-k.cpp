@@ -8,12 +8,10 @@ public:
         for(int r=0;r<n;r++){
             cr*=nums[r];
             while(cr>=k&&l<=r){
-                cr/=nums[l];
-                l++;
+                cr/=nums[l];l++;
             }
             ans+=r-l+1;
         }
         return ans;
-        
     }
 };
