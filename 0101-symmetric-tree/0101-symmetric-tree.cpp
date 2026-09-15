@@ -11,25 +11,13 @@
  */
 class Solution {
 public:
+bool f(TreeNode* rt1,TreeNode* rt2){
+    if(!rt1&&!rt2){return true;}
+    if(!rt1||!rt2){return false;}
+    if(rt1->val!=rt2->val){return false;}
+    return f(rt1->left,rt2->right)&&f(rt1->right,rt2->left);
+}
     bool isSymmetric(TreeNode* rt){
-        TreeNode* rt1=rt->left;
-        TreeNode* rt2=rt->right;
-        queue<TreeNode*> q;
-        q.push(rt1);
-        q.push(rt2);
-        while(!q.empty()){
-            TreeNode* tp1=q.front();
-            q.pop();
-            TreeNode* tp2=q.front();
-            q.pop();
-            if(tp1==nullptr&&tp2==nullptr){continue;}
-            if(tp1==nullptr||tp2==nullptr){return false;}
-            if(tp1->val!=tp2->val){return false;}
-            q.push(tp1->left);
-            q.push(tp2->right);
-            q.push(tp1->right);
-            q.push(tp2->left);
-        }
-        return true;
+        return f(rt->left,rt->right);
     }
 };
