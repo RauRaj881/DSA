@@ -1,17 +1,15 @@
 class Solution {
 public:
-    int repeatedStringMatch(string a, string b) {
-        string s=a;
-        int count=1;
-        while(s.size()<b.size()){
-            s+=a;
-            count++;
+    int repeatedStringMatch(string a, string b){
+        string tp=a;
+        int cnt=1;
+        while(tp.size()<b.size()){
+            tp+=a;
+            cnt++;
         }
-        if(s.find(b) < s.length()){
-            return count;
-        }
-        s+=a;
-        if(s.find(b) < s.length()){return count+1;}
+        if(tp.find(b)<tp.length()){return cnt;}
+        tp+=a;
+        if(tp.find(b)<tp.length()){return cnt+1;}
         return -1;
     }
 };
