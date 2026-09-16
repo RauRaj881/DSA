@@ -20,7 +20,7 @@ int tm=0;
         priority_queue<vector<int>> pq;
         for(int i=0;i<users.size();i++){
             int sz=twt[users[i]].size();
-            vector<pair<int,int>> tp=twt[users[i]];
+            vector<pair<int,int>>& tp=twt[users[i]];
             if(sz>0){
                 pq.push({tp[sz-1].second,tp[sz-1].first,users[i],sz-1});
             }
