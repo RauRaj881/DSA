@@ -9,50 +9,38 @@
  */
 class Solution {
 public:
-    vector<int> distanceK(TreeNode* root, TreeNode* target,int k){
-        unordered_map<TreeNode*,vector<TreeNode*>> mp;
-        queue<TreeNode*> q;
-        q.push(root);
-        while(!q.empty()){
-            TreeNode* cr=q.front();
-            q.pop();
-            if(cr->left!=nullptr){
-                mp[cr].push_back(cr->left);
-                mp[cr->left].push_back(cr);
-                q.push(cr->left);
+vector<int> ans;
+void f(int nd,int dst,int k,unordered_map<int,vector<int>>& mp,int prt){
+    if(dst==k){ans.push_back(nd);return;}
+    for(auto it:mp[nd]){
+        if(it!=prt){
+            f(it,dst+1,k,mp,nd);
+        }
+    }
+}
+    vector<int> distanceK(TreeNode* rt,TreeNode* tar,int k){
+        unordered_map<int,vector<int>> mp;
+        stack<TreeNode*> st;
+        st.push(rt);
+        while(!st.empty()){
+            TreeNode* cr=st.top();
+            st.pop();
+            if(cr->left){
+                int u=cr->val;
+                int v=cr->left->val;
+                mp[u].push_back(v);
+                mp[v].push_back(u);
+                st.push(cr->left);
             }
-            if(cr->right!=nullptr){
-                mp[cr].push_back(cr->right);
-                mp[cr->right].push_back(cr);
-                q.push(cr->right);
+            if(cr->right){
+                int u=cr->val;
+                int v=cr->right->val;
+                mp[u].push_back(v);
+                mp[v].push_back(u);
+                st.push(cr->right);
             }
         }
-        unordered_set<TreeNode*> st;
-        q.push(target);
-        st.insert(target);
-        int level=0;
-        while(!q.empty()){
-            if(level==k){break;}
-            int sz=q.size();
-            for(int i=0;i<sz;i++){
-                TreeNode* cr=q.front();
-                q.pop();
-                for(auto it:mp[cr]){
-                    if(!st.count(it)){
-                        q.push(it);
-                        st.insert(it);
-                    }
-                }
-            }
-            level++;
-        }
-        vector<int> ans;
-        while(!q.empty()){
-            int vl=q.front()->val;
-            ans.push_back(vl);
-            q.pop();
-        }
+        f(tar->val,0,k,mp,-1);
         return ans;
-        
     }
 };
