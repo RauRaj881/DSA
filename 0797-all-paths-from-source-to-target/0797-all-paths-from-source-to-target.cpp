@@ -1,11 +1,12 @@
 class Solution {
 public:
 vector<vector<int>> ans;
-void dfs(int nd,vector<vector<int>>& adj,vector<int> tp,int n){
+void dfs(int nd,vector<vector<int>>& adj,vector<int>& tp,int n){
     tp.push_back(nd);
     if(nd==n-1){ans.push_back(tp);return;}
     for(auto it:adj[nd]){
         dfs(it,adj,tp,n);
+        tp.pop_back();
     }
 }
     vector<vector<int>> allPathsSourceTarget(vector<vector<int>>& g){
