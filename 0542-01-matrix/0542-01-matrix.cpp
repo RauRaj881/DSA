@@ -19,6 +19,7 @@ public:
             vector<int> cr=*st.begin();
             int w=cr[0],x=cr[1],y=cr[2];
             st.erase(st.begin());
+            if(dp[x][y]!=w){continue;}
             for(int i=0;i<4;i++){
                 int nx=x+dx[i];
                 int ny=y+dy[i];
