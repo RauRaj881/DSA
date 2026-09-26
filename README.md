@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RauRaj881/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-closest-subsequence-sum](https://github.com/RauRaj881/DSA/tree/master/1755-closest-subsequence-sum) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/RauRaj881/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1765-map-of-highest-peak](https://github.com/RauRaj881/DSA/tree/master/1765-map-of-highest-peak) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/RauRaj881/DSA/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/RauRaj881/DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1833-maximum-ice-cream-bars](https://github.com/RauRaj881/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/RauRaj881/DSA/tree/master/1345-jump-game-iv) |
 | [1631-path-with-minimum-effort](https://github.com/RauRaj881/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RauRaj881/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1765-map-of-highest-peak](https://github.com/RauRaj881/DSA/tree/master/1765-map-of-highest-peak) |
 | [2092-find-all-people-with-secret](https://github.com/RauRaj881/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/RauRaj881/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RauRaj881/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RauRaj881/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/RauRaj881/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/RauRaj881/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/RauRaj881/DSA/tree/master/1765-map-of-highest-peak) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RauRaj881/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/RauRaj881/DSA/tree/master/1895-largest-magic-square) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/RauRaj881/DSA/tree/master/2067-maximum-number-of-points-with-cost) |
