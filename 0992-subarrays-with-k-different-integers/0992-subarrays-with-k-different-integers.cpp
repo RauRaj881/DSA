@@ -1,10 +1,10 @@
 class Solution {
 public:
-int Atmost(vector<int>& nums, int k){
+int atmost(vector<int>& nums, int k){
     int n=nums.size();
-    map<int,int> mp;
+    unordered_map<int,int> mp;
     int l=0;
-    int cnt=0;
+    int ans=0;
     for(int r=0;r<n;r++){
         mp[nums[r]]++;
         while(mp.size()>k){
@@ -12,11 +12,11 @@ int Atmost(vector<int>& nums, int k){
             if(mp[nums[l]]==0){mp.erase(nums[l]);}
             l++;
         }
-        cnt+=r-l+1;
+        ans+=r-l+1;
     }
-    return cnt;
+    return ans;
 }
-    int subarraysWithKDistinct(vector<int>& nums, int k) {
-        return Atmost(nums,k)-Atmost(nums,k-1);
+    int subarraysWithKDistinct(vector<int>& nums, int k){
+        return atmost(nums,k)-atmost(nums,k-1);
     }
 };
