@@ -4,27 +4,28 @@ public:
         int n=exp.size();
         stack<char> st;
         for(int i=0;i<n;i++){
-            if(exp[i]!=')'){
-                st.push(exp[i]);
-            }
+            if(exp[i]!=')'){st.push(exp[i]);}
             else{
-                unordered_map<char,int> mp;
-                while(!(st.top()=='|'||st.top()=='&'||st.top()=='!')){
-                    mp[st.top()]++;st.pop();
+                int cntt=0,cntf=0;
+                while(st.top()!='('){
+                    if(st.top()=='f'){cntf++;}
+                    else if(st.top()=='t'){cntt++;}
+                    st.pop();
                 }
+                st.pop();
                 if(st.top()=='|'){
                     st.pop();
-                    if(mp.count('t')){st.push('t');}
+                    if(cntt>0){st.push('t');}
                     else{st.push('f');}
                 }
                 else if(st.top()=='&'){
                     st.pop();
-                    if(mp.count('f')){st.push('f');}
+                    if(cntf>0){st.push('f');}
                     else{st.push('t');}
                 }
                 else{
                     st.pop();
-                    if(mp.count('t')){st.push('f');}
+                    if(cntt>0){st.push('f');}
                     else{st.push('t');}
                 }
             }
