@@ -1,42 +1,42 @@
 class Solution {
 public:
-int f(vector<int> &h){
-    int mx=0;
+int f(vector<int>& h){
+    int m=h.size();
     stack<int> st;
-    int n=h.size();
-    for(int i=0;i<n;i++){
+    int ans=0;
+    for(int i=0;i<m;i++){
         while(!st.empty()&&h[st.top()]>h[i]){
             int ht=h[st.top()];
             int pse=-1;
             st.pop();
             if(!st.empty()){pse=st.top();}
             int wd=i-pse-1;
-            mx=max(wd*ht,mx);
+            ans=max(ans,wd*ht);
         }
         st.push(i);
     }
     while(!st.empty()){
-        int ht=h[st.top()];
         int pse=-1;
+        int ht=h[st.top()];
         st.pop();
         if(!st.empty()){pse=st.top();}
-        int wd=n-pse-1;
-        mx=max(wd*ht,mx);
+        int wd=m-pse-1;
+        ans=max(ans,wd*ht);
     }
-    return mx;
+    return ans;
 }
     int maximalRectangle(vector<vector<char>>& mat){
-        int m=mat.size();
-        int n=mat[0].size();
-        vector<int> h(n);
-        int ans=0;
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
+        int n=mat.size();
+        int m=mat[0].size();
+        int mx=0;
+        vector<int> h(m,0);
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
                 if(mat[i][j]=='1'){h[j]++;}
                 else{h[j]=0;}
             }
-            ans=max(ans,f(h));
+            mx=max(mx,f(h));
         }
-        return ans;
+        return mx;
     }
 };
