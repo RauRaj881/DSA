@@ -8,18 +8,16 @@ public:
             if(i>0&&nums[i]==nums[i-1]){continue;}
             for(int j=i+1;j<n;j++){
                 if(j>i+1&&nums[j]==nums[j-1]){continue;}
-                    int k=j+1;
-                    int l=n-1;
-                    while(k<l){
-                        long long sm = 1LL * nums[i] + nums[j] + nums[k] + nums[l];
-                        if(sm==tar){ans.push_back({nums[i],nums[j],nums[k],nums[l]});
-                        k++;l--;
-                        while(k<l&&nums[k]==nums[k-1]){k++;}
-                        while(k<l&&nums[l]==nums[l+1]){l--;}
-                        }
-                        else if(sm<tar){k++;}
-                        else{l--;}
-                    }
+                long long x=1LL*tar-nums[i]-nums[j];
+                int l=j+1,r=n-1;
+                while(l<r){
+                    long long tp=nums[l]+nums[r];
+                    if(tp==x){ans.push_back({nums[i],nums[j],nums[l],nums[r]});l++;r--;}
+                    else if(tp>x){r--;}
+                    else{l++;}
+                    while(l>j+1&&l<n&&nums[l]==nums[l-1]){l++;}
+                    while(r<n-1&&r>j&&nums[r]==nums[r+1]){r--;}
+                }
             }
         }
         return ans;
