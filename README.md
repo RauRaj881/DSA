@@ -646,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/RauRaj881/DSA/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RauRaj881/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/RauRaj881/DSA/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/RauRaj881/DSA/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/RauRaj881/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/RauRaj881/DSA/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RauRaj881/DSA/tree/master/0628-maximum-product-of-three-numbers) |
