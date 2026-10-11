@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/RauRaj881/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RauRaj881/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/RauRaj881/DSA/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/RauRaj881/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RauRaj881/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/RauRaj881/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/RauRaj881/DSA/tree/master/0221-maximal-square) |
@@ -1019,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/RauRaj881/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/RauRaj881/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/RauRaj881/DSA/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/RauRaj881/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RauRaj881/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/RauRaj881/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/RauRaj881/DSA/tree/master/0290-word-pattern) |
@@ -1202,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RauRaj881/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/RauRaj881/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RauRaj881/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/RauRaj881/DSA/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/RauRaj881/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/RauRaj881/DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/RauRaj881/DSA/tree/master/0274-h-index) |
