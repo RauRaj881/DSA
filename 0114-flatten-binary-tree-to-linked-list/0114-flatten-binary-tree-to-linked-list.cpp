@@ -11,16 +11,13 @@
  */
 class Solution {
 public:
-TreeNode* prv=nullptr;
-void f(TreeNode* rt){
-    if(!rt){return;}
-    f(rt->right);
-    f(rt->left);
-    rt->right=prv;
-    rt->left=nullptr;
-    prv=rt;
-}
+TreeNode* prev=nullptr;
     void flatten(TreeNode* rt){
-        f(rt);
+        if(!rt){return;}
+        flatten(rt->right);
+        flatten(rt->left);
+        rt->right=prev;
+        rt->left=nullptr;
+        prev=rt;
     }
 };
