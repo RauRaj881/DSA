@@ -2,14 +2,20 @@ class Solution {
 public:
     int trap(vector<int>& hgt){
         int n=hgt.size();
-        int leftm=-1,rightm=-1;
-        int l=0,r=n-1;
+        stack<int> st;
         int ans=0;
-        while(l<=r){
-            leftm=max(leftm,hgt[l]);
-            rightm=max(rightm,hgt[r]);
-            if(leftm<rightm){ans+=leftm-hgt[l];l++;}
-            else{ans+=rightm-hgt[r];r--;}
+        for(int i=0;i<n;i++){
+            while(!st.empty()&&hgt[st.top()]<hgt[i]){
+                int btw=hgt[st.top()];
+                st.pop();
+                if(st.empty()){break;}
+                int lt=hgt[st.top()];
+                int rt=hgt[i];
+                int ht=min(rt,lt)-btw;
+                int wd=i-st.top()-1;
+                ans+=(wd*ht);
+            }
+            st.push(i);
         }
         return ans;
     }
