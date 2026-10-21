@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/RauRaj881/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/RauRaj881/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RauRaj881/DSA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/RauRaj881/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/RauRaj881/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RauRaj881/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/RauRaj881/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/RauRaj881/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RauRaj881/DSA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/RauRaj881/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/RauRaj881/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RauRaj881/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/RauRaj881/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/RauRaj881/DSA/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RauRaj881/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/RauRaj881/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RauRaj881/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0794-swim-in-rising-water) |
@@ -1833,6 +1836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/RauRaj881/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RauRaj881/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/RauRaj881/DSA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/RauRaj881/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RauRaj881/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RauRaj881/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/RauRaj881/DSA/tree/master/0797-all-paths-from-source-to-target) |
@@ -1857,6 +1861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/RauRaj881/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RauRaj881/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RauRaj881/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RauRaj881/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -2019,6 +2024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/RauRaj881/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/RauRaj881/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RauRaj881/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
