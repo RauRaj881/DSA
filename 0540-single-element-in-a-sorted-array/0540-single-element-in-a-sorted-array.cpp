@@ -9,7 +9,6 @@ public:
             if(nums[mid]!=nums[mid+1]){high=mid;}
             else{low=mid+2;}
         }
-        return nums[low];
-        
+        return nums[high];
     }
 };
