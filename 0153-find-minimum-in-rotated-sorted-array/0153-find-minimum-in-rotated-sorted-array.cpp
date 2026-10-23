@@ -6,9 +6,9 @@ public:
         int ans=6000;
         while(low<=high){
             int mid=(low+high)/2;
-            ans=min(ans,nums[mid]);
+            //ans=min(ans,nums[mid]);
             if(nums[low]>nums[mid]){
-                ans=min(ans,nums[mid+1]);
+                ans=min(ans,nums[mid]);
                 high=mid-1;
             }
             else{
