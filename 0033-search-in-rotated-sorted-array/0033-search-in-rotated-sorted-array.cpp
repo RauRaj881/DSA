@@ -7,11 +7,11 @@ public:
             int mid=(low+high)/2;
             if(nums[mid]==tar){return mid;}
             if(nums[low]<=nums[mid]){
-                if(tar>=nums[low]&&tar<=nums[mid]){high=mid;}
+                if(tar>=nums[low]&&tar<=nums[mid]){high=mid-1;}
                 else{low=mid+1;}
             }
             else{
-                if(nums[mid]<=tar&&nums[high]>=tar){low=mid+1;}
+                if(nums[mid]<tar&&nums[high]>=tar){low=mid+1;}
                 else{high=mid-1;}
             }
         }
