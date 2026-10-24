@@ -17,7 +17,7 @@ int f(TreeNode* rt){
     int ltvl=f(rt->left);
     int rtvl=f(rt->right);
     ans=max(ans,max(0,ltvl)+max(0,rtvl)+rt->val);
-    return rt->val+max(max(0,rtvl),max(0,ltvl));
+    return rt->val+max({rtvl,ltvl,0});
 }
     int maxPathSum(TreeNode* rt){
         f(rt);
