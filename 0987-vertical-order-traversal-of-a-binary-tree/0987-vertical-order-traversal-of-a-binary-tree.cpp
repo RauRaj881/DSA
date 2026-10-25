@@ -16,13 +16,13 @@ public:
         queue<pair<pair<int,int>,TreeNode*>> q;
         q.push({{0,0},rt});
         while(!q.empty()){
-            int x=q.front().first.first;
-            int y=q.front().first.second;
+            int y=q.front().first.first;
+            int x=q.front().first.second;
             TreeNode* nd=q.front().second;
             q.pop();
-            mp[x][y].insert(nd->val);
-            if(nd->left!=nullptr){q.push({{x-1,y+1},nd->left});}
-            if(nd->right!=nullptr){q.push({{x+1,y+1},nd->right});}
+            mp[y][x].insert(nd->val);
+            if(nd->left!=nullptr){q.push({{y-1,x+1},nd->left});}
+            if(nd->right!=nullptr){q.push({{y+1,x+1},nd->right});}
         }
 
         vector<vector<int>> ans;
