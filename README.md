@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/RauRaj881/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/RauRaj881/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/RauRaj881/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/RauRaj881/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RauRaj881/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/RauRaj881/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/RauRaj881/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RauRaj881/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0794-swim-in-rising-water) |
+| [0973-k-closest-points-to-origin](https://github.com/RauRaj881/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/RauRaj881/DSA/tree/master/1184-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RauRaj881/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/RauRaj881/DSA/tree/master/1612-avoid-flood-in-the-city) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/RauRaj881/DSA/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RauRaj881/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RauRaj881/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0973-k-closest-points-to-origin](https://github.com/RauRaj881/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1041-robot-bounded-in-circle](https://github.com/RauRaj881/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/RauRaj881/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RauRaj881/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1266,6 +1269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/RauRaj881/DSA/tree/master/0881-boats-to-save-people) |
 | [0923-3sum-with-multiplicity](https://github.com/RauRaj881/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [0937-reorder-data-in-log-files](https://github.com/RauRaj881/DSA/tree/master/0937-reorder-data-in-log-files) |
+| [0973-k-closest-points-to-origin](https://github.com/RauRaj881/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RauRaj881/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/RauRaj881/DSA/tree/master/1048-longest-string-chain) |
 | [1129-longest-string-chain](https://github.com/RauRaj881/DSA/tree/master/1129-longest-string-chain) |
@@ -1629,6 +1633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RauRaj881/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/RauRaj881/DSA/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RauRaj881/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/RauRaj881/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/RauRaj881/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/RauRaj881/DSA/tree/master/4045-longest-balanced-subarray-i) |
 ## Counting Sort
@@ -1717,6 +1722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/RauRaj881/DSA/tree/master/0149-max-points-on-a-line) |
+| [0973-k-closest-points-to-origin](https://github.com/RauRaj881/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3623-count-number-of-trapezoids-i](https://github.com/RauRaj881/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 ## Brainteaser
 |  |
@@ -1739,6 +1745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RauRaj881/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/RauRaj881/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/RauRaj881/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -2146,4 +2153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/RauRaj881/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/RauRaj881/DSA/tree/master/1092-shortest-common-supersequence) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/RauRaj881/DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
