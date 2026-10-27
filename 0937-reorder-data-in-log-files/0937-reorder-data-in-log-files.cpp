@@ -10,7 +10,6 @@ static bool cmp(string &a,string &b){
 }
     vector<string> reorderLogFiles(vector<string>& logs){
         int n=logs.size();
-        vector<string> ans;
         vector<string> letters;
         vector<string> digits;
         for(int i=0;i<n;i++){
@@ -23,12 +22,9 @@ static bool cmp(string &a,string &b){
             }
         }
         sort(letters.begin(),letters.end(),cmp);
-        for(auto it:letters){
-            ans.push_back(it);
-        }
         for(auto it:digits){
-            ans.push_back(it);
+            letters.push_back(it);
         }
-        return ans;
+        return letters;
     }
 };
