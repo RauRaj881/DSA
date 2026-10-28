@@ -905,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/RauRaj881/DSA/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RauRaj881/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/RauRaj881/DSA/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/RauRaj881/DSA/tree/master/0763-partition-labels) |
 | [0792-number-of-matching-subsequences](https://github.com/RauRaj881/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/RauRaj881/DSA/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/RauRaj881/DSA/tree/master/0819-most-common-word) |
@@ -1085,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/RauRaj881/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/RauRaj881/DSA/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/RauRaj881/DSA/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/RauRaj881/DSA/tree/master/0763-partition-labels) |
 | [0792-number-of-matching-subsequences](https://github.com/RauRaj881/DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0819-most-common-word](https://github.com/RauRaj881/DSA/tree/master/0819-most-common-word) |
 | [0839-similar-string-groups](https://github.com/RauRaj881/DSA/tree/master/0839-similar-string-groups) |
@@ -1180,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/RauRaj881/DSA/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/RauRaj881/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RauRaj881/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/RauRaj881/DSA/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/RauRaj881/DSA/tree/master/0846-hand-of-straights) |
 | [0853-most-profit-assigning-work](https://github.com/RauRaj881/DSA/tree/master/0853-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/RauRaj881/DSA/tree/master/0881-boats-to-save-people) |
@@ -1355,6 +1358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/RauRaj881/DSA/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/RauRaj881/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/RauRaj881/DSA/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/RauRaj881/DSA/tree/master/0763-partition-labels) |
 | [0853-most-profit-assigning-work](https://github.com/RauRaj881/DSA/tree/master/0853-most-profit-assigning-work) |
 | [0876-middle-of-the-linked-list](https://github.com/RauRaj881/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/RauRaj881/DSA/tree/master/0881-boats-to-save-people) |
