@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/RauRaj881/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/RauRaj881/DSA/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RauRaj881/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/RauRaj881/DSA/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0691-stickers-to-spell-word](https://github.com/RauRaj881/DSA/tree/master/0691-stickers-to-spell-word) |
 | [0695-max-area-of-island](https://github.com/RauRaj881/DSA/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/RauRaj881/DSA/tree/master/0705-design-hashset) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/RauRaj881/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RauRaj881/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RauRaj881/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/RauRaj881/DSA/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0695-max-area-of-island](https://github.com/RauRaj881/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/RauRaj881/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RauRaj881/DSA/tree/master/0733-flood-fill) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/RauRaj881/DSA/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/RauRaj881/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/RauRaj881/DSA/tree/master/0658-find-k-closest-elements) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/RauRaj881/DSA/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RauRaj881/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/RauRaj881/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0778-swim-in-rising-water) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/RauRaj881/DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RauRaj881/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/RauRaj881/DSA/tree/master/0542-01-matrix) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/RauRaj881/DSA/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0695-max-area-of-island](https://github.com/RauRaj881/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RauRaj881/DSA/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/RauRaj881/DSA/tree/master/0778-swim-in-rising-water) |
