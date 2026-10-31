@@ -2066,6 +2066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RauRaj881/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/RauRaj881/DSA/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/RauRaj881/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/RauRaj881/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Bipartite Graph
 |  |
