@@ -12,12 +12,12 @@
 class Solution {
 public:
 TreeNode* prev=nullptr;
-    void flatten(TreeNode* rt){
-        if(!rt){return;}
-        flatten(rt->right);
-        flatten(rt->left);
-        rt->right=prev;
-        rt->left=nullptr;
-        prev=rt;
+    void flatten(TreeNode* root){
+        if(!root){return;}
+        flatten(root->right);
+        flatten(root->left);
+        root->right=prev;
+        root->left=nullptr;
+        prev=root;
     }
 };
