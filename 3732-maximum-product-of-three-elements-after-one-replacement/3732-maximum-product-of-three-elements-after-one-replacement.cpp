@@ -11,7 +11,7 @@ public:
             if(it<mn1){mn2=mn1;mn1=it;}
             else if(it<mn2){mn2=it;}
         }
-        long long ans = max({1LL*mx1 * mx2 * mx3, 1LL*mx1 * mn1 * mn2, 100000LL * mx1 * mx2, -100000LL * mn1 * mx1,100000LL*mn1*mn2});
+        long long ans = max({1LL*mx1 * mx2 * mx3,100000LL * mx1 * mx2, -100000LL * mn1 * mx1,100000LL*mn1*mn2});
         return ans;
     }
 };
