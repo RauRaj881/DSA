@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/RauRaj881/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RauRaj881/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/RauRaj881/DSA/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/RauRaj881/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/RauRaj881/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RauRaj881/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-weighted-word-mapping](https://github.com/RauRaj881/DSA/tree/master/3838-weighted-word-mapping) |
@@ -722,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RauRaj881/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/RauRaj881/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/RauRaj881/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/RauRaj881/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/RauRaj881/DSA/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/RauRaj881/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/RauRaj881/DSA/tree/master/3830-find-closest-person) |
@@ -1224,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/RauRaj881/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3689-maximum-total-subarray-value-i](https://github.com/RauRaj881/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RauRaj881/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/RauRaj881/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RauRaj881/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [4005-maximum-total-subarray-value-i](https://github.com/RauRaj881/DSA/tree/master/4005-maximum-total-subarray-value-i) |
 ## Recursion
@@ -1324,6 +1327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/RauRaj881/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/RauRaj881/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/RauRaj881/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/RauRaj881/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Two Pointers
 |  |
 | ------- |
