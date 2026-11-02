@@ -11,19 +11,19 @@
  */
 class Solution {
 public:
-vector<int> v;
-void f(TreeNode* rt){
-    if(!rt){return;}
-    f(rt->left);
-    v.push_back(rt->val);
-    f(rt->right);
+vector<int> inorder;
+void solve(TreeNode* root){
+    if(!root){return;}
+    solve(root->left);
+    inorder.push_back(root->val);
+    solve(root->right);
 }
-    bool findTarget(TreeNode* rt, int k){
-        f(rt);
-        int i=0,j=v.size()-1;
+    bool findTarget(TreeNode* root, int k){
+        solve(root);
+        int i=0,j=inorder.size()-1;
         while(i<j){
-            if(v[i]+v[j]==k){return true;}
-            else if(v[i]+v[j]>k){j--;}
+            if(inorder[i]+inorder[j]==k){return true;}
+            else if(inorder[i]+inorder[j]>k){j--;}
             else{i++;}
         }
         return false;
