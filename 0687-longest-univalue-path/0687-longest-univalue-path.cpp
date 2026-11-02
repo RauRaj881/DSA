@@ -23,7 +23,6 @@ int dfs(TreeNode* root){
     return max(x1,x2);
 }
     int longestUnivaluePath(TreeNode* root){
-        if(!root){return 0;}
         dfs(root);
         return mx;
     }
