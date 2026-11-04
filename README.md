@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RauRaj881/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/RauRaj881/DSA/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/RauRaj881/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0321-create-maximum-number](https://github.com/RauRaj881/DSA/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/RauRaj881/DSA/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/RauRaj881/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/RauRaj881/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -1184,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RauRaj881/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/RauRaj881/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/RauRaj881/DSA/tree/master/0135-candy) |
+| [0321-create-maximum-number](https://github.com/RauRaj881/DSA/tree/master/0321-create-maximum-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/RauRaj881/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/RauRaj881/DSA/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/RauRaj881/DSA/tree/master/0402-remove-k-digits) |
@@ -1364,6 +1366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RauRaj881/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RauRaj881/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/RauRaj881/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0321-create-maximum-number](https://github.com/RauRaj881/DSA/tree/master/0321-create-maximum-number) |
 | [0392-is-subsequence](https://github.com/RauRaj881/DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/RauRaj881/DSA/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/RauRaj881/DSA/tree/master/0556-next-greater-element-iii) |
@@ -1435,6 +1438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/RauRaj881/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RauRaj881/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/RauRaj881/DSA/tree/master/0234-palindrome-linked-list) |
+| [0321-create-maximum-number](https://github.com/RauRaj881/DSA/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/RauRaj881/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RauRaj881/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RauRaj881/DSA/tree/master/0503-next-greater-element-ii) |
@@ -1462,6 +1466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RauRaj881/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RauRaj881/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RauRaj881/DSA/tree/master/0085-maximal-rectangle) |
+| [0321-create-maximum-number](https://github.com/RauRaj881/DSA/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/RauRaj881/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RauRaj881/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RauRaj881/DSA/tree/master/0503-next-greater-element-ii) |
