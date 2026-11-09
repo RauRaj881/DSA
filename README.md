@@ -1720,6 +1720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RauRaj881/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0705-design-hashset](https://github.com/RauRaj881/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/RauRaj881/DSA/tree/master/0706-design-hashmap) |
+| [0725-split-linked-list-in-parts](https://github.com/RauRaj881/DSA/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/RauRaj881/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RauRaj881/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RauRaj881/DSA/tree/master/2573-remove-nodes-from-linked-list) |
