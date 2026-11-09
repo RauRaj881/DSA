@@ -787,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/RauRaj881/DSA/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/RauRaj881/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RauRaj881/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/RauRaj881/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0691-stickers-to-spell-word](https://github.com/RauRaj881/DSA/tree/master/0691-stickers-to-spell-word) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RauRaj881/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RauRaj881/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -911,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/RauRaj881/DSA/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/RauRaj881/DSA/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/RauRaj881/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/RauRaj881/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/RauRaj881/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/RauRaj881/DSA/tree/master/0686-repeated-string-match) |
 | [0691-stickers-to-spell-word](https://github.com/RauRaj881/DSA/tree/master/0691-stickers-to-spell-word) |
@@ -1195,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RauRaj881/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/RauRaj881/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/RauRaj881/DSA/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/RauRaj881/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/RauRaj881/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RauRaj881/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/RauRaj881/DSA/tree/master/0763-partition-labels) |
@@ -1445,6 +1448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/RauRaj881/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RauRaj881/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RauRaj881/DSA/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/RauRaj881/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/RauRaj881/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RauRaj881/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/RauRaj881/DSA/tree/master/0901-online-stock-span) |
@@ -2124,6 +2128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RauRaj881/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RauRaj881/DSA/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/RauRaj881/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RauRaj881/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RauRaj881/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tournament Sort
