@@ -17,7 +17,7 @@ public:
                 if(down>peak){ans++;}
             }
             else{
-                down=0;up=0;ans++;
+                down=0;up=0;peak=0;ans++;
             }
         }
         return ans;
