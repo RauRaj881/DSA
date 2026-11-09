@@ -1,18 +1,15 @@
 class Solution {
 public:
-    bool checkValidString(string s) {
-        int min=0,max=0;
-        if(s.size()==1 && s[0]!='*'){return 0;}
-        for(int i=0;i<s.size();i++){
-            if(s[i]=='('){min++;max++;}
-            else if(s[i]==')'){min--;max--;}
-            else{
-                min--;
-                max++;
-            }
-            if(min<0){min=0;}
-            if(max<0){return 0;}
+    bool checkValidString(string s){
+        int n=s.size();
+        int minOpen=0,maxOpen=0;
+        for(auto it:s){
+            if(it=='('){minOpen++;maxOpen++;}
+            else if(it==')'){minOpen--;maxOpen--;}
+            else{minOpen--;maxOpen++;}
+            if(minOpen<0){minOpen=0;}
+            if(maxOpen<0){return false;}
         }
-        return min==0;
+        return minOpen==0;
     }
 };
