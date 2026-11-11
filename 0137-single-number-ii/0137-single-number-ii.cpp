@@ -2,11 +2,14 @@ class Solution {
 public:
     int singleNumber(vector<int>& nums){
         int n=nums.size();
-        int ones=0,twos=0;
-        for(int i=0;i<n;i++){
-            ones=(ones^nums[i])&(~twos);
-            twos=(twos^nums[i])&(~ones);
+        int ans=0;
+        for(int i=0;i<32;i++){
+            int cnt=0;
+            for(auto it:nums){
+                if(((1<<i)&it)!=0){cnt++;}
+            }
+            if((cnt%3)!=0){ans|=(1<<i);}
         }
-        return ones;
+        return ans;
     }
 };
