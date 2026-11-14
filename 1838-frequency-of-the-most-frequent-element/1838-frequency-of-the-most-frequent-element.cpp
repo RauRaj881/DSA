@@ -9,15 +9,15 @@ public:
         for(int i=1;i<n;i++){
             sumtill[i]=nums[i]+sumtill[i-1];
         }
-        int l=0,r=0;
+        int l=0;
         int ans=0;
-        while(r<n){
+        for(int r=0;r<n;r++){
             long long diff=(ll)(r-l+1)*nums[r]-(sumtill[r]-(l>0?sumtill[l-1]:0));
-            if(diff<=k){
-                ans=max(ans,r-l+1);
-                r++;
+            while(l<r&&diff>k){
+                diff-=nums[l];
+                l++;
             }
-            else{l++;}
+            ans=max(ans,r-l+1);
         }
         return ans;
     }
