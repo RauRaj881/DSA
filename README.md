@@ -968,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/RauRaj881/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1987-number-of-unique-good-subsequences](https://github.com/RauRaj881/DSA/tree/master/1987-number-of-unique-good-subsequences) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/RauRaj881/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/RauRaj881/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RauRaj881/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RauRaj881/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/RauRaj881/DSA/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
