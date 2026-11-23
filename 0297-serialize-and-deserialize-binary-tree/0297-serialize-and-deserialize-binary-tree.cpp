@@ -9,19 +9,22 @@
  */
 class Codec {
 public:
-    string serialize(TreeNode* rt){
-        if(!rt){return "";}
+
+    // Encodes a tree to a single string.
+    string serialize(TreeNode* root){
+        if(!root){return "";}
         string s="";
         queue<TreeNode*> q;
-        TreeNode* tp=rt;
-        q.push(tp);
+        q.push(root);
         while(!q.empty()){
-            TreeNode* cr=q.front();
+            TreeNode* curr=q.front();
             q.pop();
-            if(cr){
-                s+=to_string(cr->val)+',';
-                q.push(cr->left);
-                q.push(cr->right);
+            if(curr){
+                int vl=curr->val;
+                s+=to_string(vl);
+                s+=",";
+                q.push(curr->left);
+                q.push(curr->right);
             }
             else{
                 s+="#,";
@@ -29,32 +32,31 @@ public:
         }
         return s;
     }
+
     // Decodes your encoded data to tree.
     TreeNode* deserialize(string data){
-        if (data.empty()) return nullptr;
+        if(data.empty()){return nullptr;}
         stringstream s(data);
         string str;
         getline(s,str,',');
-        TreeNode* rt=new TreeNode(stoi(str));
+        TreeNode* root=new TreeNode(stoi(str));
         queue<TreeNode*> q;
-        q.push(rt);
+        q.push(root);
         while(!q.empty()){
-            TreeNode* cr=q.front();
+            TreeNode* curr=q.front();
             q.pop();
             getline(s,str,',');
             if(str!="#"){
-                TreeNode* lt=new TreeNode(stoi(str));
-                cr->left=lt;
-                q.push(lt);
+                curr->left=new TreeNode(stoi(str));
+                q.push(curr->left);
             }
             getline(s,str,',');
             if(str!="#"){
-                TreeNode* rgt=new TreeNode(stoi(str));
-                cr->right=rgt;
-                q.push(rgt);
+                curr->right=new TreeNode(stoi(str));
+                q.push(curr->right);
             }
         }
-        return rt;
+        return root;
     }
 };
 
