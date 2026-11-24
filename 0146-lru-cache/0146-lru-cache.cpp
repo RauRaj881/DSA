@@ -23,7 +23,7 @@ int sz=0;
             dll.erase(it);
         }
         dll.push_front({key,val});
-        mp[key]=dll.begin();
+        //mp[key]=dll.begin();
         if(dll.size()>sz){
             auto it=prev(dll.end());
             int lt=it->first;
