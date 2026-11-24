@@ -11,16 +11,16 @@
  */
 class Solution {
 public:
-pair<int,int> dfs(TreeNode* root){
+pair<int,int> f(TreeNode* root){
     if(!root){return {0,0};}
-    pair<int,int> left=dfs(root->left);
-    pair<int,int> right=dfs(root->right);
-    int robcurrent=root->val+left.second+right.second;
-    int skipcurrent=max(left.first,left.second)+max(right.first,right.second);
+    pair<int,int> left_subtree=f(root->left);
+    pair<int,int> right_subtree=f(root->right);
+    int robcurrent=root->val+left_subtree.second+right_subtree.second;
+    int skipcurrent=max(left_subtree.second,left_subtree.first)+max(right_subtree.second,right_subtree.first);
     return {robcurrent,skipcurrent};
 }
     int rob(TreeNode* root){
-        pair<int,int> result=dfs(root);
+        pair<int,int> result=f(root);
         return max(result.first,result.second);
     }
 };
