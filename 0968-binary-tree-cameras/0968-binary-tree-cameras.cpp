@@ -14,11 +14,11 @@ public:
 int cameras=0;
 int dfs(TreeNode* root){
     if(!root){return 2;}
-    int left=dfs(root->left);
-    int right=dfs(root->right);
-    if(left==0||right==0){cameras++;return 1;}
-    else if(left==1||right==1){return 2;}
-    return 0;
+    int left_child=dfs(root->left);
+    int right_child=dfs(root->right);
+    if(left_child==0||right_child==0){cameras++;return 1;}
+    else if(left_child==1||right_child==1){return 2;}
+    else{return 0;}
 }
     int minCameraCover(TreeNode* root){
         if(dfs(root)==0){cameras++;}
